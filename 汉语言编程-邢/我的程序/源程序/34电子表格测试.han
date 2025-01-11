@@ -1,0 +1,94 @@
+﻿Library MemoryTable
+t:Subs x:430 y:1008 d:Drag1_Subs
+Insert
+t:Setup x:447 y:993 d:Drag63_Setup
+Insert
+t:Let x:464 y:943 d:Drag64_Let
+Slot
+t:Reference v:(s)QQBBAA== x:494 y:898 d:Drag65_Reference
+t:LoadTable x:594 y:938 d:Drag66_LoadTable
+Slot
+t:StringValue v:(s)MwAxAC4AeABsAHMAeAA= x:741 y:933 d:Drag67_StringValue
+t:StringValue v:(s)UwBoAGUAZQB0ADEA x:652 y:898 d:Drag68_StringValue
+t:StringValue v:(s)QQAxAA== x:794 y:898 d:Drag69_StringValue
+t:Value v:(n)5 x:638 y:863 d:Drag70_Value
+t:Value v:(n)3 x:730 y:863 d:Drag71_Value
+EndSlot
+EndSlot
+t:Print x:464 y:813 d:Drag72_Print
+Slot
+t:Reference v:(s)QQBBAA== x:508 y:808 d:Drag73_Reference
+EndSlot
+t:ForEach v:(o) x:464 y:763 d:Drag74_ForEach
+Slot
+t:Reference v:(s)QQBBAA== x:570 y:758 d:Drag75_Reference
+t:LocalReference v:(s)QQA= x:712 y:758 d:Drag76_LocalReference
+EndSlot
+Insert
+t:Let v:(o) x:481 y:713 d:Drag77_Let
+Slot
+t:Group v:(o) x:511 y:708 d:Drag78_Group
+Insert
+t:LocalReference v:(s)j173Uw== x:528 y:658 d:Drag79_LocalReference
+t:LocalReference v:(s)PFA= x:528 y:618 d:Drag80_LocalReference
+t:LocalReference v:(s)jE5DUVdbJnsyTg== x:528 y:578 d:Drag81_LocalReference
+EndInsert
+t:LocalReference v:(s)QQA= x:694 y:635.5 d:Drag82_LocalReference
+EndSlot
+t:Let v:(o) x:481 y:518 d:Drag83_Let
+Slot
+t:LocalReference v:(s)jE5DUQ== x:511 y:508 d:Drag84_LocalReference
+t:V2Parse x:621 y:513 d:Drag85_V2Parse
+Slot
+t:LocalReference v:(s)jE5DUVdbJnsyTg== x:679 y:508 d:Drag86_LocalReference
+EndSlot
+EndSlot
+t:Let v:(o) x:481 y:458 d:Drag87_Let
+Slot
+t:V2X v:(o) x:511 y:448 d:Drag88_V2X
+Slot
+t:LocalReference v:(s)jE5DUQ== x:583 y:443 d:Drag89_LocalReference
+EndSlot
+t:Multiply v:(o) x:748 y:453 d:Drag90_Multiply
+Slot
+t:V2X v:(o) x:760 y:448 d:Drag91_V2X
+Slot
+t:LocalReference v:(s)jE5DUQ== x:832 y:443 d:Drag92_LocalReference
+EndSlot
+t:Value v:(n)5 x:985 y:443 d:Drag93_Value
+EndSlot
+EndSlot
+t:DrawRectangle x:481 y:388 d:Drag94_DrawRectangle
+Slot
+t:LocalReference v:(s)jE5DUQ== x:553 y:373 d:Drag95_LocalReference
+t:V2MultiplyN x:663 y:383 d:Drag96_V2MultiplyN
+Slot
+t:Tuple2 x:675 y:378 d:Drag97_Tuple2
+Slot
+t:LocalReference v:(s)j173Uw== x:747 y:373 d:Drag98_LocalReference
+t:LocalReference v:(s)j173Uw== x:825 y:373 d:Drag99_LocalReference
+EndSlot
+t:Value v:(n)10 x:961 y:373 d:Drag100_Value
+EndSlot
+t:Value v:(n)1 x:525 y:328 d:Drag101_Value
+t:Palette x:617 y:328 d:Drag102_Palette v:(c)(28,50,255,255)
+EndSlot
+EndInsert
+t:Input x:464 y:268 d:Drag105_Input
+Slot
+t:StringValue v:(s)h2X2Tg1U x:508 y:263 d:Drag106_StringValue
+t:Reference v:(s)h2X2Tg1U x:632 y:263 d:Drag107_Reference
+EndSlot
+t:Input x:464 y:218 d:Drag108_Input
+Slot
+t:StringValue v:(s)aIg8aA1U x:508 y:213 d:Drag109_StringValue
+t:Reference v:(s)aIg8aA1U x:632 y:213 d:Drag110_Reference
+EndSlot
+t:SaveTable x:464 y:168 d:Drag103_SaveTable
+Slot
+t:Reference v:(s)QQBBAA== x:597 y:163 d:Drag104_Reference
+t:Reference v:(s)h2X2Tg1U x:522 y:128 d:Drag111_Reference
+t:Reference v:(s)aIg8aA1U x:660 y:128 d:Drag112_Reference
+EndSlot
+EndInsert
+EndInsert

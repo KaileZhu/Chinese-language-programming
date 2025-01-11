@@ -1,0 +1,83 @@
+﻿t:Subs x:430 y:987 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:972 d:Drag3_Setup
+Insert
+t:CreateLabel v:(o) x:464 y:922 d:Drag4_CreateLabel
+Slot
+t:StringValue v:(s)B2h+ew== x:597 y:917 d:Drag5_StringValue
+t:Tuple2 v:(o) x:508 y:882 d:Drag6_Tuple2
+Slot
+t:Value v:(n)0 x:580 y:877 d:Drag7_Value
+t:Value v:(n)0 x:640 y:877 d:Drag8_Value
+EndSlot
+t:Tuple2 v:(o) x:746 y:882 d:Drag9_Tuple2
+Slot
+t:Value v:(n)100 x:818 y:877 d:Drag10_Value
+t:Value v:(n)100 x:892 y:877 d:Drag11_Value
+EndSlot
+t:Palette x:536 y:837 d:Drag12_Palette v:(c)(226,18,250,106)
+t:Align x:755 y:837 d:Drag13_Align v:(n)4
+t:StringValue v:(s)MQAyADMA x:536 y:802 d:Drag14_StringValue
+EndSlot
+t:Let v:(o) x:464 y:757 d:Drag15_Let
+Slot
+t:Reference v:(s)+3moUp9T9k4= x:494 y:752 d:Drag16_Reference
+t:Value v:(n)0 x:632 y:752 d:Drag17_Value
+EndSlot
+t:HandleMouseDown v:(o) x:464 y:707 d:Drag18_HandleMouseDown
+Slot
+t:StringValue v:(s)B2h+ew== x:550 y:702 d:Drag19_StringValue
+t:Sub v:(s)QQAxAA== x:508 y:667 d:Drag20_Sub
+Slot
+t:LocalReference v:(s)QQA= x:641 y:662 d:Drag21_LocalReference
+EndSlot
+Insert
+t:Let v:(o) x:525 y:617 d:Drag22_Let
+Slot
+t:Reference v:(s)+3moUp9T9k4= x:555 y:612 d:Drag23_Reference
+t:Value v:(n)1 x:693 y:612 d:Drag24_Value
+EndSlot
+EndInsert
+EndSlot
+t:HandleMouseUp v:(o) x:464 y:547 d:Drag25_HandleMouseUp
+Slot
+t:StringValue v:(s)B2h+ew== x:550 y:542 d:Drag26_StringValue
+t:Sub v:(s)QQAyAA== x:508 y:507 d:Drag27_Sub
+Slot
+t:LocalReference v:(s)QQA= x:641 y:502 d:Drag28_LocalReference
+EndSlot
+Insert
+t:Let v:(o) x:525 y:457 d:Drag29_Let
+Slot
+t:Reference v:(s)+3moUp9T9k4= x:555 y:452 d:Drag30_Reference
+t:Value v:(n)0 x:693 y:452 d:Drag31_Value
+EndSlot
+EndInsert
+EndSlot
+t:While v:(o) x:464 y:387 d:Drag32_While
+Slot
+t:Value v:(n)1 x:528 y:382 d:Drag33_Value
+EndSlot
+Insert
+t:If v:(o) x:481 y:337 d:Drag34_If
+Slot
+t:Equal v:(o) x:559 y:332 d:Drag35_Equal
+Slot
+t:Reference v:(s)+3moUp9T9k4= x:571 y:327 d:Drag36_Reference
+t:Value v:(n)1 x:695 y:327 d:Drag37_Value
+EndSlot
+EndSlot
+Insert
+t:SetControlPosition v:(o) x:498 y:277 d:Drag38_SetControlPosition
+Slot
+t:StringValue v:(s)B2h+ew== x:570 y:267 d:Drag39_StringValue
+t:MousePosition v:(o) x:680 y:272 d:Drag40_MousePosition
+EndSlot
+EndInsert
+t:Delay v:(o) x:481 y:202 d:Drag41_Delay
+Slot
+t:Value v:(n)0.01 x:525 y:197 d:Drag42_Value
+EndSlot
+EndInsert
+EndInsert
+EndInsert

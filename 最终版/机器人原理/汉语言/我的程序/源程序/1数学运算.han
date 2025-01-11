@@ -1,0 +1,156 @@
+﻿t:Subs x:430 y:987 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:972 d:Drag3_Setup
+Insert
+t:Print v:(o) x:464 y:922 d:Drag56_Print
+Slot
+t:DevideInt x:508 y:917 d:Drag57_DevideInt
+Slot
+t:Value v:(n)10000000000 x:520 y:912 d:Drag58_Value
+t:Value v:(n)12345678 x:682 y:912 d:Drag59_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:862 d:Drag60_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:857 d:Drag61_StringValue
+EndSlot
+t:Print v:(o) x:464 y:812 d:Drag4_Print
+Slot
+t:Devide v:(o) x:508 y:807 d:Drag5_Devide
+Slot
+t:Value v:(n)20 x:520 y:802 d:Drag6_Value
+t:Value v:(n)4 x:606 y:802 d:Drag7_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:752 d:Drag8_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:747 d:Drag9_StringValue
+EndSlot
+t:Print v:(o) x:464 y:702 d:Drag10_Print
+Slot
+t:Devide v:(o) x:508 y:697 d:Drag11_Devide
+Slot
+t:Value v:(n)62 x:520 y:692 d:Drag12_Value
+t:Value v:(n)3 x:606 y:692 d:Drag13_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:642 d:Drag14_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:637 d:Drag15_StringValue
+EndSlot
+t:Print v:(o) x:464 y:592 d:Drag16_Print
+Slot
+t:Devide v:(o) x:508 y:587 d:Drag17_Devide
+Slot
+t:Value v:(n)121 x:520 y:582 d:Drag18_Value
+t:Value v:(n)0 x:614 y:582 d:Drag19_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:532 d:Drag20_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:527 d:Drag21_StringValue
+EndSlot
+t:Print v:(o) x:464 y:482 d:Drag22_Print
+Slot
+t:Devide v:(o) x:508 y:477 d:Drag23_Devide
+Slot
+t:Value v:(n)2.3213212 x:520 y:472 d:Drag24_Value
+t:Value v:(n)1.1234567 x:658 y:472 d:Drag25_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:422 d:Drag26_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:417 d:Drag27_StringValue
+EndSlot
+t:Print v:(o) x:464 y:372 d:Drag28_Print
+Slot
+t:Multiply x:508 y:367 d:Drag29_Multiply
+Slot
+t:Value v:(n)3 x:520 y:362 d:Drag30_Value
+t:Value v:(n)7 x:600 y:362 d:Drag31_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:312 d:Drag32_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:307 d:Drag33_StringValue
+EndSlot
+t:Print v:(o) x:464 y:262 d:Drag34_Print
+Slot
+t:Multiply x:508 y:257 d:Drag35_Multiply
+Slot
+t:Value v:(n)0.1234567 x:520 y:252 d:Drag36_Value
+t:Value v:(n)28.11111 x:658 y:252 d:Drag37_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:202 d:Drag38_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:197 d:Drag39_StringValue
+EndSlot
+t:Print v:(o) x:464 y:152 d:Drag40_Print
+Slot
+t:Multiply x:508 y:147 d:Drag41_Multiply
+Slot
+t:Value v:(n)-10000000000 x:520 y:142 d:Drag42_Value
+t:Value v:(n)12345678 x:684 y:142 d:Drag43_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:92 d:Drag44_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:87 d:Drag45_StringValue
+EndSlot
+t:Print v:(o) x:464 y:42 d:Drag46_Print
+Slot
+t:Square x:508 y:37 d:Drag47_Square
+Slot
+t:Value v:(n)12 x:520 y:32 d:Drag48_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:-18 d:Drag49_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:-23 d:Drag50_StringValue
+EndSlot
+t:Print v:(o) x:464 y:-68 d:Drag51_Print
+Slot
+t:Square x:508 y:-73 d:Drag52_Square
+Slot
+t:Value v:(n)10000000000 x:520 y:-78 d:Drag53_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:-128 d:Drag54_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:-133 d:Drag55_StringValue
+EndSlot
+t:Print v:(o) x:464 y:-178 d:Drag62_Print
+Slot
+t:DevideInt x:508 y:-183 d:Drag63_DevideInt
+Slot
+t:Value v:(n)10000000000 x:520 y:-188 d:Drag64_Value
+t:Value v:(n)0.002 x:682 y:-188 d:Drag65_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:-238 d:Drag66_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:-243 d:Drag67_StringValue
+EndSlot
+t:Print v:(o) x:464 y:-288 d:Drag68_Print
+Slot
+t:Power x:508 y:-293 d:Drag69_Power
+Slot
+t:Value v:(n)15 x:520 y:-298 d:Drag70_Value
+t:Value v:(n)3 x:610 y:-298 d:Drag71_Value
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:-348 d:Drag72_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:-353 d:Drag73_StringValue
+EndSlot
+t:Print v:(o) x:464 y:-398 d:Drag74_Print
+Slot
+t:Power x:508 y:-403 d:Drag75_Power
+Slot
+t:Value v:(n)144 x:520 y:-408 d:Drag76_Value
+t:Value v:(n)0.5 x:618 y:-408 d:Drag77_Value
+EndSlot
+EndSlot
+EndInsert
+EndInsert

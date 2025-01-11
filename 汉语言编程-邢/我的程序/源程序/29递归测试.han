@@ -1,0 +1,93 @@
+﻿t:Subs x:430 y:830 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:815 d:Drag155_Setup
+Insert
+t:Let v:(o) x:464 y:765 d:Drag156_Let
+Slot
+t:Reference v:(s)fGmvaDtgZWtwZQ== x:494 y:760 d:Drag157_Reference
+t:Value v:(n)10 x:646 y:760 d:Drag158_Value
+EndSlot
+t:CallSub v:(o) x:464 y:715 d:Drag159_CallSub
+Slot
+t:StringValue v:(s)cI0= x:550 y:710 d:Drag160_StringValue
+t:Value v:(n)1 x:614 y:710 d:Drag161_Value
+EndSlot
+t:CallSub v:(o) x:464 y:665 d:Drag162_CallSub
+Slot
+t:StringValue v:(s)cI0= x:550 y:660 d:Drag163_StringValue
+t:Value v:(n)2 x:614 y:660 d:Drag164_Value
+EndSlot
+EndInsert
+t:Sub v:(s)cI0= x:447 y:600 d:Drag165_Sub
+Slot
+t:LocalReference v:(s)ZWs= x:577 y:595 d:Drag166_LocalReference
+EndSlot
+Insert
+t:GroupAdd v:(o) x:464 y:550 d:Drag167_GroupAdd
+Slot
+t:Reference v:(s)8l1wjWVrcGU= x:522 y:545 d:Drag168_Reference
+t:LocalReference v:(s)ZWs= x:660 y:545 d:Drag169_LocalReference
+EndSlot
+t:Let v:(o) x:464 y:500 d:Drag170_Let
+Slot
+t:LocalReference v:(s)U19NUkyIC3o= x:494 y:490 d:Drag171_LocalReference
+t:Sum v:(o) x:632 y:495 d:Drag172_Sum
+Slot
+t:Reference v:(s)8l1wjWVrcGU= x:690 y:490 d:Drag173_Reference
+EndSlot
+EndSlot
+t:If v:(o) x:464 y:440 d:Drag174_If
+Slot
+t:Equal v:(o) x:542 y:435 d:Drag175_Equal
+Slot
+t:LocalReference v:(s)U19NUkyIC3o= x:554 y:430 d:Drag176_LocalReference
+t:Reference v:(s)fGmvaDtgZWtwZQ== x:678 y:430 d:Drag177_Reference
+EndSlot
+EndSlot
+Insert
+t:Print x:481 y:380 d:Drag178_Print
+Slot
+t:Reference v:(s)8l1wjWVrcGU= x:525 y:375 d:Drag179_Reference
+EndSlot
+EndInsert
+t:ElseIf v:(o) x:464 y:315 d:Drag180_ElseIf
+Slot
+t:Less v:(o) x:570 y:310 d:Drag181_Less
+Slot
+t:LocalReference v:(s)U19NUkyIC3o= x:582 y:305 d:Drag182_LocalReference
+t:Reference v:(s)fGmvaDtgZWtwZQ== x:706 y:305 d:Drag183_Reference
+EndSlot
+EndSlot
+Insert
+t:CallSub v:(o) x:481 y:255 d:Drag184_CallSub
+Slot
+t:StringValue v:(s)cI0= x:567 y:250 d:Drag185_StringValue
+t:Value v:(n)1 x:631 y:250 d:Drag186_Value
+EndSlot
+t:If v:(o) x:481 y:205 d:Drag187_If
+Slot
+t:Less v:(o) x:559 y:200 d:Drag188_Less
+Slot
+t:Add v:(o) x:571 y:195 d:Drag189_Add
+Slot
+t:LocalReference v:(s)U19NUkyIC3o= x:583 y:190 d:Drag190_LocalReference
+t:Value v:(n)1 x:707 y:190 d:Drag191_Value
+EndSlot
+t:Reference v:(s)fGmvaDtgZWtwZQ== x:799 y:190 d:Drag192_Reference
+EndSlot
+EndSlot
+Insert
+t:CallSub v:(o) x:498 y:135 d:Drag193_CallSub
+Slot
+t:StringValue v:(s)cI0= x:584 y:130 d:Drag194_StringValue
+t:Value v:(n)2 x:648 y:130 d:Drag195_Value
+EndSlot
+EndInsert
+EndInsert
+t:GroupRemoveAt v:(o) x:464 y:55 d:Drag196_GroupRemoveAt
+Slot
+t:Reference v:(s)8l1wjWVrcGU= x:536 y:50 d:Drag197_Reference
+t:Value v:(n)-1 x:674 y:50 d:Drag198_Value
+EndSlot
+EndInsert
+EndInsert

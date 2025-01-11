@@ -1,0 +1,72 @@
+﻿t:Subs x:430 y:896 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:881 d:Drag61_Setup
+Insert
+t:Let v:(o) x:464 y:831 d:Drag62_Let
+Slot
+t:Reference v:(s)QgA= x:494 y:821 d:Drag63_Reference
+t:Tuple2 v:(o) x:586 y:826 d:Drag64_Tuple2
+Slot
+t:Value v:(n)5 x:658 y:821 d:Drag65_Value
+t:Value v:(n)2 x:718 y:821 d:Drag66_Value
+EndSlot
+EndSlot
+t:Let v:(o) x:464 y:771 d:Drag69_Let
+Slot
+t:Reference v:(s)MQArADIA x:494 y:766 d:Drag70_Reference
+t:Value v:(n)300 x:600 y:766 d:Drag74_Value
+EndSlot
+t:Print v:(o) x:464 y:721 d:Drag67_Print
+Slot
+t:CalcExpress v:(s)IgARVM+Rf5WmXhr/IgAmACgAPAB8AD4AYgApACYAIgARVM+RuWURVBr/IgAmACgAPABfAD4AYgApAA== x:508 y:716 d:Drag68_CalcExpress
+EndSlot
+t:Print v:(o) x:464 y:661 d:Drag77_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:656 d:Drag79_StringValue
+EndSlot
+t:Print v:(o) x:464 y:611 d:Drag75_Print
+Slot
+t:CalcExpress v:(s)JwAxACsAMgAnACsAMQAwADAA x:508 y:606 d:Drag76_CalcExpress
+EndSlot
+t:Print v:(o) x:464 y:551 d:Drag85_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:546 d:Drag86_StringValue
+EndSlot
+t:Print v:(o) x:464 y:501 d:Drag87_Print
+Slot
+t:CalcExpress v:(s)YgA8ACsAPgB7ADEALAAxAH0A x:508 y:496 d:Drag88_CalcExpress
+EndSlot
+t:Print v:(o) x:464 y:441 d:Drag91_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:436 d:Drag92_StringValue
+EndSlot
+t:Print v:(o) x:464 y:391 d:Drag89_Print
+Slot
+t:CalcExpress v:(s)LQAxADAAMAB8AC8AfAAzAA== x:508 y:386 d:Drag90_CalcExpress
+EndSlot
+t:Print v:(o) x:464 y:331 d:Drag95_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:326 d:Drag96_StringValue
+EndSlot
+t:Print v:(o) x:464 y:281 d:Drag93_Print
+Slot
+t:CalcExpress v:(s)MQAwADAAJQAzAA== x:508 y:276 d:Drag94_CalcExpress
+EndSlot
+t:Print v:(o) x:464 y:221 d:Drag97_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:216 d:Drag98_StringValue
+EndSlot
+t:Print v:(o) x:464 y:171 d:Drag101_Print
+Slot
+t:CalcExpress v:(s)MgBeADgA x:508 y:166 d:Drag102_CalcExpress
+EndSlot
+t:Print v:(o) x:464 y:111 d:Drag103_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:106 d:Drag104_StringValue
+EndSlot
+t:Print v:(o) x:464 y:61 d:Drag99_Print
+Slot
+t:CalcExpress v:(s)MgBeADAALgA1AA== x:508 y:56 d:Drag100_CalcExpress
+EndSlot
+EndInsert
+EndInsert

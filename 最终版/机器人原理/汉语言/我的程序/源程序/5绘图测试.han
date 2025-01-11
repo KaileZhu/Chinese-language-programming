@@ -1,0 +1,58 @@
+﻿t:Subs x:430 y:830 d:Drag1_Subs
+Insert
+t:Setup x:447 y:815 d:Drag49_Setup
+Insert
+t:CreateImage x:464 y:765 d:Drag50_CreateImage
+Slot
+t:StringValue v:(s)zIBvZg== x:597 y:760 d:Drag51_StringValue
+t:Tuple2 x:508 y:725 d:Drag52_Tuple2
+Slot
+t:Value v:(n)0 x:580 y:720 d:Drag53_Value
+t:Value v:(n)0 x:640 y:720 d:Drag54_Value
+EndSlot
+t:CanvasSize x:746 y:725 d:Drag55_CanvasSize
+t:Picture v:(s)zIBvZi4AagBwAGcA x:536 y:680 d:Drag56_Picture
+EndSlot
+t:SetImageColor v:(o) x:464 y:615 d:Drag57_SetImageColor
+Slot
+t:StringValue v:(s)zIBvZg== x:564 y:610 d:Drag58_StringValue
+t:Palette x:674 y:610 d:Drag59_Palette v:(c)(0,0,0,255)
+EndSlot
+t:ForCount x:464 y:565 d:Drag60_ForCount
+Slot
+t:Value v:(n)200 x:570 y:560 d:Drag61_Value
+EndSlot
+Insert
+t:DrawPoint x:481 y:515 d:Drag62_DrawPoint
+Slot
+t:Tuple2 x:511 y:510 d:Drag63_Tuple2
+Slot
+t:Random x:583 y:505 d:Drag64_Random
+Slot
+t:CanvasWidth x:655 y:500 d:Drag65_CanvasWidth
+EndSlot
+t:Random x:783 y:505 d:Drag66_Random
+Slot
+t:CanvasHeight x:855 y:500 d:Drag67_CanvasHeight
+EndSlot
+EndSlot
+t:Value v:(n)5 x:525 y:435 d:Drag68_Value
+t:Tuple3 x:617 y:445 d:Drag69_Tuple3
+Slot
+t:Random x:689 y:440 d:Drag70_Random
+Slot
+t:Value v:(n)256 x:761 y:435 d:Drag71_Value
+EndSlot
+t:Random x:849 y:440 d:Drag72_Random
+Slot
+t:Value v:(n)256 x:921 y:435 d:Drag73_Value
+EndSlot
+t:Random x:1009 y:440 d:Drag74_Random
+Slot
+t:Value v:(n)256 x:1081 y:435 d:Drag75_Value
+EndSlot
+EndSlot
+EndSlot
+EndInsert
+EndInsert
+EndInsert

@@ -1,0 +1,45 @@
+﻿t:Subs x:430 y:987 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:972 d:Drag42_Setup
+Insert
+t:Rem v:(s)94t/Tyh1UX/cfgOM1YupUkti x:464 y:922 d:Drag68_Rem
+t:ConnectEasyNet v:(o) x:464 y:872 d:Drag43_ConnectEasyNet
+Slot
+t:LocalNetAddress v:(s)MQAyADcALgAwAC4AMAAuADEA x:576 y:867 d:Drag44_LocalNetAddress
+EndSlot
+t:HandleReceiveNet x:464 y:822 d:Drag45_HandleReceiveNet
+Slot
+t:Value v:(n)11030 x:550 y:817 d:Drag46_Value
+t:Sub v:(s)pWM2ZQ== x:508 y:782 d:Drag47_Sub
+Slot
+t:LocalReference v:(s)cGVuYw== x:652 y:777 d:Drag48_LocalReference
+EndSlot
+Insert
+t:Print x:525 y:732 d:Drag49_Print
+Slot
+t:LocalReference v:(s)cGVuYw== x:569 y:727 d:Drag50_LocalReference
+EndSlot
+EndInsert
+EndSlot
+t:WhileDelay x:464 y:662 d:Drag66_WhileDelay
+Slot
+t:Value v:(n)1 x:542 y:657 d:Drag67_Value
+EndSlot
+Insert
+t:SendNet v:(o) x:481 y:612 d:Drag53_SendNet
+Slot
+t:LocalNetAddress v:(s)MQAyADcALgAwAC4AMAAuADEA x:595 y:474.5 d:Drag54_LocalNetAddress
+t:Value v:(n)11029 x:761 y:474.5 d:Drag55_Value
+t:Group x:911 y:607 d:Drag56_Group
+Insert
+t:Value v:(n)65 x:928 y:557 d:Drag57_Value
+t:Value v:(n)32 x:928 y:517 d:Drag58_Value
+t:Value v:(n)66 x:928 y:477 d:Drag59_Value
+t:Value v:(n)67 x:928 y:437 d:Drag60_Value
+t:Value v:(n)32 x:928 y:397 d:Drag61_Value
+t:Value v:(n)68 x:928 y:357 d:Drag62_Value
+EndInsert
+EndSlot
+EndInsert
+EndInsert
+EndInsert

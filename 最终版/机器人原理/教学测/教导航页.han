@@ -1,0 +1,1646 @@
+﻿t:Subs x:430 y:840 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:825 d:Drag3789_Setup
+Insert
+t:CreateImage x:464 y:775 d:Drag3790_CreateImage
+Slot
+t:StringValue v:(s)MQA= x:597 y:770 d:Drag3791_StringValue
+t:CanvasRate x:508 y:735 d:Drag3792_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:730 d:Drag3793_Value
+t:Value v:(n)0 x:672 y:730 d:Drag3794_Value
+EndSlot
+t:CanvasRate x:824 y:735 d:Drag3795_CanvasRate
+Slot
+t:Value v:(n)100 x:882 y:730 d:Drag3796_Value
+t:Value v:(n)100 x:1002 y:730 d:Drag3797_Value
+EndSlot
+t:Picture v:(s)NwBVAEsAMgAyADcAYAA2AGAAQwA3AEMARwBCAGAAQABJAEkAJAAlAEoAOABSAC4AcABuAGcA x:536 y:690 d:Drag3798_Picture
+EndSlot
+t:Delay x:464 y:625 d:Drag3799_Delay
+Slot
+t:Value v:(n)0.2 x:508 y:620 d:Drag3800_Value
+EndSlot
+t:CreateImage x:464 y:575 d:Drag3801_CreateImage
+Slot
+t:StringValue v:(s)MgA= x:597 y:570 d:Drag3802_StringValue
+t:CanvasRate x:508 y:535 d:Drag3803_CanvasRate
+Slot
+t:Value v:(n)8 x:566 y:530 d:Drag3804_Value
+t:Value v:(n)35 x:672 y:530 d:Drag3805_Value
+EndSlot
+t:CanvasRate x:830 y:535 d:Drag3806_CanvasRate
+Slot
+t:Value v:(n)15 x:888 y:530 d:Drag3807_Value
+t:Value v:(n)30 x:1000 y:530 d:Drag3808_Value
+EndSlot
+t:Picture v:(s)MQAuAHAAbgBnAA== x:536 y:490 d:Drag3809_Picture
+EndSlot
+t:Delay x:464 y:425 d:Drag3810_Delay
+Slot
+t:Value v:(n)0.3 x:508 y:420 d:Drag3811_Value
+EndSlot
+t:CreateImage x:464 y:375 d:Drag3812_CreateImage
+Slot
+t:StringValue v:(s)MwA= x:597 y:370 d:Drag3813_StringValue
+t:CanvasRate x:508 y:335 d:Drag3814_CanvasRate
+Slot
+t:Value v:(n)25 x:566 y:330 d:Drag3815_Value
+t:Value v:(n)20 x:678 y:330 d:Drag3816_Value
+EndSlot
+t:CanvasRate x:836 y:335 d:Drag3817_CanvasRate
+Slot
+t:Value v:(n)23 x:894 y:330 d:Drag3818_Value
+t:Value v:(n)60 x:1006 y:330 d:Drag3819_Value
+EndSlot
+t:Picture v:(s)MgAuAHAAbgBnAA== x:536 y:290 d:Drag3820_Picture
+EndSlot
+t:Delay x:464 y:225 d:Drag3821_Delay
+Slot
+t:Value v:(n)0.3 x:508 y:220 d:Drag3822_Value
+EndSlot
+t:CreateImage x:464 y:175 d:Drag3823_CreateImage
+Slot
+t:StringValue v:(s)NAA= x:597 y:170 d:Drag3824_StringValue
+t:CanvasRate x:508 y:135 d:Drag3825_CanvasRate
+Slot
+t:Value v:(n)54 x:566 y:130 d:Drag3826_Value
+t:Value v:(n)20 x:678 y:130 d:Drag3827_Value
+EndSlot
+t:CanvasRate x:836 y:135 d:Drag3828_CanvasRate
+Slot
+t:Value v:(n)3 x:894 y:130 d:Drag3829_Value
+t:Value v:(n)60 x:1000 y:130 d:Drag3830_Value
+EndSlot
+t:Picture v:(s)MwAuAHAAbgBnAA== x:536 y:90 d:Drag3831_Picture
+EndSlot
+t:Delay x:464 y:25 d:Drag3832_Delay
+Slot
+t:Value v:(n)0.2 x:508 y:20 d:Drag3833_Value
+EndSlot
+t:CreateImage x:464 y:-25 d:Drag3834_CreateImage
+Slot
+t:StringValue v:(s)NQA= x:597 y:-30 d:Drag3835_StringValue
+t:CanvasRate x:508 y:-65 d:Drag3836_CanvasRate
+Slot
+t:Value v:(n)75 x:566 y:-70 d:Drag3837_Value
+t:Value v:(n)27 x:678 y:-70 d:Drag3838_Value
+EndSlot
+t:CanvasRate x:836 y:-65 d:Drag3839_CanvasRate
+Slot
+t:Value v:(n)27 x:894 y:-70 d:Drag3840_Value
+t:Value v:(n)10 x:1006 y:-70 d:Drag3841_Value
+EndSlot
+t:Picture v:(s)NAAuAHAAbgBnAA== x:536 y:-110 d:Drag3842_Picture
+EndSlot
+t:CreateImage x:464 y:-175 d:Drag3843_CreateImage
+Slot
+t:StringValue v:(s)MQAxADEA x:597 y:-180 d:Drag3844_StringValue
+t:CanvasRate x:508 y:-215 d:Drag3845_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-220 d:Drag3846_Value
+t:Value v:(n)70 x:672 y:-220 d:Drag3847_Value
+EndSlot
+t:CanvasRate x:830 y:-215 d:Drag3848_CanvasRate
+Slot
+t:Value v:(n)20 x:888 y:-220 d:Drag3849_Value
+t:Value v:(n)8 x:1000 y:-220 d:Drag3850_Value
+EndSlot
+t:Picture v:(s)/lYxAC4AcABuAGcA x:536 y:-260 d:Drag3851_Picture
+EndSlot
+t:HandleMouseDown x:464 y:-325 d:Drag3852_HandleMouseDown
+Slot
+t:StringValue v:(s)MQAxADEA x:550 y:-330 d:Drag3853_StringValue
+t:StringValue v:(s)O07cg1VT x:508 y:-365 d:Drag3854_StringValue
+EndSlot
+t:SetControlPivot2 x:464 y:-410 d:Drag3855_SetControlPivot2
+Slot
+t:StringValue v:(s)NQA= x:536 y:-415 d:Drag3856_StringValue
+t:Align x:670 y:-415 d:Drag3857_Align v:(n)4
+EndSlot
+t:Delay x:464 y:-460 d:Drag3858_Delay
+Slot
+t:Value v:(n)0.2 x:508 y:-465 d:Drag3859_Value
+EndSlot
+t:CreateImage x:464 y:-510 d:Drag3860_CreateImage
+Slot
+t:StringValue v:(s)NgA= x:597 y:-515 d:Drag3861_StringValue
+t:CanvasRate x:508 y:-550 d:Drag3862_CanvasRate
+Slot
+t:Value v:(n)75 x:566 y:-555 d:Drag3863_Value
+t:Value v:(n)42 x:678 y:-555 d:Drag3864_Value
+EndSlot
+t:CanvasRate x:836 y:-550 d:Drag3865_CanvasRate
+Slot
+t:Value v:(n)27 x:894 y:-555 d:Drag3866_Value
+t:Value v:(n)10 x:1006 y:-555 d:Drag3867_Value
+EndSlot
+t:Picture v:(s)NQAuAHAAbgBnAA== x:536 y:-595 d:Drag3868_Picture
+EndSlot
+t:SetControlPivot2 x:464 y:-660 d:Drag3869_SetControlPivot2
+Slot
+t:StringValue v:(s)NgA= x:536 y:-665 d:Drag3870_StringValue
+t:Align x:670 y:-665 d:Drag3871_Align v:(n)4
+EndSlot
+t:Delay x:464 y:-710 d:Drag3872_Delay
+Slot
+t:Value v:(n)0.2 x:508 y:-715 d:Drag3873_Value
+EndSlot
+t:CreateImage x:464 y:-760 d:Drag3874_CreateImage
+Slot
+t:StringValue v:(s)NwA= x:597 y:-765 d:Drag3875_StringValue
+t:CanvasRate x:508 y:-800 d:Drag3876_CanvasRate
+Slot
+t:Value v:(n)75 x:566 y:-805 d:Drag3877_Value
+t:Value v:(n)58 x:678 y:-805 d:Drag3878_Value
+EndSlot
+t:CanvasRate x:836 y:-800 d:Drag3879_CanvasRate
+Slot
+t:Value v:(n)27 x:894 y:-805 d:Drag3880_Value
+t:Value v:(n)10 x:1006 y:-805 d:Drag3881_Value
+EndSlot
+t:Picture v:(s)NgAuAHAAbgBnAA== x:536 y:-845 d:Drag3882_Picture
+EndSlot
+t:SetControlPivot2 x:464 y:-910 d:Drag3883_SetControlPivot2
+Slot
+t:StringValue v:(s)NwA= x:536 y:-915 d:Drag3884_StringValue
+t:Align x:670 y:-915 d:Drag3885_Align v:(n)4
+EndSlot
+t:Delay x:464 y:-960 d:Drag3886_Delay
+Slot
+t:Value v:(n)0.2 x:508 y:-965 d:Drag3887_Value
+EndSlot
+t:CreateImage x:464 y:-1010 d:Drag3888_CreateImage
+Slot
+t:StringValue v:(s)OAA= x:597 y:-1015 d:Drag3889_StringValue
+t:CanvasRate x:508 y:-1050 d:Drag3890_CanvasRate
+Slot
+t:Value v:(n)75 x:566 y:-1055 d:Drag3891_Value
+t:Value v:(n)73 x:678 y:-1055 d:Drag3892_Value
+EndSlot
+t:CanvasRate x:836 y:-1050 d:Drag3893_CanvasRate
+Slot
+t:Value v:(n)27 x:894 y:-1055 d:Drag3894_Value
+t:Value v:(n)10 x:1006 y:-1055 d:Drag3895_Value
+EndSlot
+t:Picture v:(s)ATAuAHAAbgBnAA== x:536 y:-1095 d:Drag3896_Picture
+EndSlot
+t:SetControlPivot2 x:464 y:-1160 d:Drag3897_SetControlPivot2
+Slot
+t:StringValue v:(s)OAA= x:536 y:-1165 d:Drag3898_StringValue
+t:Align x:670 y:-1165 d:Drag3899_Align v:(n)4
+EndSlot
+t:HandleMouseEnter x:464 y:-1210 d:Drag3900_HandleMouseEnter
+Slot
+t:StringValue v:(s)NQA= x:606 y:-1215 d:Drag3901_StringValue
+t:StringValue v:(s)OQA= x:508 y:-1250 d:Drag3902_StringValue
+EndSlot
+t:HandleMouseExit x:464 y:-1295 d:Drag3903_HandleMouseExit
+Slot
+t:StringValue v:(s)NQA= x:578 y:-1300 d:Drag3904_StringValue
+t:StringValue v:(s)MQAwAA== x:508 y:-1335 d:Drag3905_StringValue
+EndSlot
+t:HandleMouseEnter x:464 y:-1380 d:Drag3906_HandleMouseEnter
+Slot
+t:StringValue v:(s)NgA= x:606 y:-1385 d:Drag3907_StringValue
+t:StringValue v:(s)MQAxAA== x:508 y:-1420 d:Drag3908_StringValue
+EndSlot
+t:HandleMouseExit x:464 y:-1465 d:Drag3909_HandleMouseExit
+Slot
+t:StringValue v:(s)NgA= x:578 y:-1470 d:Drag3910_StringValue
+t:StringValue v:(s)MQAyAA== x:508 y:-1505 d:Drag3911_StringValue
+EndSlot
+t:HandleMouseEnter x:464 y:-1550 d:Drag3912_HandleMouseEnter
+Slot
+t:StringValue v:(s)NwA= x:606 y:-1555 d:Drag3913_StringValue
+t:StringValue v:(s)MQAzAA== x:508 y:-1590 d:Drag3914_StringValue
+EndSlot
+t:HandleMouseExit x:464 y:-1635 d:Drag3915_HandleMouseExit
+Slot
+t:StringValue v:(s)NwA= x:578 y:-1640 d:Drag3916_StringValue
+t:StringValue v:(s)MQA0AA== x:508 y:-1675 d:Drag3917_StringValue
+EndSlot
+t:HandleMouseEnter x:464 y:-1720 d:Drag3918_HandleMouseEnter
+Slot
+t:StringValue v:(s)OAA= x:606 y:-1725 d:Drag3919_StringValue
+t:StringValue v:(s)MQA1AA== x:508 y:-1760 d:Drag3920_StringValue
+EndSlot
+t:HandleMouseExit x:464 y:-1805 d:Drag3921_HandleMouseExit
+Slot
+t:StringValue v:(s)OAA= x:578 y:-1810 d:Drag3922_StringValue
+t:StringValue v:(s)MQA2AA== x:508 y:-1845 d:Drag3923_StringValue
+EndSlot
+t:HandleMouseDown x:464 y:-1890 d:Drag3924_HandleMouseDown
+Slot
+t:StringValue v:(s)NQA= x:550 y:-1895 d:Drag3925_StringValue
+t:StringValue v:(s)MQA3AA== x:508 y:-1930 d:Drag3926_StringValue
+EndSlot
+t:HandleMouseDown x:464 y:-1975 d:Drag3927_HandleMouseDown
+Slot
+t:StringValue v:(s)NgA= x:550 y:-1980 d:Drag3928_StringValue
+t:StringValue v:(s)MQA4AA== x:508 y:-2015 d:Drag3929_StringValue
+EndSlot
+t:HandleMouseDown x:464 y:-2060 d:Drag3930_HandleMouseDown
+Slot
+t:StringValue v:(s)NwA= x:550 y:-2065 d:Drag3931_StringValue
+t:StringValue v:(s)MQA5AA== x:508 y:-2100 d:Drag3932_StringValue
+EndSlot
+t:HandleMouseDown x:464 y:-2145 d:Drag3933_HandleMouseDown
+Slot
+t:StringValue v:(s)OAA= x:550 y:-2150 d:Drag3934_StringValue
+t:StringValue v:(s)MgAwAA== x:508 y:-2185 d:Drag3935_StringValue
+EndSlot
+EndInsert
+t:Sub v:(s)OQA= x:447 y:-2245 d:Drag3936_Sub
+Slot
+t:LocalReference v:(s) x:573 y:-2250 d:Drag3937_LocalReference
+EndSlot
+Insert
+t:ScaleControl x:464 y:-2295 d:Drag3938_ScaleControl
+Slot
+t:StringValue v:(s)NQA= x:522 y:-2300 d:Drag3939_StringValue
+t:Value v:(n)1.2 x:712 y:-2300 d:Drag3940_Value
+EndSlot
+EndInsert
+t:Sub v:(s)MQAwAA== x:447 y:-2360 d:Drag3941_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-2365 d:Drag3942_LocalReference
+EndSlot
+Insert
+t:ScaleControl x:464 y:-2410 d:Drag3943_ScaleControl
+Slot
+t:StringValue v:(s)NQA= x:522 y:-2415 d:Drag3944_StringValue
+t:Value v:(n)0.833 x:712 y:-2415 d:Drag3945_Value
+EndSlot
+EndInsert
+t:Sub v:(s)MQAxAA== x:447 y:-2475 d:Drag3946_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-2480 d:Drag3947_LocalReference
+EndSlot
+Insert
+t:ScaleControl x:464 y:-2525 d:Drag3948_ScaleControl
+Slot
+t:StringValue v:(s)NgA= x:522 y:-2530 d:Drag3949_StringValue
+t:Value v:(n)1.2 x:712 y:-2530 d:Drag3950_Value
+EndSlot
+EndInsert
+t:Sub v:(s)MQAyAA== x:447 y:-2590 d:Drag3951_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-2595 d:Drag3952_LocalReference
+EndSlot
+Insert
+t:ScaleControl x:464 y:-2640 d:Drag3953_ScaleControl
+Slot
+t:StringValue v:(s)NgA= x:522 y:-2645 d:Drag3954_StringValue
+t:Value v:(n)0.833 x:712 y:-2645 d:Drag3955_Value
+EndSlot
+EndInsert
+t:Sub v:(s)MQAzAA== x:447 y:-2705 d:Drag3956_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-2710 d:Drag3957_LocalReference
+EndSlot
+Insert
+t:ScaleControl x:464 y:-2755 d:Drag3958_ScaleControl
+Slot
+t:StringValue v:(s)NwA= x:522 y:-2760 d:Drag3959_StringValue
+t:Value v:(n)1.2 x:712 y:-2760 d:Drag3960_Value
+EndSlot
+EndInsert
+t:Sub v:(s)MQA0AA== x:447 y:-2820 d:Drag3961_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-2825 d:Drag3962_LocalReference
+EndSlot
+Insert
+t:ScaleControl x:464 y:-2870 d:Drag3963_ScaleControl
+Slot
+t:StringValue v:(s)NwA= x:522 y:-2875 d:Drag3964_StringValue
+t:Value v:(n)0.833 x:712 y:-2875 d:Drag3965_Value
+EndSlot
+EndInsert
+t:Sub v:(s)MQA1AA== x:447 y:-2935 d:Drag3966_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-2940 d:Drag3967_LocalReference
+EndSlot
+Insert
+t:ScaleControl x:464 y:-2985 d:Drag3968_ScaleControl
+Slot
+t:StringValue v:(s)OAA= x:522 y:-2990 d:Drag3969_StringValue
+t:Value v:(n)1.2 x:712 y:-2990 d:Drag3970_Value
+EndSlot
+EndInsert
+t:Sub v:(s)MQA2AA== x:447 y:-3050 d:Drag3971_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-3055 d:Drag3972_LocalReference
+EndSlot
+Insert
+t:ScaleControl x:464 y:-3100 d:Drag3973_ScaleControl
+Slot
+t:StringValue v:(s)OAA= x:522 y:-3105 d:Drag3974_StringValue
+t:Value v:(n)0.833 x:712 y:-3105 d:Drag3975_Value
+EndSlot
+EndInsert
+t:Sub v:(s)MQA3AA== x:447 y:-3165 d:Drag3976_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-3170 d:Drag3977_LocalReference
+EndSlot
+Insert
+t:CreateImage x:464 y:-3215 d:Drag3978_CreateImage
+Slot
+t:StringValue v:(s)MQA3AC0AMQA= x:597 y:-3220 d:Drag3979_StringValue
+t:CanvasRate x:508 y:-3255 d:Drag3980_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-3260 d:Drag3981_Value
+t:Value v:(n)0 x:672 y:-3260 d:Drag3982_Value
+EndSlot
+t:CanvasRate x:824 y:-3255 d:Drag3983_CanvasRate
+Slot
+t:Value v:(n)100 x:882 y:-3260 d:Drag3984_Value
+t:Value v:(n)100 x:1002 y:-3260 d:Drag3985_Value
+EndSlot
+t:Picture v:(s)NwBVAEsAMgAyADcAYAA2AGAAQwA3AEMARwBCAGAAQABJAEkAJAAlAEoAOABSAC4AcABuAGcA x:536 y:-3300 d:Drag3986_Picture
+EndSlot
+t:Delay x:464 y:-3365 d:Drag3987_Delay
+Slot
+t:Value v:(n)0.2 x:508 y:-3370 d:Drag3988_Value
+EndSlot
+t:CreateImage x:464 y:-3415 d:Drag3989_CreateImage
+Slot
+t:StringValue v:(s)MQA3AC0AMgA= x:597 y:-3420 d:Drag3990_StringValue
+t:CanvasRate x:508 y:-3455 d:Drag3991_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-3460 d:Drag3992_Value
+t:Value v:(n)10 x:672 y:-3460 d:Drag3993_Value
+EndSlot
+t:CanvasRate x:830 y:-3455 d:Drag3994_CanvasRate
+Slot
+t:Value v:(n)45 x:888 y:-3460 d:Drag3995_Value
+t:Value v:(n)30 x:1000 y:-3460 d:Drag3996_Value
+EndSlot
+t:Picture v:(s)MQA3AC0AMQAuAHAAbgBnAA== x:536 y:-3500 d:Drag3997_Picture
+EndSlot
+t:SetControlPivot2 x:464 y:-3565 d:Drag3998_SetControlPivot2
+Slot
+t:StringValue v:(s)MQA3AC0AMgA= x:536 y:-3570 d:Drag3999_StringValue
+t:Align x:690 y:-3570 d:Drag4000_Align v:(n)2
+EndSlot
+t:BeginCreateMoviePlayer x:464 y:-3615 d:Drag4001_BeginCreateMoviePlayer
+Slot
+t:StringValue v:(s)MQA3AC0AMwA= x:676 y:-3620 d:Drag4002_StringValue
+t:Tuple2 x:508 y:-3655 d:Drag4003_Tuple2
+Slot
+t:Value v:(n)0 x:580 y:-3660 d:Drag4004_Value
+t:Value v:(n)0 x:640 y:-3660 d:Drag4005_Value
+EndSlot
+t:Tuple2 x:746 y:-3655 d:Drag4006_Tuple2
+Slot
+t:Value v:(n)0 x:818 y:-3660 d:Drag4007_Value
+t:Value v:(n)0 x:878 y:-3660 d:Drag4008_Value
+EndSlot
+t:Movie v:(s)bAB2AF8AMABfADIAMAAyADMAMAA2ADEANAAxADEAMgA3ADIAMAAuAG0AcAA0AA== x:536 y:-3700 d:Drag4009_Movie
+t:Value v:(n)70 x:732 y:-3710 d:Drag4010_Value
+t:Value v:(n)0 x:858 y:-3710 d:Drag4011_Value
+t:StringValue v:(s) x:578 y:-3755 d:Drag4012_StringValue
+EndSlot
+t:Delay x:464 y:-3800 d:Drag4013_Delay
+Slot
+t:Value v:(n)1 x:508 y:-3805 d:Drag4014_Value
+EndSlot
+t:ForCount x:464 y:-3850 d:Drag4015_ForCount
+Slot
+t:Value v:(n)45 x:570 y:-3855 d:Drag4016_Value
+EndSlot
+Insert
+t:MoveControl x:481 y:-3900 d:Drag4017_MoveControl
+Slot
+t:StringValue v:(s)MQA3AC0AMgA= x:539 y:-3910 d:Drag4018_StringValue
+t:CanvasRate x:749 y:-3905 d:Drag4019_CanvasRate
+Slot
+t:Value v:(n)1 x:807 y:-3910 d:Drag4020_Value
+t:Value v:(n)0 x:913 y:-3910 d:Drag4021_Value
+EndSlot
+EndSlot
+t:Delay x:481 y:-3960 d:Drag4022_Delay
+Slot
+t:Value v:(n)0.0001 x:525 y:-3965 d:Drag4023_Value
+EndSlot
+EndInsert
+t:Delay x:464 y:-4025 d:Drag4024_Delay
+Slot
+t:Value v:(n)1.5 x:508 y:-4030 d:Drag4025_Value
+EndSlot
+t:CreateImage x:464 y:-4075 d:Drag4026_CreateImage
+Slot
+t:StringValue v:(s)MQA3AC0AMQAtADEA x:597 y:-4080 d:Drag4027_StringValue
+t:CanvasRate x:508 y:-4115 d:Drag4028_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-4120 d:Drag4029_Value
+t:Value v:(n)70 x:672 y:-4120 d:Drag4030_Value
+EndSlot
+t:CanvasRate x:830 y:-4115 d:Drag4031_CanvasRate
+Slot
+t:Value v:(n)20 x:888 y:-4120 d:Drag4032_Value
+t:Value v:(n)8 x:1000 y:-4120 d:Drag4033_Value
+EndSlot
+t:Picture v:(s)/lYxAC4AcABuAGcA x:536 y:-4160 d:Drag4034_Picture
+EndSlot
+t:HandleMouseDown x:464 y:-4225 d:Drag4035_HandleMouseDown
+Slot
+t:StringValue v:(s)MQA3AC0AMQAtADEA x:550 y:-4230 d:Drag4036_StringValue
+t:StringValue v:(s)O07cg1VT x:508 y:-4265 d:Drag4037_StringValue
+EndSlot
+t:CreateImage x:464 y:-4310 d:Drag4038_CreateImage
+Slot
+t:StringValue v:(s)MQA3AC0AMQAtADIA x:597 y:-4315 d:Drag4039_StringValue
+t:CanvasRate x:508 y:-4350 d:Drag4040_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-4355 d:Drag4041_Value
+t:Value v:(n)80 x:672 y:-4355 d:Drag4042_Value
+EndSlot
+t:CanvasRate x:830 y:-4350 d:Drag4043_CanvasRate
+Slot
+t:Value v:(n)20 x:888 y:-4355 d:Drag4044_Value
+t:Value v:(n)8 x:1000 y:-4355 d:Drag4045_Value
+EndSlot
+t:Picture v:(s)/lYyAC4AcABuAGcA x:536 y:-4395 d:Drag4046_Picture
+EndSlot
+t:HandleMouseDown x:464 y:-4460 d:Drag4047_HandleMouseDown
+Slot
+t:StringValue v:(s)MQA3AC0AMQAtADIA x:550 y:-4465 d:Drag4048_StringValue
+t:StringValue v:(s)U19NUg== x:508 y:-4500 d:Drag4049_StringValue
+EndSlot
+t:BeginCreateMoviePlayer x:464 y:-4545 d:Drag4050_BeginCreateMoviePlayer
+Slot
+t:StringValue v:(s)MQA3AC0ANAA= x:676 y:-4550 d:Drag4051_StringValue
+t:CanvasRate x:508 y:-4585 d:Drag4052_CanvasRate
+Slot
+t:Value v:(n)55 x:566 y:-4590 d:Drag4053_Value
+t:Value v:(n)10 x:678 y:-4590 d:Drag4054_Value
+EndSlot
+t:CanvasRate x:836 y:-4585 d:Drag4055_CanvasRate
+Slot
+t:Value v:(n)40 x:894 y:-4590 d:Drag4056_Value
+t:Value v:(n)40 x:1006 y:-4590 d:Drag4057_Value
+EndSlot
+t:Movie v:(s)bAB2AF8AMABfADIAMAAyADMAMAA2ADEANAAxADEANAA0ADUANwAuAG0AcAA0AA== x:536 y:-4630 d:Drag4058_Movie
+t:Value v:(n)0 x:732 y:-4640 d:Drag4059_Value
+t:Value v:(n)0 x:852 y:-4640 d:Drag4060_Value
+t:StringValue v:(s) x:578 y:-4685 d:Drag4061_StringValue
+EndSlot
+t:Delay x:464 y:-4730 d:Drag4062_Delay
+Slot
+t:Value v:(n)9.5 x:508 y:-4735 d:Drag4063_Value
+EndSlot
+t:SetMoviePlayerMovie x:464 y:-4780 d:Drag4064_SetMoviePlayerMovie
+Slot
+t:StringValue v:(s)MQA3AC0AMwA= x:606 y:-4795 d:Drag4065_StringValue
+t:Movie v:(s)UQBRAMaJkZgyADAAMgAzADAANgAxADQAMQAyADAANAA1ADYALgBtAHAANAA= x:746 y:-4785 d:Drag4066_Movie
+EndSlot
+t:CreateImage x:464 y:-4850 d:Drag4067_CreateImage
+Slot
+t:StringValue v:(s)MQA3AC0ANQA= x:597 y:-4855 d:Drag4068_StringValue
+t:CanvasRate x:508 y:-4890 d:Drag4069_CanvasRate
+Slot
+t:Value v:(n)25 x:566 y:-4895 d:Drag4070_Value
+t:Value v:(n)100 x:678 y:-4895 d:Drag4071_Value
+EndSlot
+t:CanvasRate x:844 y:-4890 d:Drag4072_CanvasRate
+Slot
+t:Value v:(n)15 x:902 y:-4895 d:Drag4073_Value
+t:Value v:(n)50 x:1014 y:-4895 d:Drag4074_Value
+EndSlot
+t:Picture v:(s)MQA3AC0AMgAuAHAAbgBnAA== x:536 y:-4935 d:Drag4075_Picture
+EndSlot
+t:SetControlPivot2 x:464 y:-5000 d:Drag4076_SetControlPivot2
+Slot
+t:StringValue v:(s)MQA3AC0ANQA= x:536 y:-5005 d:Drag4077_StringValue
+t:Align x:690 y:-5005 d:Drag4078_Align v:(n)0
+EndSlot
+t:SetMoviePlayerMovie x:464 y:-5050 d:Drag4079_SetMoviePlayerMovie
+Slot
+t:StringValue v:(s)MQA3AC0ANAA= x:606 y:-5065 d:Drag4080_StringValue
+t:Movie v:(s)UQBRAMaJkZgyADAAMgAzADAANgAxADQAMQAyADAANQAwADgALgBtAHAANAA= x:746 y:-5055 d:Drag4081_Movie
+EndSlot
+t:ForCount x:464 y:-5120 d:Drag4082_ForCount
+Slot
+t:Value v:(n)50 x:570 y:-5125 d:Drag4083_Value
+EndSlot
+Insert
+t:MoveControl x:481 y:-5170 d:Drag4084_MoveControl
+Slot
+t:StringValue v:(s)MQA3AC0ANQA= x:539 y:-5180 d:Drag4085_StringValue
+t:CanvasRate x:749 y:-5175 d:Drag4086_CanvasRate
+Slot
+t:Value v:(n)0 x:807 y:-5180 d:Drag4087_Value
+t:Value v:(n)-1 x:913 y:-5180 d:Drag4088_Value
+EndSlot
+EndSlot
+t:Delay x:481 y:-5230 d:Drag4089_Delay
+Slot
+t:Value v:(n)0.0001 x:525 y:-5235 d:Drag4090_Value
+EndSlot
+EndInsert
+t:Delay x:464 y:-5295 d:Drag4091_Delay
+Slot
+t:Value v:(n)34 x:508 y:-5300 d:Drag4092_Value
+EndSlot
+t:CreateImage x:464 y:-5345 d:Drag4093_CreateImage
+Slot
+t:StringValue v:(s)MQA3AC0ANgA= x:597 y:-5350 d:Drag4094_StringValue
+t:CanvasRate x:508 y:-5385 d:Drag4095_CanvasRate
+Slot
+t:Value v:(n)100 x:566 y:-5390 d:Drag4096_Value
+t:Value v:(n)55 x:686 y:-5390 d:Drag4097_Value
+EndSlot
+t:CanvasRate x:844 y:-5385 d:Drag4098_CanvasRate
+Slot
+t:Value v:(n)50 x:902 y:-5390 d:Drag4099_Value
+t:Value v:(n)25 x:1014 y:-5390 d:Drag4100_Value
+EndSlot
+t:Picture v:(s)MQA3AC0AMwAuAHAAbgBnAA== x:536 y:-5430 d:Drag4101_Picture
+EndSlot
+t:SetMoviePlayerMovie x:464 y:-5495 d:Drag4102_SetMoviePlayerMovie
+Slot
+t:StringValue v:(s)MQA3AC0AMwA= x:606 y:-5510 d:Drag4103_StringValue
+t:Movie v:(s)bAB2AF8AMABfADIAMAAyADMAMAA2ADEANAAxADIAMQAwADQAMgAuAG0AcAA0AA== x:746 y:-5500 d:Drag4104_Movie
+EndSlot
+t:SetMoviePlayerMovie x:464 y:-5565 d:Drag4105_SetMoviePlayerMovie
+Slot
+t:StringValue v:(s)MQA3AC0ANAA= x:606 y:-5580 d:Drag4106_StringValue
+t:Movie v:(s)bAB2AF8AMABfADIAMAAyADMAMAA2ADEANAAxADIAMgA4ADIANAAuAG0AcAA0AA== x:746 y:-5570 d:Drag4107_Movie
+EndSlot
+t:Delay x:464 y:-5635 d:Drag4108_Delay
+Slot
+t:Value v:(n)2 x:508 y:-5640 d:Drag4109_Value
+EndSlot
+t:ForCount x:464 y:-5685 d:Drag4110_ForCount
+Slot
+t:Value v:(n)50 x:570 y:-5690 d:Drag4111_Value
+EndSlot
+Insert
+t:MoveControl x:481 y:-5735 d:Drag4112_MoveControl
+Slot
+t:StringValue v:(s)MQA3AC0ANgA= x:539 y:-5745 d:Drag4113_StringValue
+t:CanvasRate x:749 y:-5740 d:Drag4114_CanvasRate
+Slot
+t:Value v:(n)-1 x:807 y:-5745 d:Drag4115_Value
+t:Value v:(n)0 x:917 y:-5745 d:Drag4116_Value
+EndSlot
+EndSlot
+t:Delay x:481 y:-5795 d:Drag4117_Delay
+Slot
+t:Value v:(n)0.0001 x:525 y:-5800 d:Drag4118_Value
+EndSlot
+EndInsert
+EndInsert
+t:Sub v:(s)O07cg1VT x:447 y:-5875 d:Drag4119_Sub
+Slot
+t:LocalReference v:(s) x:605 y:-5880 d:Drag4120_LocalReference
+EndSlot
+Insert
+t:Jump x:464 y:-5925 d:Drag4121_Jump
+Slot
+t:StringValue v:(s)WWVmW0tt x:536 y:-5930 d:Drag4122_StringValue
+EndSlot
+EndInsert
+t:Sub v:(s)U19NUg== x:447 y:-5990 d:Drag4123_Sub
+Slot
+t:LocalReference v:(s) x:591 y:-5995 d:Drag4124_LocalReference
+EndSlot
+Insert
+t:Jump x:464 y:-6040 d:Drag4125_Jump
+Slot
+t:StringValue v:(s)WWX8WyqCdZg= x:536 y:-6045 d:Drag4126_StringValue
+EndSlot
+EndInsert
+t:Sub v:(s)MQA5AA== x:447 y:-6105 d:Drag4127_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-6110 d:Drag4128_LocalReference
+EndSlot
+Insert
+t:CreateImage v:(o) x:464 y:-6155 d:Drag4129_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AMQA= x:597 y:-6160 d:Drag4130_StringValue
+t:CanvasRate v:(o) x:508 y:-6195 d:Drag4131_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-6200 d:Drag4132_Value
+t:Value v:(n)0 x:672 y:-6200 d:Drag4133_Value
+EndSlot
+t:CanvasRate v:(o) x:824 y:-6195 d:Drag4134_CanvasRate
+Slot
+t:Value v:(n)100 x:882 y:-6200 d:Drag4135_Value
+t:Value v:(n)100 x:1002 y:-6200 d:Drag4136_Value
+EndSlot
+t:Picture v:(s)OAAuAHAAbgBnAA== x:536 y:-6240 d:Drag4137_Picture
+EndSlot
+t:CreateImage v:(o) x:464 y:-6305 d:Drag4138_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AMgA= x:597 y:-6310 d:Drag4139_StringValue
+t:CanvasRate v:(o) x:508 y:-6345 d:Drag4140_CanvasRate
+Slot
+t:Value v:(n)25 x:566 y:-6350 d:Drag4141_Value
+t:Value v:(n)5 x:678 y:-6350 d:Drag4142_Value
+EndSlot
+t:CanvasRate v:(o) x:830 y:-6345 d:Drag4143_CanvasRate
+Slot
+t:Value v:(n)45 x:888 y:-6350 d:Drag4144_Value
+t:Value v:(n)15 x:1000 y:-6350 d:Drag4145_Value
+EndSlot
+t:Picture v:(s)NQA2AC4AcABuAGcA x:536 y:-6390 d:Drag4146_Picture
+EndSlot
+t:Delay v:(o) x:464 y:-6455 d:Drag4147_Delay
+Slot
+t:Value v:(n)1 x:508 y:-6460 d:Drag4148_Value
+EndSlot
+t:CreateImage v:(o) x:464 y:-6505 d:Drag4149_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AMwA= x:597 y:-6510 d:Drag4150_StringValue
+t:CanvasRate v:(o) x:508 y:-6545 d:Drag4151_CanvasRate
+Slot
+t:Value v:(n)5 x:566 y:-6550 d:Drag4152_Value
+t:Value v:(n)20 x:672 y:-6550 d:Drag4153_Value
+EndSlot
+t:CanvasRate v:(o) x:830 y:-6545 d:Drag4154_CanvasRate
+Slot
+t:Value v:(n)45 x:888 y:-6550 d:Drag4155_Value
+t:Value v:(n)70 x:1000 y:-6550 d:Drag4156_Value
+EndSlot
+t:Picture v:(s)NQA1AC4AcABuAGcA x:536 y:-6590 d:Drag4157_Picture
+EndSlot
+t:Delay v:(o) x:464 y:-6655 d:Drag4158_Delay
+Slot
+t:Value v:(n)2 x:508 y:-6660 d:Drag4159_Value
+EndSlot
+t:CreateImage v:(o) x:464 y:-6705 d:Drag4160_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0ANAA= x:597 y:-6710 d:Drag4161_StringValue
+t:CanvasRate v:(o) x:508 y:-6745 d:Drag4162_CanvasRate
+Slot
+t:Value v:(n)55 x:566 y:-6750 d:Drag4163_Value
+t:Value v:(n)15 x:678 y:-6750 d:Drag4164_Value
+EndSlot
+t:CanvasRate v:(o) x:836 y:-6745 d:Drag4165_CanvasRate
+Slot
+t:Value v:(n)40 x:894 y:-6750 d:Drag4166_Value
+t:Value v:(n)35 x:1006 y:-6750 d:Drag4167_Value
+EndSlot
+t:Picture v:(s)NQA0AC4AcABuAGcA x:536 y:-6790 d:Drag4168_Picture
+EndSlot
+t:Delay v:(o) x:464 y:-6855 d:Drag4169_Delay
+Slot
+t:Value v:(n)2 x:508 y:-6860 d:Drag4170_Value
+EndSlot
+t:CreateImage v:(o) x:464 y:-6905 d:Drag4171_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0ANQA= x:597 y:-6910 d:Drag4172_StringValue
+t:CanvasRate v:(o) x:508 y:-6945 d:Drag4173_CanvasRate
+Slot
+t:Value v:(n)55 x:566 y:-6950 d:Drag4174_Value
+t:Value v:(n)50 x:678 y:-6950 d:Drag4175_Value
+EndSlot
+t:CanvasRate v:(o) x:836 y:-6945 d:Drag4176_CanvasRate
+Slot
+t:Value v:(n)40 x:894 y:-6950 d:Drag4177_Value
+t:Value v:(n)25 x:1006 y:-6950 d:Drag4178_Value
+EndSlot
+t:Picture v:(s)NQA3AC4AcABuAGcA x:536 y:-6990 d:Drag4179_Picture
+EndSlot
+t:Delay v:(o) x:464 y:-7055 d:Drag4180_Delay
+Slot
+t:Value v:(n)2 x:508 y:-7060 d:Drag4181_Value
+EndSlot
+t:CreateImage v:(o) x:464 y:-7105 d:Drag4182_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0ANgA= x:597 y:-7110 d:Drag4183_StringValue
+t:CanvasRate v:(o) x:508 y:-7145 d:Drag4184_CanvasRate
+Slot
+t:Value v:(n)55 x:566 y:-7150 d:Drag4185_Value
+t:Value v:(n)75 x:678 y:-7150 d:Drag4186_Value
+EndSlot
+t:CanvasRate v:(o) x:836 y:-7145 d:Drag4187_CanvasRate
+Slot
+t:Value v:(n)40 x:894 y:-7150 d:Drag4188_Value
+t:Value v:(n)25 x:1006 y:-7150 d:Drag4189_Value
+EndSlot
+t:Picture v:(s)NQA4AC4AcABuAGcA x:536 y:-7190 d:Drag4190_Picture
+EndSlot
+t:Delay v:(o) x:464 y:-7255 d:Drag4191_Delay
+Slot
+t:Value v:(n)2 x:508 y:-7260 d:Drag4192_Value
+EndSlot
+t:CreateImage v:(o) x:464 y:-7305 d:Drag4193_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0ANwA= x:597 y:-7310 d:Drag4194_StringValue
+t:CanvasRate v:(o) x:508 y:-7345 d:Drag4195_CanvasRate
+Slot
+t:Value v:(n)30 x:566 y:-7350 d:Drag4196_Value
+t:Value v:(n)85 x:678 y:-7350 d:Drag4197_Value
+EndSlot
+t:CanvasRate v:(o) x:836 y:-7345 d:Drag4198_CanvasRate
+Slot
+t:Value v:(n)20 x:894 y:-7350 d:Drag4199_Value
+t:Value v:(n)15 x:1006 y:-7350 d:Drag4200_Value
+EndSlot
+t:Picture v:(s)NQA5AC4AcABuAGcA x:536 y:-7390 d:Drag4201_Picture
+EndSlot
+t:While v:(o) x:464 y:-7455 d:Drag4202_While
+Slot
+t:Less v:(o) x:528 y:-7460 d:Drag4203_Less
+Slot
+t:Reference v:(s)MAA= x:540 y:-7465 d:Drag4204_Reference
+t:Value v:(n)1 x:618 y:-7465 d:Drag4205_Value
+EndSlot
+EndSlot
+Insert
+t:If v:(o) x:481 y:-7515 d:Drag4206_If
+Slot
+t:MouseHoverOn v:(o) x:559 y:-7520 d:Drag4207_MouseHoverOn
+Slot
+t:StringValue v:(s)MQA5AC0ANwA= x:673 y:-7525 d:Drag4208_StringValue
+EndSlot
+EndSlot
+Insert
+t:If v:(o) x:498 y:-7575 d:Drag4209_If
+Slot
+t:MouseLeftUnderPress v:(o) x:576 y:-7580 d:Drag4210_MouseLeftUnderPress
+EndSlot
+Insert
+t:CreateImage v:(o) x:515 y:-7635 d:Drag4211_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0ANwAtADEA x:648 y:-7640 d:Drag4212_StringValue
+t:CanvasRate v:(o) x:559 y:-7675 d:Drag4213_CanvasRate
+Slot
+t:Value v:(n)0 x:617 y:-7680 d:Drag4214_Value
+t:Value v:(n)0 x:723 y:-7680 d:Drag4215_Value
+EndSlot
+t:CanvasRate v:(o) x:875 y:-7675 d:Drag4216_CanvasRate
+Slot
+t:Value v:(n)100 x:933 y:-7680 d:Drag4217_Value
+t:Value v:(n)100 x:1053 y:-7680 d:Drag4218_Value
+EndSlot
+t:Picture v:(s)OAAuAHAAbgBnAA== x:587 y:-7720 d:Drag4219_Picture
+EndSlot
+t:CreateImage v:(o) x:515 y:-7785 d:Drag4220_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0ANwAtADIA x:648 y:-7790 d:Drag4221_StringValue
+t:CanvasRate v:(o) x:559 y:-7825 d:Drag4222_CanvasRate
+Slot
+t:Value v:(n)0 x:617 y:-7830 d:Drag4223_Value
+t:Value v:(n)10 x:723 y:-7830 d:Drag4224_Value
+EndSlot
+t:CanvasRate v:(o) x:881 y:-7825 d:Drag4225_CanvasRate
+Slot
+t:Value v:(n)47 x:939 y:-7830 d:Drag4226_Value
+t:Value v:(n)40 x:1051 y:-7830 d:Drag4227_Value
+EndSlot
+t:Picture v:(s)NgAwAC4AcABuAGcA x:587 y:-7870 d:Drag4228_Picture
+EndSlot
+t:Delay x:515 y:-7935 d:Drag4229_Delay
+Slot
+t:Value v:(n)2 x:559 y:-7940 d:Drag4230_Value
+EndSlot
+t:CreateImage v:(o) x:515 y:-7985 d:Drag4231_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0ANwAtADMA x:648 y:-7990 d:Drag4232_StringValue
+t:CanvasRate v:(o) x:559 y:-8025 d:Drag4233_CanvasRate
+Slot
+t:Value v:(n)0 x:617 y:-8030 d:Drag4234_Value
+t:Value v:(n)50 x:723 y:-8030 d:Drag4235_Value
+EndSlot
+t:CanvasRate v:(o) x:881 y:-8025 d:Drag4236_CanvasRate
+Slot
+t:Value v:(n)47 x:939 y:-8030 d:Drag4237_Value
+t:Value v:(n)30 x:1051 y:-8030 d:Drag4238_Value
+EndSlot
+t:Picture v:(s)NgAxAC4AcABuAGcA x:587 y:-8070 d:Drag4239_Picture
+EndSlot
+t:Delay x:515 y:-8135 d:Drag4240_Delay
+Slot
+t:Value v:(n)2 x:559 y:-8140 d:Drag4241_Value
+EndSlot
+t:CreateImage v:(o) x:515 y:-8185 d:Drag4242_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0ANwAtADQA x:648 y:-8190 d:Drag4243_StringValue
+t:CanvasRate v:(o) x:559 y:-8225 d:Drag4244_CanvasRate
+Slot
+t:Value v:(n)48 x:617 y:-8230 d:Drag4245_Value
+t:Value v:(n)10 x:729 y:-8230 d:Drag4246_Value
+EndSlot
+t:CanvasRate v:(o) x:887 y:-8225 d:Drag4247_CanvasRate
+Slot
+t:Value v:(n)50 x:945 y:-8230 d:Drag4248_Value
+t:Value v:(n)50 x:1057 y:-8230 d:Drag4249_Value
+EndSlot
+t:Picture v:(s)NgAyAC4AcABuAGcA x:587 y:-8270 d:Drag4250_Picture
+EndSlot
+t:Break x:515 y:-8335 d:Drag4251_Break
+EndInsert
+EndInsert
+EndInsert
+t:CreateImage v:(o) x:464 y:-8430 d:Drag4252_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOAA= x:597 y:-8435 d:Drag4253_StringValue
+t:CanvasRate v:(o) x:508 y:-8470 d:Drag4254_CanvasRate
+Slot
+t:Value v:(n)60 x:566 y:-8475 d:Drag4255_Value
+t:Value v:(n)70 x:678 y:-8475 d:Drag4256_Value
+EndSlot
+t:CanvasRate v:(o) x:836 y:-8470 d:Drag4257_CanvasRate
+Slot
+t:Value v:(n)20 x:894 y:-8475 d:Drag4258_Value
+t:Value v:(n)15 x:1006 y:-8475 d:Drag4259_Value
+EndSlot
+t:Picture v:(s)NQA5AC4AcABuAGcA x:536 y:-8515 d:Drag4260_Picture
+EndSlot
+t:While v:(o) x:464 y:-8580 d:Drag4261_While
+Slot
+t:Less v:(o) x:528 y:-8585 d:Drag4262_Less
+Slot
+t:Reference v:(s)MAA= x:540 y:-8590 d:Drag4263_Reference
+t:Value v:(n)1 x:618 y:-8590 d:Drag4264_Value
+EndSlot
+EndSlot
+Insert
+t:If v:(o) x:481 y:-8640 d:Drag4265_If
+Slot
+t:MouseHoverOn v:(o) x:559 y:-8645 d:Drag4266_MouseHoverOn
+Slot
+t:StringValue v:(s)MQA5AC0AOAA= x:673 y:-8650 d:Drag4267_StringValue
+EndSlot
+EndSlot
+Insert
+t:If v:(o) x:498 y:-8700 d:Drag4268_If
+Slot
+t:MouseLeftUnderPress v:(o) x:576 y:-8705 d:Drag4269_MouseLeftUnderPress
+EndSlot
+Insert
+t:CreateImage v:(o) x:515 y:-8760 d:Drag4270_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOAAtADEA x:648 y:-8765 d:Drag4271_StringValue
+t:CanvasRate v:(o) x:559 y:-8800 d:Drag4272_CanvasRate
+Slot
+t:Value v:(n)0 x:617 y:-8805 d:Drag4273_Value
+t:Value v:(n)0 x:723 y:-8805 d:Drag4274_Value
+EndSlot
+t:CanvasRate v:(o) x:875 y:-8800 d:Drag4275_CanvasRate
+Slot
+t:Value v:(n)100 x:933 y:-8805 d:Drag4276_Value
+t:Value v:(n)100 x:1053 y:-8805 d:Drag4277_Value
+EndSlot
+t:Picture v:(s)OAAuAHAAbgBnAA== x:587 y:-8845 d:Drag4278_Picture
+EndSlot
+t:CreateImage v:(o) x:515 y:-8910 d:Drag4279_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOAAtADIA x:648 y:-8915 d:Drag4280_StringValue
+t:CanvasRate v:(o) x:559 y:-8950 d:Drag4281_CanvasRate
+Slot
+t:Value v:(n)1 x:617 y:-8955 d:Drag4282_Value
+t:Value v:(n)10 x:723 y:-8955 d:Drag4283_Value
+EndSlot
+t:CanvasRate v:(o) x:881 y:-8950 d:Drag4284_CanvasRate
+Slot
+t:Value v:(n)50 x:939 y:-8955 d:Drag4285_Value
+t:Value v:(n)80 x:1051 y:-8955 d:Drag4286_Value
+EndSlot
+t:Picture v:(s)NgA0AC4AcABuAGcA x:587 y:-8995 d:Drag4287_Picture
+EndSlot
+t:Delay x:515 y:-9060 d:Drag4288_Delay
+Slot
+t:Value v:(n)2 x:559 y:-9065 d:Drag4289_Value
+EndSlot
+t:CreateImage v:(o) x:515 y:-9110 d:Drag4290_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOAAtADMA x:648 y:-9115 d:Drag4291_StringValue
+t:CanvasRate v:(o) x:559 y:-9150 d:Drag4292_CanvasRate
+Slot
+t:Value v:(n)50 x:617 y:-9155 d:Drag4293_Value
+t:Value v:(n)10 x:729 y:-9155 d:Drag4294_Value
+EndSlot
+t:CanvasRate v:(o) x:887 y:-9150 d:Drag4295_CanvasRate
+Slot
+t:Value v:(n)45 x:945 y:-9155 d:Drag4296_Value
+t:Value v:(n)40 x:1057 y:-9155 d:Drag4297_Value
+EndSlot
+t:Picture v:(s)NgA1AC4AcABuAGcA x:587 y:-9195 d:Drag4298_Picture
+EndSlot
+t:Delay x:515 y:-9260 d:Drag4299_Delay
+Slot
+t:Value v:(n)2 x:559 y:-9265 d:Drag4300_Value
+EndSlot
+t:CreateImage v:(o) x:515 y:-9310 d:Drag4301_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOAAtADQA x:648 y:-9315 d:Drag4302_StringValue
+t:CanvasRate v:(o) x:559 y:-9350 d:Drag4303_CanvasRate
+Slot
+t:Value v:(n)53 x:617 y:-9355 d:Drag4304_Value
+t:Value v:(n)50 x:729 y:-9355 d:Drag4305_Value
+EndSlot
+t:CanvasRate v:(o) x:887 y:-9350 d:Drag4306_CanvasRate
+Slot
+t:Value v:(n)40 x:945 y:-9355 d:Drag4307_Value
+t:Value v:(n)30 x:1057 y:-9355 d:Drag4308_Value
+EndSlot
+t:Picture v:(s)NgA2AC4AcABuAGcA x:587 y:-9395 d:Drag4309_Picture
+EndSlot
+t:Break x:515 y:-9460 d:Drag4310_Break
+EndInsert
+EndInsert
+EndInsert
+t:CreateImage v:(o) x:464 y:-9555 d:Drag4311_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOQA= x:597 y:-9560 d:Drag4312_StringValue
+t:CanvasRate v:(o) x:508 y:-9595 d:Drag4313_CanvasRate
+Slot
+t:Value v:(n)60 x:566 y:-9600 d:Drag4314_Value
+t:Value v:(n)80 x:678 y:-9600 d:Drag4315_Value
+EndSlot
+t:CanvasRate v:(o) x:836 y:-9595 d:Drag4316_CanvasRate
+Slot
+t:Value v:(n)20 x:894 y:-9600 d:Drag4317_Value
+t:Value v:(n)15 x:1006 y:-9600 d:Drag4318_Value
+EndSlot
+t:Picture v:(s)NQA5AC4AcABuAGcA x:536 y:-9640 d:Drag4319_Picture
+EndSlot
+t:While v:(o) x:464 y:-9705 d:Drag4320_While
+Slot
+t:Less v:(o) x:528 y:-9710 d:Drag4321_Less
+Slot
+t:Reference v:(s)MAA= x:540 y:-9715 d:Drag4322_Reference
+t:Value v:(n)1 x:618 y:-9715 d:Drag4323_Value
+EndSlot
+EndSlot
+Insert
+t:If v:(o) x:481 y:-9765 d:Drag4324_If
+Slot
+t:MouseHoverOn v:(o) x:559 y:-9770 d:Drag4325_MouseHoverOn
+Slot
+t:StringValue v:(s)MQA5AC0AOQA= x:673 y:-9775 d:Drag4326_StringValue
+EndSlot
+EndSlot
+Insert
+t:If v:(o) x:498 y:-9825 d:Drag4327_If
+Slot
+t:MouseLeftUnderPress v:(o) x:576 y:-9830 d:Drag4328_MouseLeftUnderPress
+EndSlot
+Insert
+t:CreateImage v:(o) x:515 y:-9885 d:Drag4329_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOQAtADEA x:648 y:-9890 d:Drag4330_StringValue
+t:CanvasRate v:(o) x:559 y:-9925 d:Drag4331_CanvasRate
+Slot
+t:Value v:(n)0 x:617 y:-9930 d:Drag4332_Value
+t:Value v:(n)0 x:723 y:-9930 d:Drag4333_Value
+EndSlot
+t:CanvasRate v:(o) x:875 y:-9925 d:Drag4334_CanvasRate
+Slot
+t:Value v:(n)100 x:933 y:-9930 d:Drag4335_Value
+t:Value v:(n)100 x:1053 y:-9930 d:Drag4336_Value
+EndSlot
+t:Picture v:(s)OAAuAHAAbgBnAA== x:587 y:-9970 d:Drag4337_Picture
+EndSlot
+t:CreateImage v:(o) x:515 y:-10035 d:Drag4338_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOQAtADIA x:648 y:-10040 d:Drag4339_StringValue
+t:CanvasRate v:(o) x:559 y:-10075 d:Drag4340_CanvasRate
+Slot
+t:Value v:(n)5 x:617 y:-10080 d:Drag4341_Value
+t:Value v:(n)0 x:723 y:-10080 d:Drag4342_Value
+EndSlot
+t:CanvasRate v:(o) x:875 y:-10075 d:Drag4343_CanvasRate
+Slot
+t:Value v:(n)40 x:933 y:-10080 d:Drag4344_Value
+t:Value v:(n)100 x:1045 y:-10080 d:Drag4345_Value
+EndSlot
+t:Picture v:(s)NgA3AC4AcABuAGcA x:587 y:-10120 d:Drag4346_Picture
+EndSlot
+t:Delay x:515 y:-10185 d:Drag4347_Delay
+Slot
+t:Value v:(n)2 x:559 y:-10190 d:Drag4348_Value
+EndSlot
+t:CreateImage v:(o) x:515 y:-10235 d:Drag4349_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOQAtADMA x:648 y:-10240 d:Drag4350_StringValue
+t:CanvasRate v:(o) x:559 y:-10275 d:Drag4351_CanvasRate
+Slot
+t:Value v:(n)50 x:617 y:-10280 d:Drag4352_Value
+t:Value v:(n)0 x:729 y:-10280 d:Drag4353_Value
+EndSlot
+t:CanvasRate v:(o) x:881 y:-10275 d:Drag4354_CanvasRate
+Slot
+t:Value v:(n)45 x:939 y:-10280 d:Drag4355_Value
+t:Value v:(n)30 x:1051 y:-10280 d:Drag4356_Value
+EndSlot
+t:Picture v:(s)NgA4AC4AcABuAGcA x:587 y:-10320 d:Drag4357_Picture
+EndSlot
+t:Delay x:515 y:-10385 d:Drag4358_Delay
+Slot
+t:Value v:(n)2 x:559 y:-10390 d:Drag4359_Value
+EndSlot
+t:CreateImage v:(o) x:515 y:-10435 d:Drag4360_CreateImage
+Slot
+t:StringValue v:(s)MQA5AC0AOQAtADQA x:648 y:-10440 d:Drag4361_StringValue
+t:CanvasRate v:(o) x:559 y:-10475 d:Drag4362_CanvasRate
+Slot
+t:Value v:(n)50 x:617 y:-10480 d:Drag4363_Value
+t:Value v:(n)30 x:729 y:-10480 d:Drag4364_Value
+EndSlot
+t:CanvasRate v:(o) x:887 y:-10475 d:Drag4365_CanvasRate
+Slot
+t:Value v:(n)45 x:945 y:-10480 d:Drag4366_Value
+t:Value v:(n)70 x:1057 y:-10480 d:Drag4367_Value
+EndSlot
+t:Picture v:(s)NgA5AC4AcABuAGcA x:587 y:-10520 d:Drag4368_Picture
+EndSlot
+t:Break x:515 y:-10585 d:Drag4369_Break
+EndInsert
+EndInsert
+EndInsert
+t:CreateImage v:(o) x:464 y:-10680 d:Drag4370_CreateImage
+Slot
+t:StringValue v:(s)MgAwAA== x:597 y:-10685 d:Drag4371_StringValue
+t:CanvasRate v:(o) x:508 y:-10720 d:Drag4372_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-10725 d:Drag4373_Value
+t:Value v:(n)90 x:672 y:-10725 d:Drag4374_Value
+EndSlot
+t:CanvasRate v:(o) x:830 y:-10720 d:Drag4375_CanvasRate
+Slot
+t:Value v:(n)20 x:888 y:-10725 d:Drag4376_Value
+t:Value v:(n)10 x:1000 y:-10725 d:Drag4377_Value
+EndSlot
+t:Picture v:(s)/lYyAC4AcABuAGcA x:536 y:-10765 d:Drag4378_Picture
+EndSlot
+t:HandleMouseDown x:464 y:-10830 d:Drag4379_HandleMouseDown
+Slot
+t:StringValue v:(s)MgAwAA== x:550 y:-10835 d:Drag4380_StringValue
+t:StringValue v:(s)U19NUg== x:508 y:-10870 d:Drag4381_StringValue
+EndSlot
+EndInsert
+t:Sub v:(s)MQA4AA== x:447 y:-10930 d:Drag4382_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-10935 d:Drag4383_LocalReference
+EndSlot
+Insert
+t:CreateImage v:(o) x:464 y:-10980 d:Drag4384_CreateImage
+Slot
+t:StringValue v:(s)MQA4AC0AMAA= x:597 y:-10985 d:Drag4385_StringValue
+t:CanvasRate v:(o) x:508 y:-11020 d:Drag4386_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-11025 d:Drag4387_Value
+t:Value v:(n)0 x:672 y:-11025 d:Drag4388_Value
+EndSlot
+t:CanvasRate v:(o) x:824 y:-11020 d:Drag4389_CanvasRate
+Slot
+t:Value v:(n)100 x:882 y:-11025 d:Drag4390_Value
+t:Value v:(n)100 x:1002 y:-11025 d:Drag4391_Value
+EndSlot
+t:Picture v:(s)UQBQADkASQBBAFsATQBgADgARQAyADIAWABHAFEAJQA3AFcAQwB+ACkASAA5AC4AcABuAGcA x:536 y:-11065 d:Drag4392_Picture
+EndSlot
+t:BeginCreateMoviePlayer v:(o) x:464 y:-11130 d:Drag4393_BeginCreateMoviePlayer
+Slot
+t:StringValue v:(s)MQA4AC0AMQA= x:676 y:-11135 d:Drag4394_StringValue
+t:CanvasRate v:(o) x:508 y:-11170 d:Drag4395_CanvasRate
+Slot
+t:Value v:(n)22 x:566 y:-11175 d:Drag4396_Value
+t:Value v:(n)10 x:678 y:-11175 d:Drag4397_Value
+EndSlot
+t:CanvasRate v:(o) x:836 y:-11170 d:Drag4398_CanvasRate
+Slot
+t:Value v:(n)60 x:894 y:-11175 d:Drag4399_Value
+t:Value v:(n)60 x:1006 y:-11175 d:Drag4400_Value
+EndSlot
+t:Movie v:(s)bAB2AF8AMABfADIAMAAyADMAMAA2ADEANAAyADAAMgA2ADIANgAuAG0AcAA0AA== x:536 y:-11215 d:Drag4401_Movie
+t:Value v:(n)0 x:732 y:-11225 d:Drag4402_Value
+t:Value v:(n)0 x:852 y:-11225 d:Drag4403_Value
+t:StringValue v:(s) x:578 y:-11270 d:Drag4404_StringValue
+EndSlot
+t:BeginCreateMoviePlayer v:(o) x:464 y:-11315 d:Drag4405_BeginCreateMoviePlayer
+Slot
+t:StringValue v:(s)MQA4AC0AMwA= x:676 y:-11320 d:Drag4406_StringValue
+t:CanvasRate v:(o) x:508 y:-11355 d:Drag4407_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-11360 d:Drag4408_Value
+t:Value v:(n)0 x:672 y:-11360 d:Drag4409_Value
+EndSlot
+t:CanvasRate v:(o) x:824 y:-11355 d:Drag4410_CanvasRate
+Slot
+t:Value v:(n)0 x:882 y:-11360 d:Drag4411_Value
+t:Value v:(n)0 x:988 y:-11360 d:Drag4412_Value
+EndSlot
+t:Movie v:(s)bAB2AF8AMABfADIAMAAyADMAMAA2ADEANAAyADEAMQA1ADIANgAuAG0AcAA0AA== x:536 y:-11400 d:Drag4413_Movie
+t:Value v:(n)100 x:732 y:-11410 d:Drag4414_Value
+t:Value v:(n)0 x:866 y:-11410 d:Drag4415_Value
+t:StringValue v:(s) x:578 y:-11455 d:Drag4416_StringValue
+EndSlot
+t:CreateImage x:464 y:-11500 d:Drag4417_CreateImage
+Slot
+t:StringValue v:(s)MQA3AC0AMQAtADEA x:597 y:-11505 d:Drag4418_StringValue
+t:CanvasRate x:508 y:-11540 d:Drag4419_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-11545 d:Drag4420_Value
+t:Value v:(n)30 x:672 y:-11545 d:Drag4421_Value
+EndSlot
+t:CanvasRate x:830 y:-11540 d:Drag4422_CanvasRate
+Slot
+t:Value v:(n)20 x:888 y:-11545 d:Drag4423_Value
+t:Value v:(n)8 x:1000 y:-11545 d:Drag4424_Value
+EndSlot
+t:Picture v:(s)/lYxAC4AcABuAGcA x:536 y:-11585 d:Drag4425_Picture
+EndSlot
+t:HandleMouseDown x:464 y:-11650 d:Drag4426_HandleMouseDown
+Slot
+t:StringValue v:(s)MQA3AC0AMQAtADEA x:550 y:-11655 d:Drag4427_StringValue
+t:StringValue v:(s)O07cg1VT x:508 y:-11690 d:Drag4428_StringValue
+EndSlot
+t:CreateImage x:464 y:-11735 d:Drag4429_CreateImage
+Slot
+t:StringValue v:(s)MQA3AC0AMQAtADIA x:597 y:-11740 d:Drag4430_StringValue
+t:CanvasRate x:508 y:-11775 d:Drag4431_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-11780 d:Drag4432_Value
+t:Value v:(n)50 x:672 y:-11780 d:Drag4433_Value
+EndSlot
+t:CanvasRate x:830 y:-11775 d:Drag4434_CanvasRate
+Slot
+t:Value v:(n)20 x:888 y:-11780 d:Drag4435_Value
+t:Value v:(n)8 x:1000 y:-11780 d:Drag4436_Value
+EndSlot
+t:Picture v:(s)/lYyAC4AcABuAGcA x:536 y:-11820 d:Drag4437_Picture
+EndSlot
+t:HandleMouseDown x:464 y:-11885 d:Drag4438_HandleMouseDown
+Slot
+t:StringValue v:(s)MQA3AC0AMQAtADIA x:550 y:-11890 d:Drag4439_StringValue
+t:StringValue v:(s)U19NUg== x:508 y:-11925 d:Drag4440_StringValue
+EndSlot
+EndInsert
+t:Sub v:(s)MgAwAA== x:447 y:-11985 d:Drag4441_Sub
+Slot
+t:LocalReference v:(s) x:579 y:-11990 d:Drag4442_LocalReference
+EndSlot
+Insert
+t:CreateImage v:(o) x:464 y:-12035 d:Drag4443_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AMAA= x:597 y:-12040 d:Drag4444_StringValue
+t:CanvasRate v:(o) x:508 y:-12075 d:Drag4445_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:-12080 d:Drag4446_Value
+t:Value v:(n)0 x:672 y:-12080 d:Drag4447_Value
+EndSlot
+t:CanvasRate v:(o) x:824 y:-12075 d:Drag4448_CanvasRate
+Slot
+t:Value v:(n)100 x:882 y:-12080 d:Drag4449_Value
+t:Value v:(n)100 x:1002 y:-12080 d:Drag4450_Value
+EndSlot
+t:Picture v:(s)/lY0AC4AcABuAGcA x:536 y:-12120 d:Drag4451_Picture
+EndSlot
+t:Delay x:464 y:-12185 d:Drag4452_Delay
+Slot
+t:Value v:(n)0.2 x:508 y:-12190 d:Drag4453_Value
+EndSlot
+t:CreateImage v:(o) x:464 y:-12235 d:Drag4454_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AMQA= x:597 y:-12240 d:Drag4455_StringValue
+t:CanvasRate v:(o) x:508 y:-12275 d:Drag4456_CanvasRate
+Slot
+t:Value v:(n)5 x:566 y:-12280 d:Drag4457_Value
+t:Value v:(n)5 x:672 y:-12280 d:Drag4458_Value
+EndSlot
+t:CanvasRate v:(o) x:824 y:-12275 d:Drag4459_CanvasRate
+Slot
+t:Value v:(n)50 x:882 y:-12280 d:Drag4460_Value
+t:Value v:(n)10 x:994 y:-12280 d:Drag4461_Value
+EndSlot
+t:Picture v:(s)/lYzAC4AcABuAGcA x:536 y:-12320 d:Drag4462_Picture
+EndSlot
+t:SetControlPivot2 x:464 y:-12385 d:Drag4463_SetControlPivot2
+Slot
+t:StringValue v:(s)MgAwAC0AMQA= x:536 y:-12390 d:Drag4464_StringValue
+t:Align x:690 y:-12390 d:Drag4465_Align v:(n)2
+EndSlot
+t:ForCount x:464 y:-12435 d:Drag4466_ForCount
+Slot
+t:Value v:(n)45 x:570 y:-12440 d:Drag4467_Value
+EndSlot
+Insert
+t:MoveControl x:481 y:-12485 d:Drag4468_MoveControl
+Slot
+t:StringValue v:(s)MgAwAC0AMQA= x:539 y:-12495 d:Drag4469_StringValue
+t:CanvasRate v:(o) x:749 y:-12490 d:Drag4470_CanvasRate
+Slot
+t:Value v:(n)1 x:807 y:-12495 d:Drag4471_Value
+t:Value v:(n)0 x:913 y:-12495 d:Drag4472_Value
+EndSlot
+EndSlot
+t:Delay x:481 y:-12545 d:Drag4473_Delay
+Slot
+t:Value v:(n)0.001 x:525 y:-12550 d:Drag4474_Value
+EndSlot
+EndInsert
+t:Delay x:464 y:-12610 d:Drag4475_Delay
+Slot
+t:Value v:(n)0.2 x:508 y:-12615 d:Drag4476_Value
+EndSlot
+t:CreateImage x:464 y:-12660 d:Drag4477_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0ANQA= x:597 y:-12665 d:Drag4478_StringValue
+t:CanvasRate v:(o) x:508 y:-12700 d:Drag4479_CanvasRate
+Slot
+t:Value v:(n)5 x:566 y:-12705 d:Drag4480_Value
+t:Value v:(n)15 x:672 y:-12705 d:Drag4481_Value
+EndSlot
+t:CanvasRate v:(o) x:830 y:-12700 d:Drag4482_CanvasRate
+Slot
+t:Value v:(n)50 x:888 y:-12705 d:Drag4483_Value
+t:Value v:(n)10 x:1000 y:-12705 d:Drag4484_Value
+EndSlot
+t:Picture v:(s)MQA1AC4AcABuAGcA x:536 y:-12745 d:Drag4485_Picture
+EndSlot
+t:Delay x:464 y:-12810 d:Drag4486_Delay
+Slot
+t:Value v:(n)0.3 x:508 y:-12815 d:Drag4487_Value
+EndSlot
+t:CreateImage x:464 y:-12860 d:Drag4488_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0ANAA= x:597 y:-12865 d:Drag4489_StringValue
+t:CanvasRate v:(o) x:508 y:-12900 d:Drag4490_CanvasRate
+Slot
+t:Value v:(n)10 x:566 y:-12905 d:Drag4491_Value
+t:Value v:(n)30 x:678 y:-12905 d:Drag4492_Value
+EndSlot
+t:CanvasRate v:(o) x:836 y:-12900 d:Drag4493_CanvasRate
+Slot
+t:Value v:(n)60 x:894 y:-12905 d:Drag4494_Value
+t:Value v:(n)25 x:1006 y:-12905 d:Drag4495_Value
+EndSlot
+t:Picture v:(s)/lY1AC4AcABuAGcA x:536 y:-12945 d:Drag4496_Picture
+EndSlot
+t:Delay x:464 y:-13010 d:Drag4497_Delay
+Slot
+t:Value v:(n)1 x:508 y:-13015 d:Drag4498_Value
+EndSlot
+t:CreateImage x:464 y:-13060 d:Drag4499_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0ANgA= x:597 y:-13065 d:Drag4500_StringValue
+t:CanvasRate v:(o) x:508 y:-13100 d:Drag4501_CanvasRate
+Slot
+t:Value v:(n)5 x:566 y:-13105 d:Drag4502_Value
+t:Value v:(n)20 x:672 y:-13105 d:Drag4503_Value
+EndSlot
+t:CanvasRate v:(o) x:830 y:-13100 d:Drag4504_CanvasRate
+Slot
+t:Value v:(n)70 x:888 y:-13105 d:Drag4505_Value
+t:Value v:(n)15 x:1000 y:-13105 d:Drag4506_Value
+EndSlot
+t:Picture v:(s)MQA2AC4AcABuAGcA x:536 y:-13145 d:Drag4507_Picture
+EndSlot
+t:Delay x:464 y:-13210 d:Drag4508_Delay
+Slot
+t:Value v:(n)1 x:508 y:-13215 d:Drag4509_Value
+EndSlot
+t:CreateImage x:464 y:-13260 d:Drag4510_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0ANwA= x:597 y:-13265 d:Drag4511_StringValue
+t:CanvasRate v:(o) x:508 y:-13300 d:Drag4512_CanvasRate
+Slot
+t:Value v:(n)5 x:566 y:-13305 d:Drag4513_Value
+t:Value v:(n)60 x:672 y:-13305 d:Drag4514_Value
+EndSlot
+t:CanvasRate v:(o) x:830 y:-13300 d:Drag4515_CanvasRate
+Slot
+t:Value v:(n)75 x:888 y:-13305 d:Drag4516_Value
+t:Value v:(n)15 x:1000 y:-13305 d:Drag4517_Value
+EndSlot
+t:Picture v:(s)MQA4AC4AcABuAGcA x:536 y:-13345 d:Drag4518_Picture
+EndSlot
+t:Delay x:464 y:-13410 d:Drag4519_Delay
+Slot
+t:Value v:(n)1 x:508 y:-13415 d:Drag4520_Value
+EndSlot
+t:CreateImage x:464 y:-13460 d:Drag4521_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOAA= x:597 y:-13465 d:Drag4522_StringValue
+t:CanvasRate v:(o) x:508 y:-13500 d:Drag4523_CanvasRate
+Slot
+t:Value v:(n)5 x:566 y:-13505 d:Drag4524_Value
+t:Value v:(n)70 x:672 y:-13505 d:Drag4525_Value
+EndSlot
+t:CanvasRate v:(o) x:830 y:-13500 d:Drag4526_CanvasRate
+Slot
+t:Value v:(n)70 x:888 y:-13505 d:Drag4527_Value
+t:Value v:(n)30 x:1000 y:-13505 d:Drag4528_Value
+EndSlot
+t:Picture v:(s)MQA3AC4AcABuAGcA x:536 y:-13545 d:Drag4529_Picture
+EndSlot
+t:Delay x:464 y:-13610 d:Drag4530_Delay
+Slot
+t:Value v:(n)2 x:508 y:-13615 d:Drag4531_Value
+EndSlot
+t:CreateImage x:464 y:-13660 d:Drag4532_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQA= x:597 y:-13665 d:Drag4533_StringValue
+t:CanvasRate v:(o) x:508 y:-13700 d:Drag4534_CanvasRate
+Slot
+t:Value v:(n)80 x:566 y:-13705 d:Drag4535_Value
+t:Value v:(n)80 x:678 y:-13705 d:Drag4536_Value
+EndSlot
+t:CanvasRate v:(o) x:836 y:-13700 d:Drag4537_CanvasRate
+Slot
+t:Value v:(n)20 x:894 y:-13705 d:Drag4538_Value
+t:Value v:(n)20 x:1006 y:-13705 d:Drag4539_Value
+EndSlot
+t:Picture v:(s)MQA5AC4AcABuAGcA x:536 y:-13745 d:Drag4540_Picture
+EndSlot
+t:While x:464 y:-13810 d:Drag4541_While
+Slot
+t:StringValue v:(s)MQA= x:528 y:-13815 d:Drag4542_StringValue
+EndSlot
+Insert
+t:If x:481 y:-13860 d:Drag4543_If
+Slot
+t:MouseHoverOn x:559 y:-13865 d:Drag4544_MouseHoverOn
+Slot
+t:StringValue v:(s)MgAwAC0AOQA= x:673 y:-13870 d:Drag4545_StringValue
+EndSlot
+EndSlot
+Insert
+t:If x:498 y:-13920 d:Drag4546_If
+Slot
+t:MouseLeftUnderPress x:576 y:-13925 d:Drag4547_MouseLeftUnderPress
+EndSlot
+Insert
+t:CreateImage x:515 y:-13980 d:Drag4548_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADEA x:648 y:-13985 d:Drag4549_StringValue
+t:CanvasRate v:(o) x:559 y:-14020 d:Drag4550_CanvasRate
+Slot
+t:Value v:(n)0 x:617 y:-14025 d:Drag4551_Value
+t:Value v:(n)0 x:723 y:-14025 d:Drag4552_Value
+EndSlot
+t:CanvasRate v:(o) x:875 y:-14020 d:Drag4553_CanvasRate
+Slot
+t:Value v:(n)100 x:933 y:-14025 d:Drag4554_Value
+t:Value v:(n)100 x:1053 y:-14025 d:Drag4555_Value
+EndSlot
+t:Picture v:(s)/lY0AC4AcABuAGcA x:587 y:-14065 d:Drag4556_Picture
+EndSlot
+t:Delay x:515 y:-14130 d:Drag4557_Delay
+Slot
+t:Value v:(n)1 x:559 y:-14135 d:Drag4558_Value
+EndSlot
+t:CreateImage x:515 y:-14180 d:Drag4559_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADIA x:648 y:-14185 d:Drag4560_StringValue
+t:CanvasRate v:(o) x:559 y:-14220 d:Drag4561_CanvasRate
+Slot
+t:Value v:(n)5 x:617 y:-14225 d:Drag4562_Value
+t:Value v:(n)5 x:723 y:-14225 d:Drag4563_Value
+EndSlot
+t:CanvasRate v:(o) x:875 y:-14220 d:Drag4564_CanvasRate
+Slot
+t:Value v:(n)80 x:933 y:-14225 d:Drag4565_Value
+t:Value v:(n)10 x:1045 y:-14225 d:Drag4566_Value
+EndSlot
+t:Picture v:(s)MgAxAC4AcABuAGcA x:587 y:-14265 d:Drag4567_Picture
+EndSlot
+t:Delay x:515 y:-14330 d:Drag4568_Delay
+Slot
+t:Value v:(n)1 x:559 y:-14335 d:Drag4569_Value
+EndSlot
+t:CreateImage x:515 y:-14380 d:Drag4570_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADMA x:648 y:-14385 d:Drag4571_StringValue
+t:CanvasRate v:(o) x:559 y:-14420 d:Drag4572_CanvasRate
+Slot
+t:Value v:(n)10 x:617 y:-14425 d:Drag4573_Value
+t:Value v:(n)15 x:729 y:-14425 d:Drag4574_Value
+EndSlot
+t:CanvasRate v:(o) x:887 y:-14420 d:Drag4575_CanvasRate
+Slot
+t:Value v:(n)75 x:945 y:-14425 d:Drag4576_Value
+t:Value v:(n)30 x:1057 y:-14425 d:Drag4577_Value
+EndSlot
+t:Picture v:(s)MgAyAC4AcABuAGcA x:587 y:-14465 d:Drag4578_Picture
+EndSlot
+t:Delay v:(o) x:515 y:-14530 d:Drag4579_Delay
+Slot
+t:Value v:(n)1 x:559 y:-14535 d:Drag4580_Value
+EndSlot
+t:CreateImage x:515 y:-14580 d:Drag4581_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADQA x:648 y:-14585 d:Drag4582_StringValue
+t:CanvasRate v:(o) x:559 y:-14620 d:Drag4583_CanvasRate
+Slot
+t:Value v:(n)2 x:617 y:-14625 d:Drag4584_Value
+t:Value v:(n)48 x:723 y:-14625 d:Drag4585_Value
+EndSlot
+t:CanvasRate v:(o) x:881 y:-14620 d:Drag4586_CanvasRate
+Slot
+t:Value v:(n)95 x:939 y:-14625 d:Drag4587_Value
+t:Value v:(n)10 x:1051 y:-14625 d:Drag4588_Value
+EndSlot
+t:Picture v:(s)MgAzAC4AcABuAGcA x:587 y:-14665 d:Drag4589_Picture
+EndSlot
+t:Delay v:(o) x:515 y:-14730 d:Drag4590_Delay
+Slot
+t:Value v:(n)1 x:559 y:-14735 d:Drag4591_Value
+EndSlot
+t:CreateImage x:515 y:-14780 d:Drag4592_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADUA x:648 y:-14785 d:Drag4593_StringValue
+t:CanvasRate v:(o) x:559 y:-14820 d:Drag4594_CanvasRate
+Slot
+t:Value v:(n)5 x:617 y:-14825 d:Drag4595_Value
+t:Value v:(n)60 x:723 y:-14825 d:Drag4596_Value
+EndSlot
+t:CanvasRate v:(o) x:881 y:-14820 d:Drag4597_CanvasRate
+Slot
+t:Value v:(n)75 x:939 y:-14825 d:Drag4598_Value
+t:Value v:(n)30 x:1051 y:-14825 d:Drag4599_Value
+EndSlot
+t:Picture v:(s)MgA3AC4AcABuAGcA x:587 y:-14865 d:Drag4600_Picture
+EndSlot
+t:Delay v:(o) x:515 y:-14930 d:Drag4601_Delay
+Slot
+t:Value v:(n)1 x:559 y:-14935 d:Drag4602_Value
+EndSlot
+t:CreateImage x:515 y:-14980 d:Drag4603_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYA x:648 y:-14985 d:Drag4604_StringValue
+t:CanvasRate v:(o) x:559 y:-15020 d:Drag4605_CanvasRate
+Slot
+t:Value v:(n)80 x:617 y:-15025 d:Drag4606_Value
+t:Value v:(n)80 x:729 y:-15025 d:Drag4607_Value
+EndSlot
+t:CanvasRate v:(o) x:887 y:-15020 d:Drag4608_CanvasRate
+Slot
+t:Value v:(n)20 x:945 y:-15025 d:Drag4609_Value
+t:Value v:(n)20 x:1057 y:-15025 d:Drag4610_Value
+EndSlot
+t:Picture v:(s)MQA5AC4AcABuAGcA x:587 y:-15065 d:Drag4611_Picture
+EndSlot
+t:While x:515 y:-15130 d:Drag4612_While
+Slot
+t:StringValue v:(s)MQA= x:579 y:-15135 d:Drag4613_StringValue
+EndSlot
+Insert
+t:If x:532 y:-15180 d:Drag4614_If
+Slot
+t:MouseHoverOn x:610 y:-15185 d:Drag4615_MouseHoverOn
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYA x:724 y:-15190 d:Drag4616_StringValue
+EndSlot
+EndSlot
+Insert
+t:If x:549 y:-15240 d:Drag4617_If
+Slot
+t:MouseLeftUnderPress x:627 y:-15245 d:Drag4618_MouseLeftUnderPress
+EndSlot
+Insert
+t:CreateImage x:566 y:-15300 d:Drag4619_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQAxAA== x:699 y:-15305 d:Drag4620_StringValue
+t:CanvasRate v:(o) x:610 y:-15340 d:Drag4621_CanvasRate
+Slot
+t:Value v:(n)0 x:668 y:-15345 d:Drag4622_Value
+t:Value v:(n)0 x:774 y:-15345 d:Drag4623_Value
+EndSlot
+t:CanvasRate v:(o) x:926 y:-15340 d:Drag4624_CanvasRate
+Slot
+t:Value v:(n)100 x:984 y:-15345 d:Drag4625_Value
+t:Value v:(n)100 x:1104 y:-15345 d:Drag4626_Value
+EndSlot
+t:Picture v:(s)/lY0AC4AcABuAGcA x:638 y:-15385 d:Drag4627_Picture
+EndSlot
+t:Delay x:566 y:-15450 d:Drag4628_Delay
+Slot
+t:Value v:(n)1 x:610 y:-15455 d:Drag4629_Value
+EndSlot
+t:CreateImage x:566 y:-15500 d:Drag4630_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQAyAA== x:699 y:-15505 d:Drag4631_StringValue
+t:CanvasRate v:(o) x:610 y:-15540 d:Drag4632_CanvasRate
+Slot
+t:Value v:(n)2 x:668 y:-15545 d:Drag4633_Value
+t:Value v:(n)10 x:774 y:-15545 d:Drag4634_Value
+EndSlot
+t:CanvasRate v:(o) x:932 y:-15540 d:Drag4635_CanvasRate
+Slot
+t:Value v:(n)97 x:990 y:-15545 d:Drag4636_Value
+t:Value v:(n)17 x:1102 y:-15545 d:Drag4637_Value
+EndSlot
+t:Picture v:(s)MgA1AC4AcABuAGcA x:638 y:-15585 d:Drag4638_Picture
+EndSlot
+t:Delay x:566 y:-15650 d:Drag4639_Delay
+Slot
+t:Value v:(n)1 x:610 y:-15655 d:Drag4640_Value
+EndSlot
+t:CreateImage x:566 y:-15700 d:Drag4641_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQAzAA== x:699 y:-15705 d:Drag4642_StringValue
+t:CanvasRate v:(o) x:610 y:-15740 d:Drag4643_CanvasRate
+Slot
+t:Value v:(n)20 x:668 y:-15745 d:Drag4644_Value
+t:Value v:(n)28 x:780 y:-15745 d:Drag4645_Value
+EndSlot
+t:CanvasRate v:(o) x:938 y:-15740 d:Drag4646_CanvasRate
+Slot
+t:Value v:(n)50 x:996 y:-15745 d:Drag4647_Value
+t:Value v:(n)30 x:1108 y:-15745 d:Drag4648_Value
+EndSlot
+t:Picture v:(s)MgA2AC4AcABuAGcA x:638 y:-15785 d:Drag4649_Picture
+EndSlot
+t:Delay v:(o) x:566 y:-15850 d:Drag4650_Delay
+Slot
+t:Value v:(n)5 x:610 y:-15855 d:Drag4651_Value
+EndSlot
+t:ControlHide v:(o) x:566 y:-15900 d:Drag4652_ControlHide
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQAyAA== x:638 y:-15905 d:Drag4653_StringValue
+EndSlot
+t:ControlHide v:(o) x:566 y:-15950 d:Drag4654_ControlHide
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQAzAA== x:638 y:-15955 d:Drag4655_StringValue
+EndSlot
+t:CreateImage x:566 y:-16000 d:Drag4656_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQA0AA== x:699 y:-16005 d:Drag4657_StringValue
+t:CanvasRate v:(o) x:610 y:-16040 d:Drag4658_CanvasRate
+Slot
+t:Value v:(n)10 x:668 y:-16045 d:Drag4659_Value
+t:Value v:(n)10 x:780 y:-16045 d:Drag4660_Value
+EndSlot
+t:CanvasRate v:(o) x:938 y:-16040 d:Drag4661_CanvasRate
+Slot
+t:Value v:(n)30 x:996 y:-16045 d:Drag4662_Value
+t:Value v:(n)15 x:1108 y:-16045 d:Drag4663_Value
+EndSlot
+t:Picture v:(s)MgA4AC4AcABuAGcA x:638 y:-16085 d:Drag4664_Picture
+EndSlot
+t:Delay v:(o) x:566 y:-16150 d:Drag4665_Delay
+Slot
+t:Value v:(n)1 x:610 y:-16155 d:Drag4666_Value
+EndSlot
+t:CreateImage x:566 y:-16200 d:Drag4667_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQA1AA== x:699 y:-16205 d:Drag4668_StringValue
+t:CanvasRate v:(o) x:610 y:-16240 d:Drag4669_CanvasRate
+Slot
+t:Value v:(n)2 x:668 y:-16245 d:Drag4670_Value
+t:Value v:(n)28 x:774 y:-16245 d:Drag4671_Value
+EndSlot
+t:CanvasRate v:(o) x:932 y:-16240 d:Drag4672_CanvasRate
+Slot
+t:Value v:(n)95 x:990 y:-16245 d:Drag4673_Value
+t:Value v:(n)110 x:1102 y:-16245 d:Drag4674_Value
+EndSlot
+t:Picture v:(s)MgA5AC4AcABuAGcA x:638 y:-16285 d:Drag4675_Picture
+EndSlot
+t:Break v:(o) x:566 y:-16350 d:Drag4676_Break
+EndInsert
+EndInsert
+EndInsert
+t:Break v:(o) x:515 y:-16445 d:Drag4677_Break
+EndInsert
+EndInsert
+EndInsert
+t:CreateImage x:464 y:-16540 d:Drag4678_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQA2AA== x:597 y:-16545 d:Drag4679_StringValue
+t:CanvasRate x:508 y:-16580 d:Drag4680_CanvasRate
+Slot
+t:Value v:(n)80 x:566 y:-16585 d:Drag4681_Value
+t:Value v:(n)0 x:678 y:-16585 d:Drag4682_Value
+EndSlot
+t:CanvasRate x:830 y:-16580 d:Drag4683_CanvasRate
+Slot
+t:Value v:(n)20 x:888 y:-16585 d:Drag4684_Value
+t:Value v:(n)8 x:1000 y:-16585 d:Drag4685_Value
+EndSlot
+t:Picture v:(s)/lYxAC4AcABuAGcA x:536 y:-16625 d:Drag4686_Picture
+EndSlot
+t:HandleMouseDown x:464 y:-16690 d:Drag4687_HandleMouseDown
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQA2AA== x:550 y:-16695 d:Drag4688_StringValue
+t:StringValue v:(s)O07cg1VT x:508 y:-16730 d:Drag4689_StringValue
+EndSlot
+t:CreateImage x:464 y:-16775 d:Drag4690_CreateImage
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQA3AA== x:597 y:-16780 d:Drag4691_StringValue
+t:CanvasRate x:508 y:-16815 d:Drag4692_CanvasRate
+Slot
+t:Value v:(n)80 x:566 y:-16820 d:Drag4693_Value
+t:Value v:(n)10 x:678 y:-16820 d:Drag4694_Value
+EndSlot
+t:CanvasRate x:836 y:-16815 d:Drag4695_CanvasRate
+Slot
+t:Value v:(n)20 x:894 y:-16820 d:Drag4696_Value
+t:Value v:(n)8 x:1006 y:-16820 d:Drag4697_Value
+EndSlot
+t:Picture v:(s)/lYyAC4AcABuAGcA x:536 y:-16860 d:Drag4698_Picture
+EndSlot
+t:HandleMouseDown x:464 y:-16925 d:Drag4699_HandleMouseDown
+Slot
+t:StringValue v:(s)MgAwAC0AOQAtADYALQA3AA== x:550 y:-16930 d:Drag4700_StringValue
+t:StringValue v:(s)U19NUg== x:508 y:-16965 d:Drag4701_StringValue
+EndSlot
+EndInsert
+EndInsert

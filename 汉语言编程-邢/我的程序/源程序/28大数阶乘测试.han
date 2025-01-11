@@ -1,0 +1,41 @@
+﻿Library bignumber
+t:Subs x:430 y:830 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:815 d:Drag551_Setup
+Insert
+t:Let v:(o) x:464 y:765 d:Drag552_Let
+Slot
+t:Reference v:(s)NpZYTg== x:494 y:755 d:Drag553_Reference
+t:CreateBigNumber v:(o) x:604 y:760 d:Drag554_CreateBigNumber
+Slot
+t:StringValue v:(s)MQA= x:648 y:755 d:Drag555_StringValue
+EndSlot
+EndSlot
+t:ForBasic v:(o) x:464 y:705 d:Drag556_ForBasic
+Slot
+t:LocalReference v:(s)QQA= x:528 y:700 d:Drag557_LocalReference
+t:Value v:(n)1 x:606 y:700 d:Drag558_Value
+t:Value v:(n)1000 x:684 y:700 d:Drag559_Value
+EndSlot
+Insert
+t:Let v:(o) x:481 y:655 d:Drag560_Let
+Slot
+t:Reference v:(s)NpZYTg== x:511 y:640 d:Drag561_Reference
+t:BigNumberMultiply v:(o) x:621 y:650 d:Drag562_BigNumberMultiply
+Slot
+t:Reference v:(s)NpZYTg== x:633 y:640 d:Drag563_Reference
+t:BigNumberDevideEx v:(o) x:735 y:645 d:Drag564_BigNumberDevideEx
+Slot
+t:LocalReference v:(s)QQA= x:747 y:640 d:Drag565_LocalReference
+t:Value v:(n)10 x:831 y:640 d:Drag566_Value
+t:Value v:(n)1 x:943 y:640 d:Drag567_Value
+EndSlot
+EndSlot
+EndSlot
+EndInsert
+t:Print v:(o) x:464 y:570 d:Drag568_Print
+Slot
+t:Reference v:(s)NpZYTg== x:508 y:565 d:Drag569_Reference
+EndSlot
+EndInsert
+EndInsert

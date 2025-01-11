@@ -1,0 +1,79 @@
+﻿Library bignumber
+t:Subs x:430 y:830 d:Drag1_Subs
+Insert
+t:Setup x:447 y:815 d:Drag217_Setup
+Insert
+t:Let x:464 y:765 d:Drag218_Let
+Slot
+t:Reference v:(s)cABpAA== x:494 y:755 d:Drag219_Reference
+t:CreateBigNumber x:589 y:760 d:Drag220_CreateBigNumber
+Slot
+t:StringValue v:(s)MAA= x:633 y:755 d:Drag221_StringValue
+EndSlot
+EndSlot
+t:Let x:464 y:705 d:Drag222_Let
+Slot
+t:Reference v:(s)QQA= x:494 y:700 d:Drag223_Reference
+t:Value v:(n)1 x:586 y:700 d:Drag224_Value
+EndSlot
+t:Let x:464 y:655 d:Drag225_Let
+Slot
+t:Reference v:(s)QgA= x:494 y:650 d:Drag226_Reference
+t:Value v:(n)1 x:586 y:650 d:Drag227_Value
+EndSlot
+t:ForCount x:464 y:605 d:Drag228_ForCount
+Slot
+t:Value v:(n)100000 x:570 y:600 d:Drag229_Value
+EndSlot
+Insert
+t:Let x:481 y:555 d:Drag230_Let
+Slot
+t:Reference v:(s)QwA= x:511 y:540 d:Drag231_Reference
+t:BigNumberMultiply x:603 y:550 d:Drag232_BigNumberMultiply
+Slot
+t:BigNumberDevideEx x:615 y:545 d:Drag233_BigNumberDevideEx
+Slot
+t:Value v:(n)4 x:627 y:540 d:Drag234_Value
+t:Reference v:(s)QQA= x:711 y:540 d:Drag235_Reference
+t:Value v:(n)20 x:817 y:540 d:Drag236_Value
+EndSlot
+t:Reference v:(s)QgA= x:967 y:540 d:Drag237_Reference
+EndSlot
+EndSlot
+t:Let x:481 y:485 d:Drag238_Let
+Slot
+t:Reference v:(s)cABpAA== x:511 y:475 d:Drag239_Reference
+t:BigNumberAdd x:606 y:480 d:Drag240_BigNumberAdd
+Slot
+t:Reference v:(s)cABpAA== x:618 y:475 d:Drag241_Reference
+t:Reference v:(s)QwA= x:705 y:475 d:Drag242_Reference
+EndSlot
+EndSlot
+t:Print x:481 y:425 d:Drag243_Print
+Slot
+t:Reference v:(s)cABpAA== x:525 y:420 d:Drag244_Reference
+EndSlot
+t:Print x:481 y:375 d:Drag245_Print
+Slot
+t:StringValue v:(s)XAA= x:525 y:370 d:Drag246_StringValue
+EndSlot
+t:Let x:481 y:325 d:Drag247_Let
+Slot
+t:Reference v:(s)QQA= x:511 y:315 d:Drag248_Reference
+t:Add x:603 y:320 d:Drag249_Add
+Slot
+t:Reference v:(s)QQA= x:615 y:315 d:Drag250_Reference
+t:Value v:(n)2 x:693 y:315 d:Drag251_Value
+EndSlot
+EndSlot
+t:Let x:481 y:265 d:Drag252_Let
+Slot
+t:Reference v:(s)QgA= x:511 y:255 d:Drag253_Reference
+t:Negate x:603 y:260 d:Drag254_Negate
+Slot
+t:Reference v:(s)QgA= x:633 y:255 d:Drag255_Reference
+EndSlot
+EndSlot
+EndInsert
+EndInsert
+EndInsert

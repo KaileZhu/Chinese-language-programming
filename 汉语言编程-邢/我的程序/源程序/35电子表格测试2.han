@@ -1,0 +1,60 @@
+﻿Library MemoryTable
+t:Subs x:430 y:957 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:942 d:Drag3_Setup
+Insert
+t:Let x:464 y:892 d:Drag12_Let
+Slot
+t:Reference v:(s)Q1EgfWhUH2doiA== x:494 y:847 d:Drag13_Reference
+t:LoadTable v:(o) x:646 y:887 d:Drag5_LoadTable
+Slot
+t:StringValue v:(s)Q1EgfWhUH2doiC4AeABsAHMAeAA= x:793 y:882 d:Drag6_StringValue
+t:StringValue v:(s)UwBoAGUAZQB0ADEA x:704 y:847 d:Drag7_StringValue
+t:StringValue v:(s)QQAxAA== x:846 y:847 d:Drag8_StringValue
+t:Value v:(n)9 x:690 y:812 d:Drag9_Value
+t:Value v:(n)18 x:782 y:812 d:Drag10_Value
+EndSlot
+EndSlot
+t:ForEach x:464 y:762 d:Drag11_ForEach
+Slot
+t:Reference v:(s)Q1EgfWhUH2doiA== x:570 y:757 d:Drag14_Reference
+t:LocalReference v:(s)AE5MiA== x:764 y:757 d:Drag15_LocalReference
+EndSlot
+Insert
+t:PrintLine x:481 y:712 d:Drag21_PrintLine
+Slot
+t:LocalReference v:(s)AE5MiA== x:553 y:707 d:Drag22_LocalReference
+EndSlot
+EndInsert
+t:Let x:464 y:647 d:Drag23_Let
+Slot
+t:Reference v:(s)sXjRkV5c x:494 y:619.5 d:Drag24_Reference
+t:LoadList x:618 y:642 d:Drag31_LoadList
+Slot
+t:StringValue v:(s)Q1EgfWhUH2doiC4AeABsAHMAeAA= x:807 y:637 d:Drag26_StringValue
+t:StringValue v:(s)UwBoAGUAZQB0ADEA x:676 y:602 d:Drag27_StringValue
+t:StringValue v:(s)QQAxAA== x:818 y:602 d:Drag28_StringValue
+t:Value v:(n)7 x:917 y:602 d:Drag32_Value
+EndSlot
+EndSlot
+t:PrintLine x:464 y:552 d:Drag40_PrintLine
+Slot
+t:Reference v:(s)sXjRkV5c x:536 y:547 d:Drag41_Reference
+EndSlot
+t:Let x:464 y:502 d:Drag33_Let
+Slot
+t:Reference v:(s)sXgfV9GRXlw= x:494 y:474.5 d:Drag34_Reference
+t:LoadList x:632 y:497 d:Drag35_LoadList
+Slot
+t:StringValue v:(s)Q1EgfWhUH2doiC4AeABsAHMAeAA= x:821 y:492 d:Drag36_StringValue
+t:StringValue v:(s)UwBoAGUAZQB0ADEA x:690 y:457 d:Drag37_StringValue
+t:StringValue v:(s)QgAxAA== x:832 y:457 d:Drag38_StringValue
+t:Value v:(n)7 x:931 y:457 d:Drag39_Value
+EndSlot
+EndSlot
+t:PrintLine x:464 y:407 d:Drag42_PrintLine
+Slot
+t:Reference v:(s)sXgfV9GRXlw= x:536 y:402 d:Drag43_Reference
+EndSlot
+EndInsert
+EndInsert

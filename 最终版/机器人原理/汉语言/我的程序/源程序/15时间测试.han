@@ -1,0 +1,45 @@
+﻿t:Subs x:430 y:830 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:815 d:Drag504_Setup
+Insert
+t:While x:464 y:765 d:Drag505_While
+Slot
+t:Value v:(n)1 x:528 y:760 d:Drag506_Value
+EndSlot
+Insert
+t:Let v:(o) x:481 y:715 d:Drag507_Let
+Slot
+t:Reference v:(s)UwB0AHIA x:511 y:407.5 d:Drag508_Reference
+t:StrJoin v:(o) x:611 y:710 d:Drag509_StrJoin
+Slot
+t:Group v:(o) x:623 y:670 d:Drag510_Group
+Insert
+t:Year v:(o) x:640 y:620 d:Drag511_Year
+t:StringValue v:(s)LQA= x:640 y:570 d:Drag512_StringValue
+t:Month v:(o) x:640 y:530 d:Drag513_Month
+t:StringValue v:(s)LQA= x:640 y:480 d:Drag514_StringValue
+t:Day v:(o) x:640 y:440 d:Drag515_Day
+t:StringValue v:(s)IAA= x:640 y:390 d:Drag516_StringValue
+t:Hour v:(o) x:640 y:350 d:Drag517_Hour
+t:StringValue v:(s)OgA= x:640 y:300 d:Drag518_StringValue
+t:Minute v:(o) x:640 y:260 d:Drag519_Minute
+t:StringValue v:(s)OgA= x:640 y:210 d:Drag520_StringValue
+t:Second v:(o) x:640 y:170 d:Drag521_Second
+EndInsert
+EndSlot
+EndSlot
+t:Print v:(o) x:481 y:60 d:Drag522_Print
+Slot
+t:Reference v:(s)UwB0AHIA x:525 y:55 d:Drag523_Reference
+EndSlot
+t:Print x:481 y:10 d:Drag524_Print
+Slot
+t:StringValue v:(s)XAA= x:525 y:5 d:Drag525_StringValue
+EndSlot
+t:Delay x:481 y:-40 d:Drag526_Delay
+Slot
+t:Value v:(n)1 x:525 y:-45 d:Drag527_Value
+EndSlot
+EndInsert
+EndInsert
+EndInsert

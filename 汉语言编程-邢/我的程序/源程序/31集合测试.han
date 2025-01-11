@@ -1,0 +1,40 @@
+﻿t:Subs x:430 y:830 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:815 d:Drag61_Setup
+Insert
+t:GroupAddRange v:(o) x:464 y:765 d:Drag62_GroupAddRange
+Slot
+t:Reference v:(s)QQA= x:522 y:760 d:Drag63_Reference
+t:Group v:(o) x:476 y:725 d:Drag64_Group
+Insert
+t:Value v:(n)2 x:493 y:675 d:Drag65_Value
+t:Value v:(n)3 x:493 y:635 d:Drag66_Value
+t:Value v:(n)5 x:493 y:595 d:Drag67_Value
+t:Value v:(n)7 x:493 y:555 d:Drag68_Value
+t:StringValue v:(s)QQA= x:493 y:515 d:Drag69_StringValue
+t:StringValue v:(s)QgA= x:493 y:475 d:Drag70_StringValue
+t:StringValue v:(s)QwA= x:493 y:435 d:Drag71_StringValue
+EndInsert
+EndSlot
+t:Let x:464 y:340 d:Drag76_Let
+Slot
+t:Reference v:(s)QgA= x:494 y:330 d:Drag77_Reference
+t:Shuffle v:(o) x:586 y:335 d:Drag72_Shuffle
+Slot
+t:Reference v:(s)QQA= x:644 y:330 d:Drag73_Reference
+EndSlot
+EndSlot
+t:Print v:(o) x:464 y:280 d:Drag74_Print
+Slot
+t:Reference v:(s)QQA= x:508 y:275 d:Drag75_Reference
+EndSlot
+t:Print v:(o) x:464 y:230 d:Drag80_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:225 d:Drag82_StringValue
+EndSlot
+t:Print v:(o) x:464 y:180 d:Drag78_Print
+Slot
+t:Reference v:(s)QgA= x:508 y:175 d:Drag79_Reference
+EndSlot
+EndInsert
+EndInsert
