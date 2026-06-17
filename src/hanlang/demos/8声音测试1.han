@@ -1,0 +1,28 @@
+﻿t:Subs x:430 y:987 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:972 d:Drag2_Setup
+Insert
+t:Print v:(o) x:464 y:922 d:Drag3_Print
+Slot
+t:Sound v:(s)H1QgAC0AIABQAGkAYwB0AHUAcgBlAC4AbQBwADMA x:508 y:917 d:Drag4_Sound
+EndSlot
+t:Print v:(o) x:464 y:852 d:Drag5_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:847 d:Drag6_StringValue
+EndSlot
+t:Print v:(o) x:464 y:802 d:Drag7_Print
+Slot
+t:Sound v:(s)H1QgAC0AIABLYMNfLgBtAHAAMwA= x:508 y:797 d:Drag8_Sound
+EndSlot
+t:PlaySoundOne v:(o) x:464 y:732 d:Drag9_PlaySoundOne
+Slot
+t:Sound v:(s)H1QgAC0AIABQAGkAYwB0AHUAcgBlAC4AbQBwADMA x:536 y:727 d:Drag10_Sound
+t:Value v:(n)100 x:732 y:717 d:Drag11_Value
+EndSlot
+t:PlaySoundOne v:(o) x:464 y:662 d:Drag12_PlaySoundOne
+Slot
+t:Sound v:(s)H1QgAC0AIABLYMNfLgBtAHAAMwA= x:536 y:657 d:Drag13_Sound
+t:Value v:(n)100 x:732 y:647 d:Drag14_Value
+EndSlot
+EndInsert
+EndInsert

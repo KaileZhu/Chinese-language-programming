@@ -1,0 +1,1423 @@
+﻿t:Subs x:430 y:6385 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:6370 d:Drag3_Setup
+Insert
+t:ShowGrid v:(o) x:464 y:6320 d:Drag4_ShowGrid
+t:Rem v:(s)mltJTsto2HbhT29gGv8wAONOaIjli01Pbn/gZctoG/8xAGiIOnnli01Pbn86TqJ+y2gb/zIAaIg6eeWLTU9ufzpO3YTLaA== x:464 y:6270 d:Drag5_Rem
+t:Let x:464 y:6220 d:Drag6_Let
+Slot
+t:Reference v:(s)y2jYdg== x:494 y:6202.5 d:Drag7_Reference
+t:Group x:604 y:6215 d:Drag8_Group
+Insert
+EndInsert
+EndSlot
+t:Let x:464 y:6145 d:Drag9_Let
+Slot
+t:Reference v:(s)y2jYdlBXB2g= x:494 y:6127.5 d:Drag10_Reference
+t:Group x:632 y:6140 d:Drag11_Group
+Insert
+EndInsert
+EndSlot
+t:Let x:464 y:6070 d:Drag12_Let
+Slot
+t:Reference v:(s)8l2/i+6V x:494 y:6052.5 d:Drag13_Reference
+t:Group x:618 y:6065 d:Drag14_Group
+Insert
+EndInsert
+EndSlot
+t:ForBasic x:464 y:5995 d:Drag15_ForBasic
+Slot
+t:LocalReference v:(s)aQA= x:528 y:5990 d:Drag16_LocalReference
+t:Value v:(n)0 x:606 y:5990 d:Drag17_Value
+t:Value v:(n)120 x:684 y:5990 d:Drag18_Value
+EndSlot
+Insert
+t:GroupAdd x:481 y:5945 d:Drag19_GroupAdd
+Slot
+t:Reference v:(s)y2jYdg== x:539 y:5940 d:Drag20_Reference
+t:Value v:(n)0 x:677 y:5940 d:Drag21_Value
+EndSlot
+EndInsert
+t:ForBasic x:464 y:5880 d:Drag22_ForBasic
+Slot
+t:LocalReference v:(s)aQA= x:528 y:5875 d:Drag23_LocalReference
+t:Value v:(n)0 x:606 y:5875 d:Drag24_Value
+t:Value v:(n)120 x:684 y:5875 d:Drag25_Value
+EndSlot
+Insert
+t:GroupAdd x:481 y:5830 d:Drag26_GroupAdd
+Slot
+t:Reference v:(s)y2jYdlBXB2g= x:539 y:5820 d:Drag27_Reference
+t:Tuple2 x:705 y:5825 d:Drag28_Tuple2
+Slot
+t:Value v:(n)0 x:777 y:5820 d:Drag29_Value
+t:Value v:(n)0 x:837 y:5820 d:Drag30_Value
+EndSlot
+EndSlot
+EndInsert
+t:Rem v:(s)mltJTqlztlvhT29gDP8wAAEwMQBoiDp5zFO5Zalztls= x:464 y:5755 d:Drag31_Rem
+t:Let x:464 y:5705 d:Drag32_Let
+Slot
+t:Reference v:(s)U19NUqlztls= x:494 y:5700 d:Drag33_Reference
+t:Value v:(n)0 x:632 y:5700 d:Drag34_Value
+EndSlot
+t:Let x:464 y:5655 d:Drag35_Let
+Slot
+t:Reference v:(s)035fZwdo118= x:494 y:5650 d:Drag36_Reference
+t:Value v:(n)0 x:632 y:5650 d:Drag37_Value
+EndSlot
+t:Rem v:(s)nU9uY8to2HYnWQ9cmltJTstoUFsnWQ9c x:464 y:5605 d:Drag38_Rem
+t:Let v:(o) x:464 y:5555 d:Drag39_Let
+Slot
+t:Reference v:(s)y2hQWxZ/91M= x:494 y:5550 d:Drag40_Reference
+t:Value v:(n)0 x:632 y:5550 d:Drag41_Value
+EndSlot
+t:Let v:(o) x:464 y:5505 d:Drag42_Let
+Slot
+t:Reference v:(s)y2hQW71bpl4= x:494 y:5500 d:Drag43_Reference
+t:Value v:(n)5.55 x:632 y:5500 d:Drag44_Value
+EndSlot
+t:Let v:(o) x:464 y:5455 d:Drag45_Let
+Slot
+t:Reference v:(s)y2hQW9iapl4= x:494 y:5450 d:Drag46_Reference
+t:Value v:(n)10 x:632 y:5450 d:Drag47_Value
+EndSlot
+t:Let v:(o) x:464 y:5405 d:Drag48_Let
+Slot
+t:Reference v:(s)HVLLWctoUFt4AFBXB2g= x:494 y:5400 d:Drag49_Reference
+t:Value v:(n)8.2 x:667 y:5400 d:Drag50_Value
+EndSlot
+t:Let v:(o) x:464 y:5355 d:Drag51_Let
+Slot
+t:Reference v:(s)HVLLWctoUFt5AFBXB2g= x:494 y:5350 d:Drag52_Reference
+t:Value v:(n)12 x:667 y:5350 d:Drag53_Value
+EndSlot
+t:Let v:(o) x:464 y:5305 d:Drag54_Let
+Slot
+t:Reference v:(s)y2hQW8toUFt4AFBXB2j0lZSW x:494 y:5300 d:Drag55_Reference
+t:Value v:(n)5.5 x:695 y:5300 d:Drag56_Value
+EndSlot
+t:Let v:(o) x:464 y:5255 d:Drag57_Let
+Slot
+t:Reference v:(s)y2hQW3kAUFcHaPSVlJY= x:494 y:5250 d:Drag58_Reference
+t:Value v:(n)10 x:667 y:5250 d:Drag59_Value
+EndSlot
+t:Let x:464 y:5205 d:Drag60_Let
+Slot
+t:Reference v:(s)3YTLaA== x:494 y:5190 d:Drag61_Reference
+t:Picture v:(s)3YRygstoUFsuAHAAbgBnAA== x:604 y:5200 d:Drag62_Picture
+EndSlot
+t:Let x:464 y:5135 d:Drag63_Let
+Slot
+t:Reference v:(s)on7LaA== x:494 y:5120 d:Drag64_Reference
+t:Picture v:(s)on5ygstoUFsuAHAAbgBnAA== x:604 y:5130 d:Drag65_Picture
+EndSlot
+t:Let x:464 y:5065 d:Drag66_Let
+Slot
+t:Reference v:(s)eno= x:494 y:5050 d:Drag67_Reference
+t:Picture v:(s)enouAHAAbgBnAA== x:590 y:5060 d:Drag68_Picture
+EndSlot
+t:Rem v:(s)G1L6Xsto2HbMgG9m x:464 y:4995 d:Drag69_Rem
+t:CreateImage v:(o) x:464 y:4945 d:Drag70_CreateImage
+Slot
+t:StringValue v:(s)zIBvZsto2HY= x:597 y:4940 d:Drag71_StringValue
+t:Tuple2 v:(o) x:508 y:4905 d:Drag72_Tuple2
+Slot
+t:Value v:(n)0 x:580 y:4900 d:Drag73_Value
+t:Value v:(n)0 x:640 y:4900 d:Drag74_Value
+EndSlot
+t:CanvasSize v:(o) x:746 y:4905 d:Drag75_CanvasSize
+t:Picture v:(s)MQAuAGoAcABnAA== x:536 y:4860 d:Drag76_Picture
+EndSlot
+t:CreateLabel x:464 y:4795 d:Drag727_CreateLabel
+Slot
+t:StringValue v:(s)qXO2WwtOy2jQYzp5 x:597 y:4790 d:Drag728_StringValue
+t:CanvasRate x:508 y:4755 d:Drag740_CanvasRate
+Slot
+t:Value v:(n)3 x:566 y:4750 d:Drag741_Value
+t:Value v:(n)70 x:672 y:4750 d:Drag742_Value
+EndSlot
+t:CanvasRate x:830 y:4755 d:Drag744_CanvasRate
+Slot
+t:Value v:(n)20 x:888 y:4750 d:Drag745_Value
+t:Value v:(n)20 x:1000 y:4750 d:Drag746_Value
+EndSlot
+t:Palette x:536 y:4710 d:Drag730_Palette v:(c)(255,255,255,0)
+t:Align x:755 y:4710 d:Drag731_Align v:(n)4
+t:StringColor x:536 y:4675 d:Drag747_StringColor
+Slot
+t:Palette x:622 y:4670 d:Drag748_Palette v:(c)(255,255,255,255)
+t:StringValue v:(s)94uifnKCqXO2WwtOy2g= x:781 y:4670 d:Drag739_StringValue
+EndSlot
+EndSlot
+t:CreateLabel x:464 y:4620 d:Drag762_CreateLabel
+Slot
+t:StringValue v:(s)on5ygtyAKVI+Zjp5 x:597 y:4615 d:Drag763_StringValue
+t:CanvasRate x:508 y:4580 d:Drag764_CanvasRate
+Slot
+t:Value v:(n)80 x:566 y:4575 d:Drag765_Value
+t:Value v:(n)10 x:678 y:4575 d:Drag766_Value
+EndSlot
+t:CanvasRate x:836 y:4580 d:Drag767_CanvasRate
+Slot
+t:Value v:(n)20 x:894 y:4575 d:Drag768_Value
+t:Value v:(n)20 x:1006 y:4575 d:Drag769_Value
+EndSlot
+t:Palette x:536 y:4535 d:Drag770_Palette v:(c)(255,255,255,0)
+t:Align x:755 y:4535 d:Drag771_Align v:(n)4
+t:StringColor x:536 y:4500 d:Drag772_StringColor
+Slot
+t:Palette x:622 y:4495 d:Drag773_Palette v:(c)(255,37,5,255)
+t:StringValue v:(s)on5ygqlztlu3g9yA x:781 y:4495 d:Drag774_StringValue
+EndSlot
+EndSlot
+t:ControlHide x:464 y:4445 d:Drag788_ControlHide
+Slot
+t:StringValue v:(s)on5ygtyAKVI+Zjp5 x:536 y:4440 d:Drag791_StringValue
+EndSlot
+t:CreateLabel x:464 y:4395 d:Drag775_CreateLabel
+Slot
+t:StringValue v:(s)3YRygtyAKVI+Zjp5 x:597 y:4390 d:Drag776_StringValue
+t:CanvasRate x:508 y:4355 d:Drag777_CanvasRate
+Slot
+t:Value v:(n)80 x:566 y:4350 d:Drag778_Value
+t:Value v:(n)10 x:678 y:4350 d:Drag779_Value
+EndSlot
+t:CanvasRate x:836 y:4355 d:Drag780_CanvasRate
+Slot
+t:Value v:(n)20 x:894 y:4350 d:Drag781_Value
+t:Value v:(n)20 x:1006 y:4350 d:Drag782_Value
+EndSlot
+t:Palette x:536 y:4310 d:Drag783_Palette v:(c)(255,255,255,0)
+t:Align x:755 y:4310 d:Drag784_Align v:(n)4
+t:StringColor x:536 y:4275 d:Drag785_StringColor
+Slot
+t:Palette x:622 y:4270 d:Drag786_Palette v:(c)(4,29,255,255)
+t:StringValue v:(s)3YRygqlztlu3g9yA x:781 y:4270 d:Drag787_StringValue
+EndSlot
+EndSlot
+t:ControlHide x:464 y:4220 d:Drag789_ControlHide
+Slot
+t:StringValue v:(s)3YRygtyAKVI+Zjp5 x:536 y:4215 d:Drag792_StringValue
+EndSlot
+t:Rem v:(s)nU9uY8toUFsWf/dTDP+qX69zG1L6Xnp6y2hQWw== x:464 y:4170 d:Drag77_Rem
+t:Let v:(o) x:464 y:4120 d:Drag78_Let
+Slot
+t:Reference v:(s)y2hQW3gAUFcHaA== x:494 y:4115 d:Drag79_Reference
+t:Reference v:(s)HVLLWctoUFt4AFBXB2g= x:639 y:4115 d:Drag80_Reference
+EndSlot
+t:Let v:(o) x:464 y:4070 d:Drag81_Let
+Slot
+t:Reference v:(s)y2hQW3kAUFcHaA== x:494 y:4065 d:Drag82_Reference
+t:Reference v:(s)HVLLWctoUFt5AFBXB2g= x:639 y:4065 d:Drag83_Reference
+EndSlot
+t:For v:(o) x:464 y:4020 d:Drag84_For
+Slot
+t:LocalReference v:(s)QQA= x:528 y:4015 d:Drag85_LocalReference
+t:Value v:(n)0 x:606 y:4015 d:Drag86_Value
+t:LessEqual v:(o) x:508 y:3980 d:Drag87_LessEqual
+Slot
+t:LocalReference v:(s)QQA= x:520 y:3975 d:Drag88_LocalReference
+t:Value v:(n)10 x:600 y:3975 d:Drag89_Value
+EndSlot
+t:Value v:(n)1 x:712 y:3975 d:Drag90_Value
+EndSlot
+Insert
+t:For v:(o) x:481 y:3925 d:Drag91_For
+Slot
+t:LocalReference v:(s)QgA= x:545 y:3920 d:Drag92_LocalReference
+t:Value v:(n)0 x:623 y:3920 d:Drag93_Value
+t:LessEqual v:(o) x:525 y:3885 d:Drag94_LessEqual
+Slot
+t:LocalReference v:(s)QgA= x:537 y:3880 d:Drag95_LocalReference
+t:Value v:(n)10 x:617 y:3880 d:Drag96_Value
+EndSlot
+t:Value v:(n)1 x:729 y:3880 d:Drag97_Value
+EndSlot
+Insert
+t:CreateImage v:(o) x:498 y:3830 d:Drag98_CreateImage
+Slot
+t:Reference v:(s)y2hQWxZ/91M= x:631 y:3825 d:Drag99_Reference
+t:CanvasRate v:(o) x:542 y:3790 d:Drag100_CanvasRate
+Slot
+t:Reference v:(s)y2hQW3gAUFcHaA== x:600 y:3785 d:Drag101_Reference
+t:Reference v:(s)y2hQW3kAUFcHaA== x:759 y:3785 d:Drag102_Reference
+EndSlot
+t:CanvasRate v:(o) x:964 y:3790 d:Drag103_CanvasRate
+Slot
+t:Value v:(n)5.4 x:1022 y:3785 d:Drag104_Value
+t:Value v:(n)9.8 x:1138 y:3785 d:Drag105_Value
+EndSlot
+t:Reference v:(s)eno= x:570 y:3745 d:Drag106_Reference
+EndSlot
+t:SetControlPivot2 v:(o) x:498 y:3700 d:Drag107_SetControlPivot2
+Slot
+t:Reference v:(s)y2hQWxZ/91M= x:570 y:3695 d:Drag108_Reference
+t:Align x:750 y:3695 d:Drag109_Align v:(n)4
+EndSlot
+t:Let v:(o) x:498 y:3650 d:Drag110_Let
+Slot
+t:Reference v:(s)y2hQW3gAUFcHaA== x:528 y:3640 d:Drag111_Reference
+t:Add v:(o) x:673 y:3645 d:Drag112_Add
+Slot
+t:Reference v:(s)y2hQW3gAUFcHaA== x:685 y:3640 d:Drag113_Reference
+t:Reference v:(s)y2hQW71bpl4= x:816 y:3640 d:Drag114_Reference
+EndSlot
+EndSlot
+t:Let v:(o) x:498 y:3590 d:Drag115_Let
+Slot
+t:Reference v:(s)y2hQWxZ/91M= x:528 y:3580 d:Drag116_Reference
+t:Add v:(o) x:666 y:3585 d:Drag117_Add
+Slot
+t:Reference v:(s)y2hQWxZ/91M= x:678 y:3580 d:Drag118_Reference
+t:Value v:(n)1 x:802 y:3580 d:Drag119_Value
+EndSlot
+EndSlot
+EndInsert
+t:Let v:(o) x:481 y:3515 d:Drag120_Let
+Slot
+t:Reference v:(s)y2hQW3gAUFcHaA== x:511 y:3495 d:Drag121_Reference
+t:Add v:(o) x:656 y:3510 d:Drag122_Add
+Slot
+t:Reference v:(s)HVLLWctoUFt4AFBXB2g= x:668 y:3495 d:Drag123_Reference
+t:Multiply v:(o) x:827 y:3505 d:Drag124_Multiply
+Slot
+t:Devide v:(o) x:839 y:3500 d:Drag125_Devide
+Slot
+t:Reference v:(s)y2hQW71bpl4= x:851 y:3495 d:Drag126_Reference
+t:Value v:(n)2 x:977 y:3495 d:Drag127_Value
+EndSlot
+t:Add x:1071 y:3500 d:Drag128_Add
+Slot
+t:LocalReference v:(s)QQA= x:1083 y:3495 d:Drag129_LocalReference
+t:Value v:(n)1 x:1161 y:3495 d:Drag130_Value
+EndSlot
+EndSlot
+EndSlot
+EndSlot
+t:Let v:(o) x:481 y:3435 d:Drag131_Let
+Slot
+t:Reference v:(s)y2hQW3kAUFcHaA== x:511 y:3425 d:Drag132_Reference
+t:Add v:(o) x:656 y:3430 d:Drag133_Add
+Slot
+t:Reference v:(s)y2hQW3kAUFcHaA== x:668 y:3425 d:Drag134_Reference
+t:Value v:(n)7.6 x:799 y:3425 d:Drag135_Value
+EndSlot
+EndSlot
+EndInsert
+t:CallSub v:(o) x:464 y:3360 d:Drag136_CallSub
+Slot
+t:StringValue v:(s)y2jYdlBXB2hsj2Jj x:550 y:3355 d:Drag137_StringValue
+t:Value v:(n)0 x:684 y:3355 d:Drag138_Value
+EndSlot
+t:Rem v:(s)O04Leo9eql+vcw== x:464 y:3310 d:Drag139_Rem
+t:DoWhile x:464 y:3260 d:Drag140_DoWhile
+Slot
+t:Equal x:494 y:2500 d:Drag141_Equal
+Slot
+t:Value v:(n)0 x:506 y:2495 d:Drag142_Value
+t:Value v:(n)0 x:584 y:2495 d:Drag143_Value
+EndSlot
+EndSlot
+Insert
+t:Let x:481 y:3210 d:Drag144_Let
+Slot
+t:Reference v:(s)Ck4ATqlztls= x:511 y:3205 d:Drag145_Reference
+t:Reference v:(s)U19NUqlztls= x:649 y:3205 d:Drag146_Reference
+EndSlot
+t:Let x:481 y:3160 d:Drag147_Let
+Slot
+t:Reference v:(s)Ck4ATmVry2jYdg== x:511 y:3155 d:Drag148_Reference
+t:Reference v:(s)y2jYdg== x:663 y:3155 d:Drag149_Reference
+EndSlot
+t:If v:(o) x:481 y:3110 d:Drag153_If
+Slot
+t:Equal v:(o) x:559 y:3105 d:Drag154_Equal
+Slot
+t:Reference v:(s)035fZwdo118= x:571 y:3100 d:Drag155_Reference
+t:Value v:(n)0 x:695 y:3100 d:Drag156_Value
+EndSlot
+EndSlot
+Insert
+t:If x:498 y:3050 d:Drag157_If
+Slot
+t:Equal x:576 y:3045 d:Drag158_Equal
+Slot
+t:Reference v:(s)U19NUqlztls= x:588 y:3040 d:Drag159_Reference
+t:Value v:(n)1 x:712 y:3040 d:Drag160_Value
+EndSlot
+EndSlot
+Insert
+t:SetLabelText x:515 y:2990 d:Drag750_SetLabelText
+Slot
+t:StringValue v:(s)qXO2WwtOy2jQYzp5 x:587 y:2980 d:Drag751_StringValue
+t:StringColor x:795 y:2985 d:Drag756_StringColor
+Slot
+t:Palette x:881 y:2980 d:Drag757_Palette v:(c)(255,255,255,255)
+t:StringValue v:(s)94vdhHKCqXO2WwtOy2g= x:1040 y:2980 d:Drag758_StringValue
+EndSlot
+EndSlot
+EndInsert
+t:Else x:498 y:2915 d:Drag163_Else
+Insert
+t:SetLabelText x:515 y:2865 d:Drag753_SetLabelText
+Slot
+t:StringValue v:(s)qXO2WwtOy2jQYzp5 x:587 y:2855 d:Drag754_StringValue
+t:StringColor x:795 y:2860 d:Drag759_StringColor
+Slot
+t:Palette x:881 y:2855 d:Drag760_Palette v:(c)(255,255,255,255)
+t:StringValue v:(s)94uifnKCqXO2WwtOy2g= x:1040 y:2855 d:Drag761_StringValue
+EndSlot
+EndSlot
+EndInsert
+t:Let x:498 y:2790 d:Drag166_Let
+Slot
+t:Reference v:(s)8l2/i+6VUFcHaA== x:528 y:2780 d:Drag167_Reference
+t:CallFunction x:680 y:2785 d:Drag168_CallFunction
+Slot
+t:StringValue v:(s)UFcHaGyPYmM= x:794 y:2780 d:Drag169_StringValue
+t:Reference v:(s)8l2/i+6V x:900 y:2780 d:Drag170_Reference
+EndSlot
+EndSlot
+t:CallSub v:(o) x:498 y:2730 d:Drag171_CallSub
+Slot
+t:StringValue v:(s)IJ8HaLlw+1ELTsto/VFwZQ== x:584 y:2725 d:Drag172_StringValue
+t:Value v:(n)0 x:746 y:2725 d:Drag173_Value
+EndSlot
+t:CallSub v:(o) x:498 y:2680 d:Drag150_CallSub
+Slot
+t:StringValue v:(s)JFKtZdyAKVI= x:584 y:2675 d:Drag151_StringValue
+t:Value v:(n)0 x:690 y:2675 d:Drag152_Value
+EndSlot
+EndInsert
+t:Else x:481 y:2615 d:Drag558_Else
+Insert
+t:Break x:498 y:2565 d:Drag559_Break
+EndInsert
+EndInsert
+EndInsert
+t:Sub v:(s)JFKtZdyAKVI= x:447 y:2425 d:Drag176_Sub
+Slot
+t:Value v:(n)0 x:619 y:2420 d:Drag177_Value
+EndSlot
+Insert
+t:ForBasic x:464 y:2375 d:Drag178_ForBasic
+Slot
+t:LocalReference v:(s)aQA= x:528 y:2370 d:Drag179_LocalReference
+t:Value v:(n)0 x:606 y:2370 d:Drag180_Value
+t:Value v:(n)120 x:684 y:2370 d:Drag181_Value
+EndSlot
+Insert
+t:Rem v:(s)JFKtZS9mJlRzXkBc x:481 y:2325 d:Drag182_Rem
+t:If x:481 y:2275 d:Drag183_If
+Slot
+t:Equal v:(o) x:559 y:2270 d:Drag184_Equal
+Slot
+t:GroupItem v:(o) x:571 y:2265 d:Drag185_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:615 y:2260 d:Drag186_Reference
+t:LocalReference v:(s)aQA= x:725 y:2260 d:Drag187_LocalReference
+EndSlot
+t:Value v:(n)0 x:835 y:2260 d:Drag188_Value
+EndSlot
+EndSlot
+Insert
+t:Break v:(o) x:498 y:2205 d:Drag189_Break
+EndInsert
+t:If v:(o) x:481 y:2140 d:Drag190_If
+Slot
+t:And v:(o) x:559 y:2135 d:Drag191_And
+Slot
+t:Equal v:(o) x:571 y:2125 d:Drag192_Equal
+Slot
+t:LocalReference v:(s)aQA= x:583 y:2120 d:Drag193_LocalReference
+t:Value v:(n)120 x:661 y:2120 d:Drag194_Value
+EndSlot
+t:NotEqual v:(o) x:767 y:2130 d:Drag195_NotEqual
+Slot
+t:GroupItem v:(o) x:779 y:2125 d:Drag196_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:823 y:2120 d:Drag197_Reference
+t:LocalReference v:(s)aQA= x:933 y:2120 d:Drag198_LocalReference
+EndSlot
+t:Value v:(n)0 x:1045 y:2120 d:Drag199_Value
+EndSlot
+EndSlot
+EndSlot
+Insert
+t:Let v:(o) x:498 y:2060 d:Drag200_Let
+Slot
+t:Reference v:(s)035fZwdo118= x:528 y:2055 d:Drag201_Reference
+t:Value v:(n)1 x:666 y:2055 d:Drag202_Value
+EndSlot
+t:Print v:(o) x:498 y:2010 d:Drag203_Print
+Slot
+t:StringValue v:(s)c15AXA== x:542 y:2005 d:Drag204_StringValue
+EndSlot
+EndInsert
+EndInsert
+t:If v:(o) x:464 y:1930 d:Drag562_If
+Slot
+t:Equal x:542 y:1925 d:Drag563_Equal
+Slot
+t:Reference v:(s)U19NUqlztls= x:554 y:1920 d:Drag564_Reference
+t:Value v:(n)0 x:678 y:1920 d:Drag565_Value
+EndSlot
+EndSlot
+Insert
+t:Let x:481 y:1870 d:Drag566_Let
+Slot
+t:LocalReference v:(s)AF/LWU1Pbn8= x:511 y:1865 d:Drag567_LocalReference
+t:Value v:(n)0 x:649 y:1865 d:Drag568_Value
+EndSlot
+t:Let x:481 y:1820 d:Drag569_Let
+Slot
+t:LocalReference v:(s)035fZ01Pbn8= x:511 y:1815 d:Drag570_LocalReference
+t:Value v:(n)10 x:649 y:1815 d:Drag571_Value
+EndSlot
+t:Let v:(o) x:481 y:1770 d:Drag724_Let
+Slot
+t:LocalReference v:(s)8l0cZCJ9 x:511 y:1752.5 d:Drag725_LocalReference
+t:Group v:(o) x:635 y:1765 d:Drag726_Group
+Insert
+EndInsert
+EndSlot
+t:Let v:(o) x:481 y:1695 d:Drag575_Let
+Slot
+t:LocalReference v:(s)CGg= x:511 y:1677.5 d:Drag576_LocalReference
+t:Group v:(o) x:607 y:1690 d:Drag577_Group
+Insert
+EndInsert
+EndSlot
+t:ForBasic v:(o) x:481 y:1620 d:Drag578_ForBasic
+Slot
+t:LocalReference v:(s)awA= x:545 y:1615 d:Drag579_LocalReference
+t:LocalReference v:(s)AF/LWU1Pbn8= x:623 y:1615 d:Drag580_LocalReference
+t:LocalReference v:(s)035fZ01Pbn8= x:747 y:1615 d:Drag581_LocalReference
+EndSlot
+Insert
+t:GroupInsert x:498 y:1570 d:Drag582_GroupInsert
+Slot
+t:LocalReference v:(s)CGg= x:556 y:1560 d:Drag583_LocalReference
+t:Value v:(n)0 x:638 y:1560 d:Drag584_Value
+t:Tuple2 x:772 y:1565 d:Drag585_Tuple2
+Slot
+t:LocalReference v:(s)awA= x:844 y:1560 d:Drag587_LocalReference
+t:Value v:(n)0 x:904 y:1560 d:Drag586_Value
+EndSlot
+EndSlot
+EndInsert
+t:DoWhile x:481 y:1495 d:Drag588_DoWhile
+Slot
+t:NotEqual x:511 y:-270 d:Drag589_NotEqual
+Slot
+t:GroupCount x:523 y:-275 d:Drag590_GroupCount
+Slot
+t:LocalReference v:(s)CGg= x:567 y:-280 d:Drag591_LocalReference
+EndSlot
+t:Value v:(n)0 x:711 y:-280 d:Drag592_Value
+EndSlot
+EndSlot
+Insert
+t:Let x:498 y:1445 d:Drag593_Let
+Slot
+t:Tuple2 x:528 y:1440 d:Drag594_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:600 y:1435 d:Drag595_LocalReference
+t:LocalReference v:(s)agA= x:660 y:1435 d:Drag596_LocalReference
+EndSlot
+t:GroupItem x:766 y:1440 d:Drag597_GroupItem
+Slot
+t:LocalReference v:(s)CGg= x:810 y:1435 d:Drag598_LocalReference
+t:Value v:(n)0 x:906 y:1435 d:Drag599_Value
+EndSlot
+EndSlot
+t:GroupRemoveAt x:498 y:1385 d:Drag600_GroupRemoveAt
+Slot
+t:LocalReference v:(s)CGg= x:570 y:1380 d:Drag601_LocalReference
+t:Value v:(n)0 x:666 y:1380 d:Drag602_Value
+EndSlot
+t:If x:498 y:1335 d:Drag603_If
+Slot
+t:And x:576 y:1330 d:Drag604_And
+Slot
+t:And x:588 y:1320 d:Drag605_And
+Slot
+t:And x:600 y:1315 d:Drag606_And
+Slot
+t:GreaterEqual x:612 y:1310 d:Drag607_GreaterEqual
+Slot
+t:LocalReference v:(s)aQA= x:624 y:1305 d:Drag608_LocalReference
+t:Value v:(n)0 x:704 y:1305 d:Drag609_Value
+EndSlot
+t:Less x:796 y:1310 d:Drag610_Less
+Slot
+t:LocalReference v:(s)aQA= x:808 y:1305 d:Drag611_LocalReference
+t:Value v:(n)11 x:886 y:1305 d:Drag612_Value
+EndSlot
+EndSlot
+t:And x:998 y:1315 d:Drag613_And
+Slot
+t:GreaterEqual x:1010 y:1310 d:Drag614_GreaterEqual
+Slot
+t:LocalReference v:(s)agA= x:1022 y:1305 d:Drag615_LocalReference
+t:Value v:(n)0 x:1102 y:1305 d:Drag616_Value
+EndSlot
+t:Less x:1194 y:1310 d:Drag617_Less
+Slot
+t:LocalReference v:(s)agA= x:1206 y:1305 d:Drag618_LocalReference
+t:Value v:(n)11 x:1284 y:1305 d:Drag619_Value
+EndSlot
+EndSlot
+EndSlot
+t:Equal x:1410 y:1325 d:Drag620_Equal
+Slot
+t:GroupItem x:1422 y:1320 d:Drag621_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:1466 y:1305 d:Drag622_Reference
+t:Add x:1576 y:1315 d:Drag623_Add
+Slot
+t:Multiply x:1588 y:1310 d:Drag624_Multiply
+Slot
+t:LocalReference v:(s)aQA= x:1600 y:1305 d:Drag625_LocalReference
+t:Value v:(n)11 x:1680 y:1305 d:Drag626_Value
+EndSlot
+t:LocalReference v:(s)agA= x:1778 y:1305 d:Drag627_LocalReference
+EndSlot
+EndSlot
+t:Value v:(n)2 x:1902 y:1305 d:Drag628_Value
+EndSlot
+EndSlot
+EndSlot
+Insert
+t:Let x:515 y:1235 d:Drag629_Let
+Slot
+t:LocalReference v:(s)TgA= x:545 y:1230 d:Drag630_LocalReference
+t:Value v:(n)0 x:637 y:1230 d:Drag631_Value
+EndSlot
+t:ForEach x:515 y:1185 d:Drag632_ForEach
+Slot
+t:LocalReference v:(s)8l0cZCJ9 x:621 y:1180 d:Drag633_LocalReference
+t:LocalReference v:(s)TQA= x:787 y:1180 d:Drag634_LocalReference
+EndSlot
+Insert
+t:If x:532 y:1135 d:Drag635_If
+Slot
+t:StrEqual x:610 y:1130 d:Drag636_StrEqual
+Slot
+t:Tuple2 v:(o) x:622 y:1125 d:Drag637_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:694 y:1120 d:Drag638_LocalReference
+t:LocalReference v:(s)agA= x:754 y:1120 d:Drag639_LocalReference
+EndSlot
+t:LocalReference v:(s)TQA= x:862 y:1120 d:Drag640_LocalReference
+EndSlot
+EndSlot
+Insert
+t:Let x:549 y:1065 d:Drag641_Let
+Slot
+t:LocalReference v:(s)TgA= x:579 y:1060 d:Drag642_LocalReference
+t:Value v:(n)1 x:671 y:1060 d:Drag643_Value
+EndSlot
+EndInsert
+EndInsert
+t:If x:515 y:985 d:Drag644_If
+Slot
+t:Equal x:593 y:980 d:Drag645_Equal
+Slot
+t:LocalReference v:(s)TgA= x:605 y:975 d:Drag646_LocalReference
+t:Value v:(n)1 x:683 y:975 d:Drag647_Value
+EndSlot
+EndSlot
+Insert
+t:Continue x:532 y:925 d:Drag648_Continue
+EndInsert
+t:Else x:515 y:860 d:Drag649_Else
+Insert
+t:GroupAdd x:532 y:810 d:Drag650_GroupAdd
+Slot
+t:LocalReference v:(s)8l0cZCJ9 x:590 y:800 d:Drag651_LocalReference
+t:Tuple2 x:742 y:805 d:Drag652_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:814 y:800 d:Drag653_LocalReference
+t:LocalReference v:(s)agA= x:874 y:800 d:Drag654_LocalReference
+EndSlot
+EndSlot
+EndInsert
+t:If x:515 y:735 d:Drag655_If
+Slot
+t:Equal x:593 y:730 d:Drag656_Equal
+Slot
+t:LocalReference v:(s)agA= x:605 y:725 d:Drag657_LocalReference
+t:Value v:(n)10 x:683 y:725 d:Drag658_Value
+EndSlot
+EndSlot
+Insert
+t:Let v:(o) x:532 y:675 d:Drag659_Let
+Slot
+t:Reference v:(s)035fZwdo118= x:562 y:670 d:Drag660_Reference
+t:Value v:(n)1 x:700 y:670 d:Drag661_Value
+EndSlot
+t:ControlShow x:532 y:625 d:Drag795_ControlShow
+Slot
+t:StringValue v:(s)3YRygtyAKVI+Zjp5 x:604 y:620 d:Drag663_StringValue
+EndSlot
+EndInsert
+t:ForEach x:515 y:560 d:Drag664_ForEach
+Slot
+t:Group x:621 y:555 d:Drag665_Group
+Insert
+t:Tuple2 x:638 y:505 d:Drag666_Tuple2
+Slot
+t:Minus x:710 y:500 d:Drag667_Minus
+Slot
+t:LocalReference v:(s)aQA= x:722 y:495 d:Drag668_LocalReference
+t:Value v:(n)1 x:800 y:495 d:Drag669_Value
+EndSlot
+t:LocalReference v:(s)agA= x:874 y:495 d:Drag670_LocalReference
+EndSlot
+t:Tuple2 x:638 y:445 d:Drag671_Tuple2
+Slot
+t:Add x:710 y:440 d:Drag672_Add
+Slot
+t:LocalReference v:(s)aQA= x:722 y:435 d:Drag673_LocalReference
+t:Value v:(n)1 x:800 y:435 d:Drag674_Value
+EndSlot
+t:LocalReference v:(s)agA= x:874 y:435 d:Drag675_LocalReference
+EndSlot
+t:Tuple2 x:638 y:385 d:Drag676_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:710 y:375 d:Drag677_LocalReference
+t:Minus x:770 y:380 d:Drag678_Minus
+Slot
+t:LocalReference v:(s)agA= x:782 y:375 d:Drag679_LocalReference
+t:Value v:(n)1 x:860 y:375 d:Drag680_Value
+EndSlot
+EndSlot
+t:Tuple2 x:638 y:325 d:Drag681_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:710 y:315 d:Drag682_LocalReference
+t:Add x:770 y:320 d:Drag683_Add
+Slot
+t:LocalReference v:(s)agA= x:782 y:315 d:Drag684_LocalReference
+t:Value v:(n)1 x:860 y:315 d:Drag685_Value
+EndSlot
+EndSlot
+t:Tuple2 x:638 y:265 d:Drag686_Tuple2
+Slot
+t:Minus x:710 y:260 d:Drag687_Minus
+Slot
+t:LocalReference v:(s)aQA= x:722 y:255 d:Drag688_LocalReference
+t:Value v:(n)1 x:800 y:255 d:Drag689_Value
+EndSlot
+t:Add x:874 y:260 d:Drag690_Add
+Slot
+t:LocalReference v:(s)agA= x:886 y:255 d:Drag691_LocalReference
+t:Value v:(n)1 x:964 y:255 d:Drag692_Value
+EndSlot
+EndSlot
+t:Tuple2 x:638 y:205 d:Drag693_Tuple2
+Slot
+t:Add x:710 y:200 d:Drag694_Add
+Slot
+t:LocalReference v:(s)aQA= x:722 y:195 d:Drag695_LocalReference
+t:Value v:(n)1 x:800 y:195 d:Drag696_Value
+EndSlot
+t:Minus x:874 y:200 d:Drag697_Minus
+Slot
+t:LocalReference v:(s)agA= x:886 y:195 d:Drag698_LocalReference
+t:Value v:(n)1 x:964 y:195 d:Drag699_Value
+EndSlot
+EndSlot
+EndInsert
+t:LocalReference v:(s)UAA= x:1140 y:362.5 d:Drag700_LocalReference
+EndSlot
+Insert
+t:Let x:532 y:125 d:Drag701_Let
+Slot
+t:LocalReference v:(s)TAA= x:562 y:120 d:Drag702_LocalReference
+t:Value v:(n)0 x:654 y:120 d:Drag703_Value
+EndSlot
+t:ForEach x:532 y:75 d:Drag704_ForEach
+Slot
+t:LocalReference v:(s)8l0cZCJ9 x:638 y:70 d:Drag705_LocalReference
+t:LocalReference v:(s)TQA= x:804 y:70 d:Drag706_LocalReference
+EndSlot
+Insert
+t:If x:549 y:25 d:Drag707_If
+Slot
+t:StrEqual x:627 y:20 d:Drag708_StrEqual
+Slot
+t:LocalReference v:(s)UAA= x:639 y:15 d:Drag709_LocalReference
+t:LocalReference v:(s)TQA= x:733 y:15 d:Drag710_LocalReference
+EndSlot
+EndSlot
+Insert
+t:Let x:566 y:-35 d:Drag711_Let
+Slot
+t:LocalReference v:(s)TAA= x:596 y:-40 d:Drag712_LocalReference
+t:Value v:(n)1 x:688 y:-40 d:Drag713_Value
+EndSlot
+EndInsert
+EndInsert
+t:If x:532 y:-115 d:Drag714_If
+Slot
+t:Equal x:610 y:-120 d:Drag715_Equal
+Slot
+t:LocalReference v:(s)TAA= x:622 y:-125 d:Drag716_LocalReference
+t:Value v:(n)0 x:700 y:-125 d:Drag717_Value
+EndSlot
+EndSlot
+Insert
+t:GroupInsert x:549 y:-175 d:Drag718_GroupInsert
+Slot
+t:LocalReference v:(s)CGg= x:607 y:-180 d:Drag719_LocalReference
+t:Value v:(n)0 x:689 y:-180 d:Drag720_Value
+t:LocalReference v:(s)UAA= x:823 y:-180 d:Drag721_LocalReference
+EndSlot
+EndInsert
+EndInsert
+EndInsert
+EndInsert
+EndInsert
+t:If v:(o) x:464 y:-355 d:Drag205_If
+Slot
+t:Equal x:542 y:-360 d:Drag206_Equal
+Slot
+t:Reference v:(s)U19NUqlztls= x:554 y:-365 d:Drag207_Reference
+t:Value v:(n)1 x:678 y:-365 d:Drag208_Value
+EndSlot
+EndSlot
+Insert
+t:Let x:481 y:-415 d:Drag209_Let
+Slot
+t:LocalReference v:(s)AF/LWU1Pbn8= x:511 y:-420 d:Drag210_LocalReference
+t:Value v:(n)0 x:649 y:-420 d:Drag211_Value
+EndSlot
+t:Let x:481 y:-465 d:Drag212_Let
+Slot
+t:LocalReference v:(s)035fZ01Pbn8= x:511 y:-470 d:Drag213_LocalReference
+t:Value v:(n)10 x:649 y:-470 d:Drag214_Value
+EndSlot
+t:Let v:(o) x:481 y:-515 d:Drag215_Let
+Slot
+t:LocalReference v:(s)8l0cZCJ9 x:511 y:-532.5 d:Drag216_LocalReference
+t:Group v:(o) x:635 y:-520 d:Drag217_Group
+Insert
+EndInsert
+EndSlot
+t:Let v:(o) x:481 y:-590 d:Drag218_Let
+Slot
+t:LocalReference v:(s)CGg= x:511 y:-607.5 d:Drag219_LocalReference
+t:Group v:(o) x:607 y:-595 d:Drag220_Group
+Insert
+EndInsert
+EndSlot
+t:ForBasic v:(o) x:481 y:-665 d:Drag221_ForBasic
+Slot
+t:LocalReference v:(s)awA= x:545 y:-670 d:Drag222_LocalReference
+t:LocalReference v:(s)AF/LWU1Pbn8= x:623 y:-670 d:Drag223_LocalReference
+t:LocalReference v:(s)035fZ01Pbn8= x:747 y:-670 d:Drag224_LocalReference
+EndSlot
+Insert
+t:GroupInsert x:498 y:-715 d:Drag225_GroupInsert
+Slot
+t:LocalReference v:(s)CGg= x:556 y:-725 d:Drag226_LocalReference
+t:Value v:(n)0 x:638 y:-725 d:Drag227_Value
+t:Tuple2 x:772 y:-720 d:Drag228_Tuple2
+Slot
+t:Value v:(n)0 x:844 y:-725 d:Drag229_Value
+t:LocalReference v:(s)awA= x:904 y:-725 d:Drag230_LocalReference
+EndSlot
+EndSlot
+EndInsert
+t:DoWhile x:481 y:-790 d:Drag231_DoWhile
+Slot
+t:NotEqual x:511 y:-2555 d:Drag232_NotEqual
+Slot
+t:GroupCount x:523 y:-2560 d:Drag233_GroupCount
+Slot
+t:LocalReference v:(s)CGg= x:567 y:-2565 d:Drag234_LocalReference
+EndSlot
+t:Value v:(n)0 x:711 y:-2565 d:Drag235_Value
+EndSlot
+EndSlot
+Insert
+t:Let x:498 y:-840 d:Drag236_Let
+Slot
+t:Tuple2 x:528 y:-845 d:Drag237_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:600 y:-850 d:Drag238_LocalReference
+t:LocalReference v:(s)agA= x:660 y:-850 d:Drag239_LocalReference
+EndSlot
+t:GroupItem x:766 y:-845 d:Drag240_GroupItem
+Slot
+t:LocalReference v:(s)CGg= x:810 y:-850 d:Drag241_LocalReference
+t:Value v:(n)0 x:906 y:-850 d:Drag242_Value
+EndSlot
+EndSlot
+t:GroupRemoveAt x:498 y:-900 d:Drag243_GroupRemoveAt
+Slot
+t:LocalReference v:(s)CGg= x:570 y:-905 d:Drag244_LocalReference
+t:Value v:(n)0 x:666 y:-905 d:Drag245_Value
+EndSlot
+t:If x:498 y:-950 d:Drag246_If
+Slot
+t:And x:576 y:-955 d:Drag247_And
+Slot
+t:And x:588 y:-965 d:Drag248_And
+Slot
+t:And x:600 y:-970 d:Drag249_And
+Slot
+t:GreaterEqual x:612 y:-975 d:Drag250_GreaterEqual
+Slot
+t:LocalReference v:(s)aQA= x:624 y:-980 d:Drag251_LocalReference
+t:Value v:(n)0 x:704 y:-980 d:Drag252_Value
+EndSlot
+t:Less x:796 y:-975 d:Drag253_Less
+Slot
+t:LocalReference v:(s)aQA= x:808 y:-980 d:Drag254_LocalReference
+t:Value v:(n)11 x:886 y:-980 d:Drag255_Value
+EndSlot
+EndSlot
+t:And x:998 y:-970 d:Drag256_And
+Slot
+t:GreaterEqual x:1010 y:-975 d:Drag257_GreaterEqual
+Slot
+t:LocalReference v:(s)agA= x:1022 y:-980 d:Drag258_LocalReference
+t:Value v:(n)0 x:1102 y:-980 d:Drag259_Value
+EndSlot
+t:Less x:1194 y:-975 d:Drag260_Less
+Slot
+t:LocalReference v:(s)agA= x:1206 y:-980 d:Drag261_LocalReference
+t:Value v:(n)11 x:1284 y:-980 d:Drag262_Value
+EndSlot
+EndSlot
+EndSlot
+t:Equal x:1410 y:-960 d:Drag263_Equal
+Slot
+t:GroupItem x:1422 y:-965 d:Drag264_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:1466 y:-980 d:Drag265_Reference
+t:Add x:1576 y:-970 d:Drag266_Add
+Slot
+t:Multiply x:1588 y:-975 d:Drag267_Multiply
+Slot
+t:LocalReference v:(s)aQA= x:1600 y:-980 d:Drag268_LocalReference
+t:Value v:(n)11 x:1680 y:-980 d:Drag269_Value
+EndSlot
+t:LocalReference v:(s)agA= x:1778 y:-980 d:Drag270_LocalReference
+EndSlot
+EndSlot
+t:Value v:(n)1 x:1902 y:-980 d:Drag271_Value
+EndSlot
+EndSlot
+EndSlot
+Insert
+t:Let x:515 y:-1050 d:Drag272_Let
+Slot
+t:LocalReference v:(s)TgA= x:545 y:-1055 d:Drag273_LocalReference
+t:Value v:(n)0 x:637 y:-1055 d:Drag274_Value
+EndSlot
+t:ForEach x:515 y:-1100 d:Drag275_ForEach
+Slot
+t:LocalReference v:(s)8l0cZCJ9 x:621 y:-1105 d:Drag276_LocalReference
+t:LocalReference v:(s)TQA= x:787 y:-1105 d:Drag277_LocalReference
+EndSlot
+Insert
+t:If x:532 y:-1150 d:Drag278_If
+Slot
+t:StrEqual x:610 y:-1155 d:Drag279_StrEqual
+Slot
+t:Tuple2 v:(o) x:622 y:-1160 d:Drag280_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:694 y:-1165 d:Drag281_LocalReference
+t:LocalReference v:(s)agA= x:754 y:-1165 d:Drag282_LocalReference
+EndSlot
+t:LocalReference v:(s)TQA= x:862 y:-1165 d:Drag283_LocalReference
+EndSlot
+EndSlot
+Insert
+t:Let x:549 y:-1220 d:Drag284_Let
+Slot
+t:LocalReference v:(s)TgA= x:579 y:-1225 d:Drag285_LocalReference
+t:Value v:(n)1 x:671 y:-1225 d:Drag286_Value
+EndSlot
+EndInsert
+EndInsert
+t:If x:515 y:-1300 d:Drag287_If
+Slot
+t:Equal x:593 y:-1305 d:Drag288_Equal
+Slot
+t:LocalReference v:(s)TgA= x:605 y:-1310 d:Drag289_LocalReference
+t:Value v:(n)1 x:683 y:-1310 d:Drag290_Value
+EndSlot
+EndSlot
+Insert
+t:Continue x:532 y:-1360 d:Drag291_Continue
+EndInsert
+t:Else x:515 y:-1425 d:Drag292_Else
+Insert
+t:GroupAdd x:532 y:-1475 d:Drag293_GroupAdd
+Slot
+t:LocalReference v:(s)8l0cZCJ9 x:590 y:-1485 d:Drag294_LocalReference
+t:Tuple2 x:742 y:-1480 d:Drag295_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:814 y:-1485 d:Drag296_LocalReference
+t:LocalReference v:(s)agA= x:874 y:-1485 d:Drag297_LocalReference
+EndSlot
+EndSlot
+EndInsert
+t:If x:515 y:-1550 d:Drag459_If
+Slot
+t:Equal x:593 y:-1555 d:Drag460_Equal
+Slot
+t:LocalReference v:(s)aQA= x:605 y:-1560 d:Drag461_LocalReference
+t:Value v:(n)10 x:683 y:-1560 d:Drag462_Value
+EndSlot
+EndSlot
+Insert
+t:Let v:(o) x:532 y:-1610 d:Drag555_Let
+Slot
+t:Reference v:(s)035fZwdo118= x:562 y:-1615 d:Drag556_Reference
+t:Value v:(n)1 x:700 y:-1615 d:Drag557_Value
+EndSlot
+t:ControlShow x:532 y:-1660 d:Drag793_ControlShow
+Slot
+t:StringValue v:(s)on5ygtyAKVI+Zjp5 x:604 y:-1665 d:Drag794_StringValue
+EndSlot
+EndInsert
+t:ForEach x:515 y:-1725 d:Drag502_ForEach
+Slot
+t:Group x:621 y:-1730 d:Drag465_Group
+Insert
+t:Tuple2 x:638 y:-1780 d:Drag466_Tuple2
+Slot
+t:Minus x:710 y:-1785 d:Drag469_Minus
+Slot
+t:LocalReference v:(s)aQA= x:722 y:-1790 d:Drag467_LocalReference
+t:Value v:(n)1 x:800 y:-1790 d:Drag470_Value
+EndSlot
+t:LocalReference v:(s)agA= x:874 y:-1790 d:Drag468_LocalReference
+EndSlot
+t:Tuple2 x:638 y:-1840 d:Drag471_Tuple2
+Slot
+t:Add x:710 y:-1845 d:Drag496_Add
+Slot
+t:LocalReference v:(s)aQA= x:722 y:-1850 d:Drag473_LocalReference
+t:Value v:(n)1 x:800 y:-1850 d:Drag474_Value
+EndSlot
+t:LocalReference v:(s)agA= x:874 y:-1850 d:Drag475_LocalReference
+EndSlot
+t:Tuple2 x:638 y:-1900 d:Drag476_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:710 y:-1910 d:Drag478_LocalReference
+t:Minus x:770 y:-1905 d:Drag477_Minus
+Slot
+t:LocalReference v:(s)agA= x:782 y:-1910 d:Drag480_LocalReference
+t:Value v:(n)1 x:860 y:-1910 d:Drag479_Value
+EndSlot
+EndSlot
+t:Tuple2 x:638 y:-1960 d:Drag481_Tuple2
+Slot
+t:LocalReference v:(s)aQA= x:710 y:-1970 d:Drag483_LocalReference
+t:Add x:770 y:-1965 d:Drag497_Add
+Slot
+t:LocalReference v:(s)agA= x:782 y:-1970 d:Drag485_LocalReference
+t:Value v:(n)1 x:860 y:-1970 d:Drag484_Value
+EndSlot
+EndSlot
+t:Tuple2 x:638 y:-2020 d:Drag486_Tuple2
+Slot
+t:Minus x:710 y:-2025 d:Drag487_Minus
+Slot
+t:LocalReference v:(s)aQA= x:722 y:-2030 d:Drag488_LocalReference
+t:Value v:(n)1 x:800 y:-2030 d:Drag489_Value
+EndSlot
+t:Add x:874 y:-2025 d:Drag498_Add
+Slot
+t:LocalReference v:(s)agA= x:886 y:-2030 d:Drag490_LocalReference
+t:Value v:(n)1 x:964 y:-2030 d:Drag499_Value
+EndSlot
+EndSlot
+t:Tuple2 x:638 y:-2080 d:Drag491_Tuple2
+Slot
+t:Add x:710 y:-2085 d:Drag500_Add
+Slot
+t:LocalReference v:(s)aQA= x:722 y:-2090 d:Drag493_LocalReference
+t:Value v:(n)1 x:800 y:-2090 d:Drag501_Value
+EndSlot
+t:Minus x:874 y:-2085 d:Drag492_Minus
+Slot
+t:LocalReference v:(s)agA= x:886 y:-2090 d:Drag495_LocalReference
+t:Value v:(n)1 x:964 y:-2090 d:Drag494_Value
+EndSlot
+EndSlot
+EndInsert
+t:LocalReference v:(s)UAA= x:1140 y:-1922.5 d:Drag503_LocalReference
+EndSlot
+Insert
+t:Let x:532 y:-2160 d:Drag506_Let
+Slot
+t:LocalReference v:(s)TAA= x:562 y:-2165 d:Drag507_LocalReference
+t:Value v:(n)0 x:654 y:-2165 d:Drag508_Value
+EndSlot
+t:ForEach x:532 y:-2210 d:Drag518_ForEach
+Slot
+t:LocalReference v:(s)8l0cZCJ9 x:638 y:-2215 d:Drag519_LocalReference
+t:LocalReference v:(s)TQA= x:804 y:-2215 d:Drag520_LocalReference
+EndSlot
+Insert
+t:If x:549 y:-2260 d:Drag521_If
+Slot
+t:StrEqual x:627 y:-2265 d:Drag522_StrEqual
+Slot
+t:LocalReference v:(s)UAA= x:639 y:-2270 d:Drag530_LocalReference
+t:LocalReference v:(s)TQA= x:733 y:-2270 d:Drag526_LocalReference
+EndSlot
+EndSlot
+Insert
+t:Let x:566 y:-2320 d:Drag527_Let
+Slot
+t:LocalReference v:(s)TAA= x:596 y:-2325 d:Drag528_LocalReference
+t:Value v:(n)1 x:688 y:-2325 d:Drag529_Value
+EndSlot
+EndInsert
+EndInsert
+t:If x:532 y:-2400 d:Drag531_If
+Slot
+t:Equal x:610 y:-2405 d:Drag532_Equal
+Slot
+t:LocalReference v:(s)TAA= x:622 y:-2410 d:Drag533_LocalReference
+t:Value v:(n)0 x:700 y:-2410 d:Drag534_Value
+EndSlot
+EndSlot
+Insert
+t:GroupInsert x:549 y:-2460 d:Drag546_GroupInsert
+Slot
+t:LocalReference v:(s)CGg= x:607 y:-2465 d:Drag537_LocalReference
+t:Value v:(n)0 x:689 y:-2465 d:Drag547_Value
+t:LocalReference v:(s)UAA= x:823 y:-2465 d:Drag541_LocalReference
+EndSlot
+EndInsert
+EndInsert
+EndInsert
+EndInsert
+EndInsert
+EndInsert
+t:Sub v:(s)y2jYdlBXB2hsj2Jj x:447 y:-2655 d:Drag298_Sub
+Slot
+t:Value v:(n)0 x:647 y:-2660 d:Drag299_Value
+EndSlot
+Insert
+t:ForBasic x:464 y:-2705 d:Drag300_ForBasic
+Slot
+t:LocalReference v:(s)QQA= x:528 y:-2710 d:Drag301_LocalReference
+t:Value v:(n)0 x:606 y:-2710 d:Drag302_Value
+t:Value v:(n)120 x:684 y:-2710 d:Drag303_Value
+EndSlot
+Insert
+t:Let x:481 y:-2755 d:Drag304_Let
+Slot
+t:GroupItem x:511 y:-2765 d:Drag305_GroupItem
+Slot
+t:Reference v:(s)y2jYdlBXB2g= x:555 y:-2770 d:Drag306_Reference
+t:LocalReference v:(s)QQA= x:693 y:-2770 d:Drag307_LocalReference
+EndSlot
+t:Tuple2 x:817 y:-2760 d:Drag308_Tuple2
+Slot
+t:DevideInt x:889 y:-2765 d:Drag309_DevideInt
+Slot
+t:LocalReference v:(s)QQA= x:901 y:-2770 d:Drag310_LocalReference
+t:Value v:(n)11 x:985 y:-2770 d:Drag311_Value
+EndSlot
+t:Modulus x:1065 y:-2765 d:Drag312_Modulus
+Slot
+t:LocalReference v:(s)QQA= x:1077 y:-2770 d:Drag313_LocalReference
+t:Value v:(n)11 x:1161 y:-2770 d:Drag314_Value
+EndSlot
+EndSlot
+EndSlot
+EndInsert
+EndInsert
+t:Function v:(s)UFcHaGyPYmM= x:447 y:-2855 d:Drag315_Function
+Slot
+t:LocalReference v:(s)QQA= x:647 y:-2860 d:Drag316_LocalReference
+EndSlot
+Insert
+t:Let x:464 y:-2905 d:Drag317_Let
+Slot
+t:LocalReference v:(s)8l2/i+6VUFcHaDEA x:494 y:-2910 d:Drag318_LocalReference
+t:Reference v:(s)8l2/i+6V x:654 y:-2910 d:Drag319_Reference
+EndSlot
+t:ForBasic x:464 y:-2955 d:Drag320_ForBasic
+Slot
+t:LocalReference v:(s)QgA= x:528 y:-2970 d:Drag321_LocalReference
+t:Value v:(n)0 x:606 y:-2970 d:Drag322_Value
+t:Minus x:684 y:-2960 d:Drag323_Minus
+Slot
+t:GroupCount x:696 y:-2965 d:Drag324_GroupCount
+Slot
+t:LocalReference v:(s)QQA= x:740 y:-2970 d:Drag325_LocalReference
+EndSlot
+t:Value v:(n)1 x:878 y:-2970 d:Drag326_Value
+EndSlot
+EndSlot
+Insert
+t:Let x:481 y:-3025 d:Drag327_Let
+Slot
+t:GroupItem x:511 y:-3040 d:Drag328_GroupItem
+Slot
+t:LocalReference v:(s)8l2/i+6VUFcHaDEA x:555 y:-3045 d:Drag329_LocalReference
+t:LocalReference v:(s)QgA= x:715 y:-3045 d:Drag330_LocalReference
+EndSlot
+t:Tuple2 x:839 y:-3030 d:Drag331_Tuple2
+Slot
+t:DevideInt x:911 y:-3035 d:Drag332_DevideInt
+Slot
+t:GroupItem x:923 y:-3040 d:Drag333_GroupItem
+Slot
+t:LocalReference v:(s)QQA= x:967 y:-3045 d:Drag334_LocalReference
+t:LocalReference v:(s)QgA= x:1059 y:-3045 d:Drag335_LocalReference
+EndSlot
+t:Value v:(n)11 x:1175 y:-3045 d:Drag336_Value
+EndSlot
+t:Modulus x:1255 y:-3035 d:Drag337_Modulus
+Slot
+t:GroupItem x:1267 y:-3040 d:Drag338_GroupItem
+Slot
+t:LocalReference v:(s)QQA= x:1311 y:-3045 d:Drag339_LocalReference
+t:LocalReference v:(s)QgA= x:1403 y:-3045 d:Drag340_LocalReference
+EndSlot
+t:Value v:(n)11 x:1519 y:-3045 d:Drag341_Value
+EndSlot
+EndSlot
+EndSlot
+EndInsert
+t:Return x:464 y:-3120 d:Drag342_Return
+Slot
+t:LocalReference v:(s)8l2/i+6VUFcHaDEA x:536 y:-3125 d:Drag343_LocalReference
+EndSlot
+EndInsert
+t:Sub v:(s)U2JwU8to2HY= x:447 y:-2910 d:Drag344_Sub
+Slot
+t:Value v:(n)0 x:619 y:-2915 d:Drag345_Value
+EndSlot
+Insert
+t:ForBasic x:464 y:-2960 d:Drag346_ForBasic
+Slot
+t:LocalReference v:(s)aQA= x:528 y:-2965 d:Drag347_LocalReference
+t:Value v:(n)0 x:606 y:-2965 d:Drag348_Value
+t:Value v:(n)120 x:684 y:-2965 d:Drag349_Value
+EndSlot
+Insert
+t:If x:481 y:-3010 d:Drag350_If
+Slot
+t:Equal x:559 y:-3015 d:Drag351_Equal
+Slot
+t:GroupItem x:571 y:-3020 d:Drag352_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:615 y:-3025 d:Drag353_Reference
+t:LocalReference v:(s)aQA= x:725 y:-3025 d:Drag354_LocalReference
+EndSlot
+t:Value v:(n)0 x:835 y:-3025 d:Drag355_Value
+EndSlot
+EndSlot
+Insert
+t:SetImagePicture x:498 y:-3080 d:Drag356_SetImagePicture
+Slot
+t:LocalReference v:(s)aQA= x:570 y:-3085 d:Drag357_LocalReference
+t:Reference v:(s)eno= x:704 y:-3085 d:Drag358_Reference
+EndSlot
+EndInsert
+t:If x:481 y:-3145 d:Drag359_If
+Slot
+t:Equal x:559 y:-3150 d:Drag360_Equal
+Slot
+t:GroupItem x:571 y:-3155 d:Drag361_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:615 y:-3160 d:Drag362_Reference
+t:LocalReference v:(s)aQA= x:725 y:-3160 d:Drag363_LocalReference
+EndSlot
+t:Value v:(n)1 x:835 y:-3160 d:Drag364_Value
+EndSlot
+EndSlot
+Insert
+t:SetImagePicture x:498 y:-3215 d:Drag365_SetImagePicture
+Slot
+t:LocalReference v:(s)aQA= x:570 y:-3220 d:Drag366_LocalReference
+t:Reference v:(s)on7LaA== x:704 y:-3220 d:Drag367_Reference
+EndSlot
+EndInsert
+t:If x:481 y:-3280 d:Drag368_If
+Slot
+t:Equal x:559 y:-3285 d:Drag369_Equal
+Slot
+t:GroupItem x:571 y:-3290 d:Drag370_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:615 y:-3295 d:Drag371_Reference
+t:LocalReference v:(s)aQA= x:725 y:-3295 d:Drag372_LocalReference
+EndSlot
+t:Value v:(n)2 x:835 y:-3295 d:Drag373_Value
+EndSlot
+EndSlot
+Insert
+t:SetImagePicture x:498 y:-3350 d:Drag374_SetImagePicture
+Slot
+t:LocalReference v:(s)aQA= x:570 y:-3355 d:Drag375_LocalReference
+t:Reference v:(s)3YTLaA== x:704 y:-3355 d:Drag376_Reference
+EndSlot
+EndInsert
+EndInsert
+EndInsert
+t:Sub v:(s)IJ8HaLlw+1ELTsto/VFwZQ== x:447 y:-3445 d:Drag377_Sub
+Slot
+t:Value v:(n)0 x:675 y:-3450 d:Drag378_Value
+EndSlot
+Insert
+t:DoWhile x:464 y:-3495 d:Drag379_DoWhile
+Slot
+t:Equal x:494 y:-4730 d:Drag380_Equal
+Slot
+t:Reference v:(s)Ck4ATqlztls= x:506 y:-4735 d:Drag381_Reference
+t:Reference v:(s)U19NUqlztls= x:630 y:-4735 d:Drag382_Reference
+EndSlot
+EndSlot
+Insert
+t:If x:481 y:-3545 d:Drag383_If
+Slot
+t:MouseLeftUnderPress x:559 y:-3550 d:Drag384_MouseLeftUnderPress
+EndSlot
+Insert
+t:For v:(o) x:498 y:-3605 d:Drag385_For
+Slot
+t:LocalReference v:(s)QQA= x:562 y:-3610 d:Drag386_LocalReference
+t:Value v:(n)0 x:640 y:-3610 d:Drag387_Value
+t:LessEqual v:(o) x:542 y:-3645 d:Drag388_LessEqual
+Slot
+t:LocalReference v:(s)QQA= x:554 y:-3650 d:Drag389_LocalReference
+t:Value v:(n)120 x:634 y:-3650 d:Drag390_Value
+EndSlot
+t:Value v:(n)1 x:754 y:-3650 d:Drag391_Value
+EndSlot
+Insert
+t:If v:(o) x:515 y:-3700 d:Drag392_If
+Slot
+t:MouseHoverOn v:(o) x:593 y:-3705 d:Drag393_MouseHoverOn
+Slot
+t:LocalReference v:(s)QQA= x:707 y:-3710 d:Drag394_LocalReference
+EndSlot
+EndSlot
+Insert
+t:If x:532 y:-3760 d:Drag395_If
+Slot
+t:And x:610 y:-3765 d:Drag396_And
+Slot
+t:Equal x:622 y:-3775 d:Drag397_Equal
+Slot
+t:Reference v:(s)U19NUqlztls= x:634 y:-3780 d:Drag398_Reference
+t:Value v:(n)0 x:758 y:-3780 d:Drag399_Value
+EndSlot
+t:Equal x:850 y:-3770 d:Drag400_Equal
+Slot
+t:GroupItem x:862 y:-3775 d:Drag401_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:906 y:-3780 d:Drag402_Reference
+t:LocalReference v:(s)QQA= x:1016 y:-3780 d:Drag403_LocalReference
+EndSlot
+t:Value v:(n)0 x:1126 y:-3780 d:Drag404_Value
+EndSlot
+EndSlot
+EndSlot
+Insert
+t:Let x:549 y:-3840 d:Drag405_Let
+Slot
+t:GroupItem x:579 y:-3845 d:Drag406_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:623 y:-3850 d:Drag407_Reference
+t:LocalReference v:(s)QQA= x:733 y:-3850 d:Drag408_LocalReference
+EndSlot
+t:Value v:(n)1 x:857 y:-3850 d:Drag409_Value
+EndSlot
+t:GroupAdd x:549 y:-3900 d:Drag410_GroupAdd
+Slot
+t:Reference v:(s)8l2/i+6V x:607 y:-3905 d:Drag411_Reference
+t:LocalReference v:(s)QQA= x:759 y:-3905 d:Drag412_LocalReference
+EndSlot
+t:CallSub v:(o) x:549 y:-3950 d:Drag413_CallSub
+Slot
+t:StringValue v:(s)U2JwU8to2HY= x:635 y:-3955 d:Drag414_StringValue
+t:Value v:(n)0 x:741 y:-3955 d:Drag415_Value
+EndSlot
+t:Delay x:549 y:-4000 d:Drag416_Delay
+Slot
+t:Value v:(n)0.5 x:593 y:-4005 d:Drag417_Value
+EndSlot
+t:Let x:549 y:-4050 d:Drag418_Let
+Slot
+t:Reference v:(s)U19NUqlztls= x:579 y:-4055 d:Drag419_Reference
+t:Value v:(n)1 x:717 y:-4055 d:Drag420_Value
+EndSlot
+t:Break x:549 y:-4100 d:Drag421_Break
+EndInsert
+t:ElseIf x:532 y:-4165 d:Drag422_ElseIf
+Slot
+t:And x:638 y:-4170 d:Drag423_And
+Slot
+t:Equal x:650 y:-4180 d:Drag424_Equal
+Slot
+t:Reference v:(s)U19NUqlztls= x:662 y:-4185 d:Drag425_Reference
+t:Value v:(n)1 x:786 y:-4185 d:Drag426_Value
+EndSlot
+t:Equal x:878 y:-4175 d:Drag427_Equal
+Slot
+t:GroupItem x:890 y:-4180 d:Drag428_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:934 y:-4185 d:Drag429_Reference
+t:LocalReference v:(s)QQA= x:1044 y:-4185 d:Drag430_LocalReference
+EndSlot
+t:Value v:(n)0 x:1154 y:-4185 d:Drag431_Value
+EndSlot
+EndSlot
+EndSlot
+Insert
+t:Let x:549 y:-4245 d:Drag432_Let
+Slot
+t:GroupItem x:579 y:-4250 d:Drag433_GroupItem
+Slot
+t:Reference v:(s)y2jYdg== x:623 y:-4255 d:Drag434_Reference
+t:LocalReference v:(s)QQA= x:733 y:-4255 d:Drag435_LocalReference
+EndSlot
+t:Value v:(n)2 x:857 y:-4255 d:Drag436_Value
+EndSlot
+t:GroupAdd x:549 y:-4305 d:Drag437_GroupAdd
+Slot
+t:Reference v:(s)8l2/i+6V x:607 y:-4310 d:Drag438_Reference
+t:LocalReference v:(s)QQA= x:759 y:-4310 d:Drag439_LocalReference
+EndSlot
+t:CallSub v:(o) x:549 y:-4355 d:Drag440_CallSub
+Slot
+t:StringValue v:(s)U2JwU8to2HY= x:635 y:-4360 d:Drag441_StringValue
+t:Value v:(n)0 x:741 y:-4360 d:Drag442_Value
+EndSlot
+t:Delay x:549 y:-4405 d:Drag443_Delay
+Slot
+t:Value v:(n)0.5 x:593 y:-4410 d:Drag444_Value
+EndSlot
+t:Let x:549 y:-4455 d:Drag445_Let
+Slot
+t:Reference v:(s)U19NUqlztls= x:579 y:-4460 d:Drag446_Reference
+t:Value v:(n)0 x:717 y:-4460 d:Drag447_Value
+EndSlot
+t:Break x:549 y:-4505 d:Drag448_Break
+EndInsert
+t:Else x:532 y:-4570 d:Drag449_Else
+Insert
+t:Continue x:549 y:-4620 d:Drag450_Continue
+EndInsert
+EndInsert
+EndInsert
+EndInsert
+EndInsert
+EndInsert
+EndInsert

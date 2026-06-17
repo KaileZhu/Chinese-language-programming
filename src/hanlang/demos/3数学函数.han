@@ -1,0 +1,88 @@
+﻿t:Subs x:430 y:1065 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:1050 d:Drag49_Setup
+Insert
+t:For x:464 y:1000 d:Drag50_For
+Slot
+t:LocalReference v:(s)VAA= x:528 y:995 d:Drag51_LocalReference
+t:Value v:(n)0 x:606 y:995 d:Drag52_Value
+t:LessEqual x:508 y:960 d:Drag53_LessEqual
+Slot
+t:LocalReference v:(s)VAA= x:520 y:955 d:Drag54_LocalReference
+t:Value v:(n)360 x:600 y:955 d:Drag55_Value
+EndSlot
+t:Value v:(n)15 x:720 y:955 d:Drag56_Value
+EndSlot
+Insert
+t:Print v:(o) x:481 y:905 d:Drag57_Print
+Slot
+t:StringValue v:(s)UwBpAG4A x:525 y:900 d:Drag58_StringValue
+EndSlot
+t:Print v:(o) x:481 y:855 d:Drag59_Print
+Slot
+t:LocalReference v:(s)VAA= x:525 y:850 d:Drag60_LocalReference
+EndSlot
+t:Print v:(o) x:481 y:805 d:Drag61_Print
+Slot
+t:StringValue v:(s)PQA= x:525 y:800 d:Drag62_StringValue
+EndSlot
+t:Print v:(o) x:481 y:755 d:Drag63_Print
+Slot
+t:Sine x:525 y:750 d:Drag64_Sine
+Slot
+t:LocalReference v:(s)VAA= x:562 y:745 d:Drag65_LocalReference
+EndSlot
+EndSlot
+t:Print v:(o) x:481 y:695 d:Drag66_Print
+Slot
+t:StringValue v:(s)IAAgAA== x:525 y:690 d:Drag67_StringValue
+EndSlot
+t:Print v:(o) x:481 y:645 d:Drag68_Print
+Slot
+t:StringValue v:(s)QwBvAHMA x:525 y:640 d:Drag69_StringValue
+EndSlot
+t:Print v:(o) x:481 y:595 d:Drag70_Print
+Slot
+t:LocalReference v:(s)VAA= x:525 y:590 d:Drag71_LocalReference
+EndSlot
+t:Print v:(o) x:481 y:545 d:Drag72_Print
+Slot
+t:StringValue v:(s)PQA= x:525 y:540 d:Drag73_StringValue
+EndSlot
+t:Print v:(o) x:481 y:495 d:Drag74_Print
+Slot
+t:Cosine x:525 y:490 d:Drag75_Cosine
+Slot
+t:LocalReference v:(s)VAA= x:565 y:485 d:Drag76_LocalReference
+EndSlot
+EndSlot
+t:Print v:(o) x:481 y:435 d:Drag77_Print
+Slot
+t:StringValue v:(s)IAAgAA== x:525 y:430 d:Drag78_StringValue
+EndSlot
+t:Print v:(o) x:481 y:385 d:Drag79_Print
+Slot
+t:StringValue v:(s)VABhAG4A x:525 y:380 d:Drag80_StringValue
+EndSlot
+t:Print v:(o) x:481 y:335 d:Drag81_Print
+Slot
+t:LocalReference v:(s)VAA= x:525 y:330 d:Drag82_LocalReference
+EndSlot
+t:Print v:(o) x:481 y:285 d:Drag83_Print
+Slot
+t:StringValue v:(s)PQA= x:525 y:280 d:Drag84_StringValue
+EndSlot
+t:Print v:(o) x:481 y:235 d:Drag85_Print
+Slot
+t:Tangent x:525 y:230 d:Drag86_Tangent
+Slot
+t:LocalReference v:(s)VAA= x:566 y:225 d:Drag87_LocalReference
+EndSlot
+EndSlot
+t:Print v:(o) x:481 y:175 d:Drag88_Print
+Slot
+t:StringValue v:(s)XAA= x:525 y:170 d:Drag89_StringValue
+EndSlot
+EndInsert
+EndInsert
+EndInsert

@@ -1,0 +1,139 @@
+﻿t:Subs x:430 y:1425 d:Drag1_Subs
+Insert
+t:Setup x:447 y:1410 d:Drag84_Setup
+Insert
+t:Print x:464 y:1360 d:Drag142_Print
+Slot
+t:Add x:508 y:1355 d:Drag140_Add
+Slot
+t:Value v:(n)123 x:520 y:1350 d:Drag143_Value
+t:StringValue v:(s)MQAyADMA x:612 y:1350 d:Drag141_StringValue
+EndSlot
+EndSlot
+t:Print x:464 y:1300 d:Drag144_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:1295 d:Drag145_StringValue
+EndSlot
+t:Print x:464 y:1250 d:Drag147_Print
+Slot
+t:StrAdd x:508 y:1245 d:Drag146_StrAdd
+Slot
+t:Value v:(n)123 x:520 y:1240 d:Drag149_Value
+t:StringValue v:(s)MQAyADMA x:628 y:1240 d:Drag150_StringValue
+EndSlot
+EndSlot
+t:Print x:464 y:1190 d:Drag151_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:1185 d:Drag152_StringValue
+EndSlot
+t:Print x:464 y:1140 d:Drag85_Print
+Slot
+t:StringValue v:(s)QQBCAEMAYQBiAGMAMQAyADMASWxXWw== x:508 y:1135 d:Drag86_StringValue
+EndSlot
+t:Print x:464 y:1090 d:Drag87_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:1085 d:Drag88_StringValue
+EndSlot
+t:Let x:464 y:1040 d:Drag89_Let
+Slot
+t:Reference v:(s)QQA= x:494 y:1035 d:Drag90_Reference
+t:Value v:(n)123 x:586 y:1035 d:Drag91_Value
+EndSlot
+t:Let x:464 y:990 d:Drag92_Let
+Slot
+t:Reference v:(s)QgA= x:494 y:985 d:Drag93_Reference
+t:Value v:(n)456 x:586 y:985 d:Drag94_Value
+EndSlot
+t:Print x:464 y:940 d:Drag95_Print
+Slot
+t:StrAdd x:508 y:935 d:Drag96_StrAdd
+Slot
+t:Reference v:(s)QQA= x:520 y:930 d:Drag97_Reference
+t:Reference v:(s)QgA= x:614 y:930 d:Drag98_Reference
+EndSlot
+EndSlot
+t:Print x:464 y:880 d:Drag99_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:875 d:Drag100_StringValue
+EndSlot
+t:Print x:464 y:830 d:Drag101_Print
+Slot
+t:Add x:508 y:825 d:Drag102_Add
+Slot
+t:Reference v:(s)QQA= x:520 y:820 d:Drag103_Reference
+t:Reference v:(s)QgA= x:598 y:820 d:Drag104_Reference
+EndSlot
+EndSlot
+t:Print x:464 y:770 d:Drag105_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:765 d:Drag106_StringValue
+EndSlot
+t:Print x:464 y:720 d:Drag107_Print
+Slot
+t:StrLeft x:508 y:715 d:Drag108_StrLeft
+Slot
+t:StringValue v:(s)QQBCAEMAYQBiAGMAMQAyADMASWxXWw== x:566 y:710 d:Drag109_StringValue
+t:Value v:(n)3 x:779 y:710 d:Drag110_Value
+EndSlot
+EndSlot
+t:Print x:464 y:660 d:Drag111_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:655 d:Drag112_StringValue
+EndSlot
+t:Print x:464 y:610 d:Drag113_Print
+Slot
+t:StrRight x:508 y:605 d:Drag114_StrRight
+Slot
+t:StringValue v:(s)QQBCAEMAYQBiAGMAMQAyADMASWxXWw== x:566 y:600 d:Drag115_StringValue
+t:Value v:(n)3 x:779 y:600 d:Drag116_Value
+EndSlot
+EndSlot
+t:Print x:464 y:550 d:Drag117_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:545 d:Drag118_StringValue
+EndSlot
+t:Print x:464 y:500 d:Drag119_Print
+Slot
+t:StrSub x:508 y:495 d:Drag120_StrSub
+Slot
+t:StringValue v:(s)QQBCAEMAYQBiAGMAMQAyADMASWxXWw== x:566 y:490 d:Drag121_StringValue
+t:Value v:(n)3 x:751 y:490 d:Drag122_Value
+t:Value v:(n)3 x:843 y:490 d:Drag123_Value
+EndSlot
+EndSlot
+t:Print x:464 y:440 d:Drag124_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:435 d:Drag125_StringValue
+EndSlot
+t:Print x:464 y:390 d:Drag126_Print
+Slot
+t:StrSplit x:508 y:385 d:Drag127_StrSplit
+Slot
+t:StringValue v:(s)MQAyADMAMwAsADMANAAyADUALAAyADEANAAzADIA x:566 y:380 d:Drag128_StringValue
+t:StringValue v:(s)LAA= x:746 y:380 d:Drag129_StringValue
+EndSlot
+EndSlot
+t:Print x:464 y:330 d:Drag130_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:325 d:Drag131_StringValue
+EndSlot
+t:Print x:464 y:280 d:Drag132_Print
+Slot
+t:ToLower x:508 y:275 d:Drag133_ToLower
+Slot
+t:StringValue v:(s)QQBCAEMAYQBiAGMAMQAyADMASWxXWw== x:566 y:270 d:Drag134_StringValue
+EndSlot
+EndSlot
+t:Print x:464 y:220 d:Drag135_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:215 d:Drag136_StringValue
+EndSlot
+t:Print x:464 y:170 d:Drag137_Print
+Slot
+t:ToUpper x:508 y:165 d:Drag138_ToUpper
+Slot
+t:StringValue v:(s)QQBCAEMAYQBiAGMAMQAyADMASWxXWw== x:566 y:160 d:Drag139_StringValue
+EndSlot
+EndSlot
+EndInsert
+EndInsert

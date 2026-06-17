@@ -1,0 +1,28 @@
+﻿t:Subs x:430 y:987 d:Drag1_Subs
+Insert
+t:Setup x:447 y:972 d:Drag3_Setup
+Insert
+t:CreateBody v:(o) x:464 y:922 d:Drag4_CreateBody
+Slot
+t:StringValue v:(s)9pSzbPdT x:569 y:907 d:Drag5_StringValue
+t:Model v:(s)9pSzbPdTGGI6Zy4AbgB2AG0A x:693 y:917 d:Drag6_Model
+t:Tuple3 v:(o) x:889 y:912 d:Drag7_Tuple3
+Slot
+t:Value v:(n)-8 x:961 y:907 d:Drag8_Value
+t:Value v:(n)0 x:1025 y:907 d:Drag9_Value
+t:Value v:(n)0 x:1085 y:907 d:Drag10_Value
+EndSlot
+EndSlot
+t:CreateBody v:(o) x:464 y:852 d:Drag11_CreateBody
+Slot
+t:StringValue v:(s)5FHwUfdT x:569 y:837 d:Drag12_StringValue
+t:Model v:(s)5FHwUfdTGGI6Zy4AbgB2AG0A x:693 y:847 d:Drag13_Model
+t:Tuple3 v:(o) x:889 y:842 d:Drag14_Tuple3
+Slot
+t:Value v:(n)8 x:961 y:837 d:Drag15_Value
+t:Value v:(n)0 x:1021 y:837 d:Drag16_Value
+t:Value v:(n)0 x:1081 y:837 d:Drag17_Value
+EndSlot
+EndSlot
+EndInsert
+EndInsert

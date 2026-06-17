@@ -1,0 +1,320 @@
+﻿t:Subs x:430 y:1615 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:1600 d:Drag194_Setup
+Insert
+t:AllowCameraRotate v:(o) x:464 y:1550 d:Drag195_AllowCameraRotate
+Slot
+t:Value v:(n)1 x:718 y:1545 d:Drag196_Value
+EndSlot
+t:AllowCameraZoom v:(o) x:464 y:1500 d:Drag197_AllowCameraZoom
+Slot
+t:Value v:(n)1 x:690 y:1495 d:Drag198_Value
+EndSlot
+t:CreateBody v:(o) x:464 y:1450 d:Drag199_CreateBody
+Slot
+t:StringValue v:(s)Klkzlg== x:569 y:1435 d:Drag200_StringValue
+t:Model v:(s)Klkzli4AbgB2AG0A x:679 y:1445 d:Drag201_Model
+t:Tuple3 v:(o) x:875 y:1440 d:Drag202_Tuple3
+Slot
+t:Value v:(n)0 x:947 y:1435 d:Drag203_Value
+t:Value v:(n)0 x:1007 y:1435 d:Drag204_Value
+t:Value v:(n)0 x:1067 y:1435 d:Drag205_Value
+EndSlot
+EndSlot
+t:BodyScaleA v:(o) x:464 y:1380 d:Drag206_BodyScaleA
+Slot
+t:StringValue v:(s)Klkzlg== x:522 y:1375 d:Drag207_StringValue
+t:Value v:(n)12 x:632 y:1375 d:Drag208_Value
+EndSlot
+t:CreateBody v:(o) x:464 y:1330 d:Drag209_CreateBody
+Slot
+t:StringValue v:(s)KlkzlklRX2cxAA== x:569 y:1315 d:Drag210_StringValue
+t:Model v:(s)KlkzlklRX2cuAG4AdgBtAA== x:715 y:1325 d:Drag211_Model
+t:Tuple3 v:(o) x:911 y:1320 d:Drag212_Tuple3
+Slot
+t:Value v:(n)0 x:983 y:1315 d:Drag213_Value
+t:Value v:(n)0 x:1043 y:1315 d:Drag214_Value
+t:Value v:(n)0 x:1103 y:1315 d:Drag215_Value
+EndSlot
+EndSlot
+t:BodyRotate v:(o) x:464 y:1260 d:Drag216_BodyRotate
+Slot
+t:StringValue v:(s)KlkzlklRX2cxAA== x:522 y:1255 d:Drag217_StringValue
+t:V3Axis x:668 y:1255 d:Drag218_V3Axis v:(n)0
+t:Value v:(n)90 x:804 y:1255 d:Drag219_Value
+EndSlot
+t:BodyAttach v:(o) x:464 y:1210 d:Drag220_BodyAttach
+Slot
+t:StringValue v:(s)KlkzlklRX2cxAA== x:522 y:1205 d:Drag221_StringValue
+t:StringValue v:(s)Klkzlg== x:710 y:1205 d:Drag222_StringValue
+EndSlot
+t:CreateBody v:(o) x:464 y:1160 d:Drag223_CreateBody
+Slot
+t:StringValue v:(s)KlkzlklRX2c0AA== x:569 y:1145 d:Drag224_StringValue
+t:Model v:(s)KlkzlklRX2cuAG4AdgBtAA== x:715 y:1155 d:Drag225_Model
+t:Tuple3 v:(o) x:911 y:1150 d:Drag226_Tuple3
+Slot
+t:Value v:(n)0 x:983 y:1145 d:Drag227_Value
+t:Value v:(n)0 x:1043 y:1145 d:Drag228_Value
+t:Value v:(n)0 x:1103 y:1145 d:Drag229_Value
+EndSlot
+EndSlot
+t:BodyRotate v:(o) x:464 y:1090 d:Drag230_BodyRotate
+Slot
+t:StringValue v:(s)KlkzlklRX2c0AA== x:522 y:1085 d:Drag231_StringValue
+t:V3Axis x:668 y:1085 d:Drag232_V3Axis v:(n)0
+t:Value v:(n)-90 x:804 y:1085 d:Drag233_Value
+EndSlot
+t:BodyAttach v:(o) x:464 y:1040 d:Drag234_BodyAttach
+Slot
+t:StringValue v:(s)KlkzlklRX2c0AA== x:522 y:1035 d:Drag235_StringValue
+t:StringValue v:(s)Klkzlg== x:710 y:1035 d:Drag236_StringValue
+EndSlot
+t:ForBasic v:(o) x:464 y:990 d:Drag237_ForBasic
+Slot
+t:LocalReference v:(s)VAA= x:528 y:985 d:Drag238_LocalReference
+t:Value v:(n)0 x:606 y:985 d:Drag239_Value
+t:Value v:(n)4 x:684 y:985 d:Drag240_Value
+EndSlot
+Insert
+t:CreateBody v:(o) x:481 y:940 d:Drag241_CreateBody
+Slot
+t:StrAdd v:(o) x:586 y:930 d:Drag242_StrAdd
+Slot
+t:StringValue v:(s)KlkzlklRX2cyAA== x:598 y:925 d:Drag243_StringValue
+t:LocalReference v:(s)VAA= x:746 y:925 d:Drag244_LocalReference
+EndSlot
+t:Model v:(s)KlkzlklRX2cuAG4AdgBtAA== x:852 y:935 d:Drag245_Model
+t:Tuple3 v:(o) x:1048 y:930 d:Drag246_Tuple3
+Slot
+t:Value v:(n)0 x:1120 y:925 d:Drag247_Value
+t:Value v:(n)0 x:1180 y:925 d:Drag248_Value
+t:Value v:(n)0 x:1240 y:925 d:Drag249_Value
+EndSlot
+EndSlot
+t:BodyRotate v:(o) x:481 y:870 d:Drag250_BodyRotate
+Slot
+t:StrAdd v:(o) x:539 y:865 d:Drag251_StrAdd
+Slot
+t:StringValue v:(s)KlkzlklRX2cyAA== x:551 y:860 d:Drag252_StringValue
+t:LocalReference v:(s)VAA= x:699 y:860 d:Drag253_LocalReference
+EndSlot
+t:V3Axis x:805 y:860 d:Drag254_V3Axis v:(n)2
+t:Multiply v:(o) x:941 y:865 d:Drag255_Multiply
+Slot
+t:LocalReference v:(s)VAA= x:953 y:860 d:Drag256_LocalReference
+t:Value v:(n)72 x:1033 y:860 d:Drag257_Value
+EndSlot
+EndSlot
+t:BodyRotate v:(o) x:481 y:810 d:Drag258_BodyRotate
+Slot
+t:StrAdd v:(o) x:539 y:805 d:Drag259_StrAdd
+Slot
+t:StringValue v:(s)KlkzlklRX2cyAA== x:551 y:800 d:Drag260_StringValue
+t:LocalReference v:(s)VAA= x:699 y:800 d:Drag261_LocalReference
+EndSlot
+t:V3Axis x:805 y:800 d:Drag262_V3Axis v:(n)0
+t:Value v:(n)30 x:941 y:800 d:Drag263_Value
+EndSlot
+t:BodyAttach v:(o) x:481 y:750 d:Drag264_BodyAttach
+Slot
+t:StrAdd v:(o) x:539 y:745 d:Drag265_StrAdd
+Slot
+t:StringValue v:(s)KlkzlklRX2cyAA== x:551 y:740 d:Drag266_StringValue
+t:LocalReference v:(s)VAA= x:699 y:740 d:Drag267_LocalReference
+EndSlot
+t:StringValue v:(s)Klkzlg== x:847 y:740 d:Drag268_StringValue
+EndSlot
+t:CreateBody v:(o) x:481 y:690 d:Drag269_CreateBody
+Slot
+t:StrAdd v:(o) x:586 y:680 d:Drag270_StrAdd
+Slot
+t:StringValue v:(s)KlkzlklRX2czAA== x:598 y:675 d:Drag271_StringValue
+t:LocalReference v:(s)VAA= x:746 y:675 d:Drag272_LocalReference
+EndSlot
+t:Model v:(s)KlkzlklRX2cuAG4AdgBtAA== x:852 y:685 d:Drag273_Model
+t:Tuple3 v:(o) x:1048 y:680 d:Drag274_Tuple3
+Slot
+t:Value v:(n)0 x:1120 y:675 d:Drag275_Value
+t:Value v:(n)0 x:1180 y:675 d:Drag276_Value
+t:Value v:(n)0 x:1240 y:675 d:Drag277_Value
+EndSlot
+EndSlot
+t:BodyRotate v:(o) x:481 y:620 d:Drag278_BodyRotate
+Slot
+t:StrAdd v:(o) x:539 y:610 d:Drag279_StrAdd
+Slot
+t:StringValue v:(s)KlkzlklRX2czAA== x:551 y:605 d:Drag280_StringValue
+t:LocalReference v:(s)VAA= x:699 y:605 d:Drag281_LocalReference
+EndSlot
+t:V3Axis x:805 y:605 d:Drag282_V3Axis v:(n)2
+t:Add v:(o) x:941 y:615 d:Drag283_Add
+Slot
+t:Multiply v:(o) x:953 y:610 d:Drag284_Multiply
+Slot
+t:LocalReference v:(s)VAA= x:965 y:605 d:Drag285_LocalReference
+t:Value v:(n)72 x:1045 y:605 d:Drag286_Value
+EndSlot
+t:Value v:(n)36 x:1143 y:605 d:Drag287_Value
+EndSlot
+EndSlot
+t:BodyRotate v:(o) x:481 y:550 d:Drag288_BodyRotate
+Slot
+t:StrAdd v:(o) x:539 y:545 d:Drag289_StrAdd
+Slot
+t:StringValue v:(s)KlkzlklRX2czAA== x:551 y:540 d:Drag290_StringValue
+t:LocalReference v:(s)VAA= x:699 y:540 d:Drag291_LocalReference
+EndSlot
+t:V3Axis x:805 y:540 d:Drag292_V3Axis v:(n)0
+t:Value v:(n)-30 x:941 y:540 d:Drag293_Value
+EndSlot
+t:BodyAttach v:(o) x:481 y:490 d:Drag294_BodyAttach
+Slot
+t:StrAdd v:(o) x:539 y:485 d:Drag295_StrAdd
+Slot
+t:StringValue v:(s)KlkzlklRX2czAA== x:551 y:480 d:Drag296_StringValue
+t:LocalReference v:(s)VAA= x:699 y:480 d:Drag297_LocalReference
+EndSlot
+t:StringValue v:(s)Klkzlg== x:847 y:480 d:Drag298_StringValue
+EndSlot
+EndInsert
+t:CreateBody v:(o) x:464 y:415 d:Drag299_CreateBody
+Slot
+t:StringValue v:(s)NGwfZg== x:569 y:400 d:Drag300_StringValue
+t:Model v:(s)NGwfZi4AbgB2AG0A x:679 y:410 d:Drag301_Model
+t:Tuple3 v:(o) x:875 y:405 d:Drag302_Tuple3
+Slot
+t:Value v:(n)0 x:947 y:400 d:Drag303_Value
+t:Value v:(n)0 x:1007 y:400 d:Drag304_Value
+t:Value v:(n)15 x:1067 y:400 d:Drag305_Value
+EndSlot
+EndSlot
+t:CreateBody v:(o) x:464 y:345 d:Drag306_CreateBody
+Slot
+t:StringValue v:(s)NGwfZnSP x:569 y:330 d:Drag307_StringValue
+t:Model v:(s)NGwfZi4AbgB2AG0A x:693 y:340 d:Drag308_Model
+t:Tuple3 v:(o) x:889 y:335 d:Drag309_Tuple3
+Slot
+t:Value v:(n)0 x:961 y:330 d:Drag310_Value
+t:Value v:(n)0 x:1021 y:330 d:Drag311_Value
+t:Value v:(n)0 x:1081 y:330 d:Drag312_Value
+EndSlot
+EndSlot
+t:BodyAttach v:(o) x:464 y:275 d:Drag313_BodyAttach
+Slot
+t:StringValue v:(s)NGwfZg== x:522 y:270 d:Drag314_StringValue
+t:StringValue v:(s)NGwfZnSP x:674 y:270 d:Drag315_StringValue
+EndSlot
+t:CreateBody v:(o) x:464 y:225 d:Drag316_CreateBody
+Slot
+t:StringValue v:(s)0ZEfZg== x:569 y:210 d:Drag317_StringValue
+t:Model v:(s)0ZEfZi4AbgB2AG0A x:679 y:220 d:Drag318_Model
+t:Tuple3 v:(o) x:875 y:215 d:Drag319_Tuple3
+Slot
+t:Value v:(n)0 x:947 y:210 d:Drag320_Value
+t:Value v:(n)0 x:1007 y:210 d:Drag321_Value
+t:Value v:(n)20 x:1067 y:210 d:Drag322_Value
+EndSlot
+EndSlot
+t:CreateBody v:(o) x:464 y:155 d:Drag323_CreateBody
+Slot
+t:StringValue v:(s)0ZEfZnSP x:569 y:140 d:Drag324_StringValue
+t:Model v:(s)0ZEfZi4AbgB2AG0A x:693 y:150 d:Drag325_Model
+t:Tuple3 v:(o) x:889 y:145 d:Drag326_Tuple3
+Slot
+t:Value v:(n)0 x:961 y:140 d:Drag327_Value
+t:Value v:(n)0 x:1021 y:140 d:Drag328_Value
+t:Value v:(n)0 x:1081 y:140 d:Drag329_Value
+EndSlot
+EndSlot
+t:BodyScaleA v:(o) x:464 y:85 d:Drag330_BodyScaleA
+Slot
+t:StringValue v:(s)0ZEfZg== x:522 y:80 d:Drag331_StringValue
+t:Value v:(n)2 x:632 y:80 d:Drag332_Value
+EndSlot
+t:BodyAttach v:(o) x:464 y:35 d:Drag333_BodyAttach
+Slot
+t:StringValue v:(s)0ZEfZg== x:522 y:30 d:Drag334_StringValue
+t:StringValue v:(s)0ZEfZnSP x:674 y:30 d:Drag335_StringValue
+EndSlot
+t:CreateBody v:(o) x:464 y:-15 d:Drag336_CreateBody
+Slot
+t:StringValue v:(s)MFcDdA== x:569 y:-30 d:Drag337_StringValue
+t:Model v:(s)MFcDdC4AbgB2AG0A x:679 y:-20 d:Drag338_Model
+t:Tuple3 v:(o) x:875 y:-25 d:Drag339_Tuple3
+Slot
+t:Value v:(n)0 x:947 y:-30 d:Drag340_Value
+t:Value v:(n)0 x:1007 y:-30 d:Drag341_Value
+t:Value v:(n)30 x:1067 y:-30 d:Drag342_Value
+EndSlot
+EndSlot
+t:CreateBody v:(o) x:464 y:-85 d:Drag343_CreateBody
+Slot
+t:StringValue v:(s)MFcDdHSP x:569 y:-100 d:Drag344_StringValue
+t:Model v:(s)MFcDdC4AbgB2AG0A x:693 y:-90 d:Drag345_Model
+t:Tuple3 v:(o) x:889 y:-95 d:Drag346_Tuple3
+Slot
+t:Value v:(n)0 x:961 y:-100 d:Drag347_Value
+t:Value v:(n)0 x:1021 y:-100 d:Drag348_Value
+t:Value v:(n)0 x:1081 y:-100 d:Drag349_Value
+EndSlot
+EndSlot
+t:BodyScaleA v:(o) x:464 y:-155 d:Drag350_BodyScaleA
+Slot
+t:StringValue v:(s)MFcDdA== x:522 y:-160 d:Drag351_StringValue
+t:Value v:(n)2.5 x:632 y:-160 d:Drag352_Value
+EndSlot
+t:BodyAttach v:(o) x:464 y:-205 d:Drag353_BodyAttach
+Slot
+t:StringValue v:(s)MFcDdA== x:522 y:-210 d:Drag354_StringValue
+t:StringValue v:(s)MFcDdHSP x:674 y:-210 d:Drag355_StringValue
+EndSlot
+t:CreateBody v:(o) x:464 y:-255 d:Drag356_CreateBody
+Slot
+t:StringValue v:(s)CGcDdA== x:569 y:-270 d:Drag357_StringValue
+t:Model v:(s)CGcDdC4AbgB2AG0A x:679 y:-260 d:Drag358_Model
+t:Tuple3 v:(o) x:875 y:-265 d:Drag359_Tuple3
+Slot
+t:Value v:(n)0 x:947 y:-270 d:Drag360_Value
+t:Value v:(n)0 x:1007 y:-270 d:Drag361_Value
+t:Value v:(n)35 x:1067 y:-270 d:Drag362_Value
+EndSlot
+EndSlot
+t:BodyAttach v:(o) x:464 y:-325 d:Drag363_BodyAttach
+Slot
+t:StringValue v:(s)CGcDdA== x:522 y:-330 d:Drag364_StringValue
+t:StringValue v:(s)MFcDdA== x:674 y:-330 d:Drag365_StringValue
+EndSlot
+t:WhileDelay v:(o) x:464 y:-375 d:Drag366_WhileDelay
+Slot
+t:Value v:(n)0.02 x:542 y:-380 d:Drag367_Value
+EndSlot
+Insert
+t:BodyRotateY v:(o) x:481 y:-425 d:Drag368_BodyRotateY
+Slot
+t:StringValue v:(s)Klkzlg== x:539 y:-430 d:Drag369_StringValue
+t:Value v:(n)0.5 x:677 y:-430 d:Drag370_Value
+EndSlot
+t:BodyRotateY v:(o) x:481 y:-475 d:Drag371_BodyRotateY
+Slot
+t:StringValue v:(s)NGwfZnSP x:539 y:-480 d:Drag372_StringValue
+t:Value v:(n)4 x:691 y:-480 d:Drag373_Value
+EndSlot
+t:BodyRotateY v:(o) x:481 y:-525 d:Drag374_BodyRotateY
+Slot
+t:StringValue v:(s)0ZEfZnSP x:539 y:-530 d:Drag375_StringValue
+t:Value v:(n)1.9 x:691 y:-530 d:Drag376_Value
+EndSlot
+t:BodyRotateY v:(o) x:481 y:-575 d:Drag377_BodyRotateY
+Slot
+t:StringValue v:(s)MFcDdHSP x:539 y:-580 d:Drag378_StringValue
+t:Value v:(n)1 x:691 y:-580 d:Drag379_Value
+EndSlot
+t:BodyRotateY v:(o) x:481 y:-625 d:Drag380_BodyRotateY
+Slot
+t:StringValue v:(s)MFcDdA== x:539 y:-630 d:Drag381_StringValue
+t:Value v:(n)12 x:677 y:-630 d:Drag382_Value
+EndSlot
+EndInsert
+EndInsert
+EndInsert

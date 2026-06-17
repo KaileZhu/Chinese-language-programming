@@ -1,0 +1,71 @@
+﻿t:Subs x:430 y:987 d:Drag1_Subs
+Insert
+t:Setup x:447 y:972 d:Drag924_Setup
+Insert
+t:Let x:464 y:922 d:Drag925_Let
+Slot
+t:Reference v:(s)QQA= x:494 y:864.5 d:Drag926_Reference
+t:Group x:586 y:917 d:Drag927_Group
+Insert
+t:Value v:(n)1 x:603 y:867 d:Drag928_Value
+t:Value v:(n)2 x:603 y:827 d:Drag929_Value
+EndInsert
+EndSlot
+t:Let x:464 y:767 d:Drag930_Let
+Slot
+t:Group x:494 y:762 d:Drag931_Group
+Insert
+t:Reference v:(s)QgA= x:511 y:712 d:Drag932_Reference
+t:Reference v:(s)QwA= x:511 y:672 d:Drag933_Reference
+EndInsert
+t:Reference v:(s)QQA= x:618 y:709.5 d:Drag934_Reference
+EndSlot
+t:Print x:464 y:612 d:Drag935_Print
+Slot
+t:Reference v:(s)QgA= x:508 y:607 d:Drag936_Reference
+EndSlot
+t:Print x:464 y:562 d:Drag937_Print
+Slot
+t:Reference v:(s)QwA= x:508 y:557 d:Drag938_Reference
+EndSlot
+t:Print x:464 y:512 d:Drag939_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:507 d:Drag940_StringValue
+EndSlot
+t:Let v:(o) x:464 y:462 d:Drag941_Let
+Slot
+t:Reference v:(s)UAA= x:494 y:457 d:Drag942_Reference
+t:StringValue v:(s)QQBwAHAAbABlAA== x:586 y:457 d:Drag943_StringValue
+EndSlot
+t:Let v:(o) x:464 y:412 d:Drag944_Let
+Slot
+t:Reference v:(s)UQA= x:494 y:407 d:Drag945_Reference
+t:StringValue v:(s)QgBhAG4AYQBuAGEA x:586 y:407 d:Drag946_StringValue
+EndSlot
+t:Let v:(o) x:464 y:362 d:Drag947_Let
+Slot
+t:Group v:(o) x:494 y:357 d:Drag948_Group
+Insert
+t:Reference v:(s)UAA= x:511 y:307 d:Drag949_Reference
+t:Reference v:(s)UQA= x:511 y:267 d:Drag950_Reference
+EndInsert
+t:Group v:(o) x:618 y:357 d:Drag951_Group
+Insert
+t:Reference v:(s)UQA= x:635 y:307 d:Drag952_Reference
+t:Reference v:(s)UAA= x:635 y:267 d:Drag953_Reference
+EndInsert
+EndSlot
+t:Print x:464 y:207 d:Drag954_Print
+Slot
+t:Reference v:(s)UAA= x:508 y:202 d:Drag955_Reference
+EndSlot
+t:Print x:464 y:157 d:Drag956_Print
+Slot
+t:Reference v:(s)UQA= x:508 y:152 d:Drag957_Reference
+EndSlot
+t:Print x:464 y:107 d:Drag958_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:102 d:Drag959_StringValue
+EndSlot
+EndInsert
+EndInsert

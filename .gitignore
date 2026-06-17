@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Han language build artifacts
+*.hpp
+*.res
+
+# Auto-save files
+自动保存.*
+*.autosave
+
+# Large binary runtime (keep tracked files only)
+# Unity runtime DLLs and data are committed intentionally

@@ -1,0 +1,24 @@
+﻿t:Subs x:430 y:840 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:825 d:Drag3_Setup
+Insert
+t:BeginCreateMoviePlayer v:(o) x:464 y:775 d:Drag4_BeginCreateMoviePlayer
+Slot
+t:StringValue v:(s)MQA= x:676 y:770 d:Drag5_StringValue
+t:CanvasRate v:(o) x:508 y:735 d:Drag6_CanvasRate
+Slot
+t:Value v:(n)0 x:566 y:730 d:Drag7_Value
+t:Value v:(n)0 x:672 y:730 d:Drag8_Value
+EndSlot
+t:CanvasRate v:(o) x:824 y:735 d:Drag9_CanvasRate
+Slot
+t:Value v:(n)100 x:882 y:730 d:Drag10_Value
+t:Value v:(n)100 x:1002 y:730 d:Drag11_Value
+EndSlot
+t:Movie v:(s)ZlsuAG0AcAA0AA== x:536 y:690 d:Drag16_Movie
+t:Value v:(n)100 x:732 y:680 d:Drag13_Value
+t:StringValue v:(s) x:866 y:680 d:Drag14_StringValue
+t:StringValue v:(s) x:578 y:635 d:Drag15_StringValue
+EndSlot
+EndInsert
+EndInsert

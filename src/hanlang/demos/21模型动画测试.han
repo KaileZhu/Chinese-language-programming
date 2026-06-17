@@ -1,0 +1,89 @@
+﻿t:Subs x:430 y:987 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:972 d:Drag3_Setup
+Insert
+t:CreateBody v:(o) x:464 y:922 d:Drag4_CreateBody
+Slot
+t:StringValue v:(s)9pSzbPdT x:569 y:907 d:Drag5_StringValue
+t:Model v:(s)9pSzbPdTGGI6Zy4AbgB2AG0A x:693 y:917 d:Drag6_Model
+t:Tuple3 v:(o) x:889 y:912 d:Drag7_Tuple3
+Slot
+t:Value v:(n)0 x:961 y:907 d:Drag8_Value
+t:Value v:(n)0 x:1021 y:907 d:Drag9_Value
+t:Value v:(n)0 x:1081 y:907 d:Drag10_Value
+EndSlot
+EndSlot
+t:WhileDelay v:(o) x:464 y:852 d:Drag11_WhileDelay
+Slot
+t:Value v:(n)0.03 x:542 y:847 d:Drag12_Value
+EndSlot
+Insert
+t:If v:(o) x:481 y:802 d:Drag13_If
+Slot
+t:KeyUnderPress v:(o) x:559 y:797 d:Drag14_KeyUnderPress
+Slot
+t:KeyIndex x:603 y:792 d:Drag15_KeyIndex v:(n)4
+EndSlot
+EndSlot
+Insert
+t:BodyMove v:(o) x:498 y:742 d:Drag16_BodyMove
+Slot
+t:StringValue v:(s)9pSzbPdT x:556 y:737 d:Drag17_StringValue
+t:V3Axis x:680 y:737 d:Drag18_V3Axis v:(n)2
+EndSlot
+EndInsert
+t:If v:(o) x:481 y:677 d:Drag19_If
+Slot
+t:KeyUnderPress v:(o) x:559 y:672 d:Drag20_KeyUnderPress
+Slot
+t:KeyIndex x:603 y:667 d:Drag21_KeyIndex v:(n)5
+EndSlot
+EndSlot
+Insert
+t:BodyMove v:(o) x:498 y:617 d:Drag22_BodyMove
+Slot
+t:StringValue v:(s)9pSzbPdT x:556 y:607 d:Drag23_StringValue
+t:Tuple3 v:(o) x:680 y:612 d:Drag24_Tuple3
+Slot
+t:Value v:(n)0 x:752 y:607 d:Drag25_Value
+t:Value v:(n)0 x:812 y:607 d:Drag26_Value
+t:Value v:(n)-1 x:872 y:607 d:Drag27_Value
+EndSlot
+EndSlot
+EndInsert
+t:If v:(o) x:481 y:542 d:Drag28_If
+Slot
+t:KeyUnderPress v:(o) x:559 y:537 d:Drag29_KeyUnderPress
+Slot
+t:KeyIndex x:603 y:532 d:Drag30_KeyIndex v:(n)6
+EndSlot
+EndSlot
+Insert
+t:BodyMove v:(o) x:498 y:482 d:Drag31_BodyMove
+Slot
+t:StringValue v:(s)9pSzbPdT x:556 y:477 d:Drag32_StringValue
+t:V3Axis x:680 y:477 d:Drag33_V3Axis v:(n)4
+EndSlot
+EndInsert
+t:If v:(o) x:481 y:417 d:Drag34_If
+Slot
+t:KeyUnderPress v:(o) x:559 y:412 d:Drag35_KeyUnderPress
+Slot
+t:KeyIndex x:603 y:407 d:Drag36_KeyIndex v:(n)7
+EndSlot
+EndSlot
+Insert
+t:BodyMove v:(o) x:498 y:357 d:Drag37_BodyMove
+Slot
+t:StringValue v:(s)9pSzbPdT x:556 y:347 d:Drag38_StringValue
+t:Tuple3 v:(o) x:680 y:352 d:Drag39_Tuple3
+Slot
+t:Value v:(n)1 x:752 y:347 d:Drag40_Value
+t:Value v:(n)0 x:812 y:347 d:Drag41_Value
+t:Value v:(n)0 x:872 y:347 d:Drag42_Value
+EndSlot
+EndSlot
+EndInsert
+EndInsert
+EndInsert
+EndInsert

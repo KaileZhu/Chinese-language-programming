@@ -1,0 +1,64 @@
+﻿t:Subs x:430 y:957 d:Drag1_Subs
+Insert
+t:Setup v:(o) x:447 y:942 d:Drag31_Setup
+Insert
+t:Rem v:(s)HCAbUvpexomRmK1kPmVoVkNR9k4dIC9mAE4qTvtOoVI= x:464 y:892 d:Drag62_Rem
+t:Rem v:(s)C3qPXhpP537tfhFUC07Qj0yIDP9GTy9m+06hUnZeoWwJZ8t6O1KMWxBiAjBTX/tOoVKMWxBi9mUM/xpP0I9MiAdjmluEdlBbC3qPXg== x:464 y:842 d:Drag63_Rem
+t:Rem v:(s)CWebTu2L5VPqUwln+06hUoxbEGJLTg5UTWIJZ0hlAjD5W45OxomRmK1kPmVoVmVn9IsM/xwgt4OXXztg9mV/lR0gMVzFX3uYSXswUvtOoVKMWxBiS04OVE1i/YDQj0yI x:464 y:792 d:Drag65_Rem
+t:BeginCreateMoviePlayer x:464 y:742 d:Drag44_BeginCreateMoviePlayer
+Slot
+t:StringValue v:(s)rWQ+ZWhWMQA= x:676 y:737 d:Drag33_StringValue
+t:Tuple2 v:(o) x:508 y:702 d:Drag34_Tuple2
+Slot
+t:Value v:(n)0 x:580 y:697 d:Drag35_Value
+t:Value v:(n)0 x:640 y:697 d:Drag36_Value
+EndSlot
+t:CanvasSize v:(o) x:746 y:702 d:Drag37_CanvasSize
+t:Movie v:(s)7WXOmDV1UFtpckFtv34uAG0AcAA0AA== x:536 y:657 d:Drag38_Movie
+t:Value v:(n)100 x:732 y:647 d:Drag39_Value
+t:Value v:(n)1 x:866 y:647 d:Drag40_Value
+t:Sub v:(s) x:578 y:602 d:Drag46_Sub
+Slot
+t:LocalReference v:(s)QQA= x:704 y:597 d:Drag47_LocalReference
+EndSlot
+Insert
+t:Print x:595 y:552 d:Drag50_Print
+Slot
+t:StrAdd x:639 y:547 d:Drag70_StrAdd
+Slot
+t:StringValue v:(s)+06hUoxbEGL2ZRr/ x:651 y:537 d:Drag71_StringValue
+t:GetMoviePlayerLength x:819 y:542 d:Drag72_GetMoviePlayerLength
+Slot
+t:StringValue v:(s)rWQ+ZWhWMQA= x:961 y:537 d:Drag73_StringValue
+EndSlot
+EndSlot
+EndSlot
+t:Print x:595 y:482 d:Drag53_Print
+Slot
+t:StringValue v:(s)XAA= x:639 y:477 d:Drag54_StringValue
+EndSlot
+EndInsert
+EndSlot
+t:SetMoviePlayerColor v:(o) x:464 y:412 d:Drag41_SetMoviePlayerColor
+Slot
+t:StringValue v:(s)rWQ+ZWhWMQA= x:606 y:407 d:Drag42_StringValue
+t:Palette x:738 y:407 d:Drag43_Palette v:(c)(116,227,255,255)
+EndSlot
+t:Rem v:(s)C3qPXtCPTIgwUtmPzJH2ZQz/+06hUohf71P9gNiPoWwJZ4xbEGIM/0Bi5U7Zj8yRHCC3g5dfO2D2ZX+VHSDvU/2AGk+XXzBSMAA= x:464 y:362 d:Drag61_Rem
+t:Print x:464 y:312 d:Drag56_Print
+Slot
+t:StrAdd x:508 y:307 d:Drag68_StrAdd
+Slot
+t:StringValue v:(s)C3qPXud+7X7Qj0yI9mUa/w== x:520 y:297 d:Drag69_StringValue
+t:GetMoviePlayerLength x:716 y:302 d:Drag57_GetMoviePlayerLength
+Slot
+t:StringValue v:(s)rWQ+ZWhWMQA= x:858 y:297 d:Drag58_StringValue
+EndSlot
+EndSlot
+EndSlot
+t:Print x:464 y:242 d:Drag59_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:237 d:Drag60_StringValue
+EndSlot
+EndInsert
+EndInsert

@@ -1,0 +1,68 @@
+﻿t:Subs x:430 y:830 d:Drag1_Subs
+Insert
+t:Setup x:447 y:815 d:Drag270_Setup
+Insert
+t:CreateLabel x:464 y:765 d:Drag271_CreateLabel
+Slot
+t:StringValue v:(s)H2Z6eg== x:597 y:760 d:Drag272_StringValue
+t:Tuple2 x:508 y:725 d:Drag273_Tuple2
+Slot
+t:Value v:(n)0 x:580 y:720 d:Drag274_Value
+t:Value v:(n)0 x:640 y:720 d:Drag275_Value
+EndSlot
+t:Tuple2 x:746 y:725 d:Drag276_Tuple2
+Slot
+t:Value v:(n)400 x:818 y:720 d:Drag277_Value
+t:Value v:(n)100 x:892 y:720 d:Drag278_Value
+EndSlot
+t:Palette x:536 y:680 d:Drag279_Palette v:(c)(93,114,255,255)
+t:Align x:755 y:680 d:Drag280_Align v:(n)4
+t:StringValue v:(s)H2Z6eiFq32I= x:536 y:645 d:Drag281_StringValue
+EndSlot
+t:CreateLabel x:464 y:600 d:Drag282_CreateLabel
+Slot
+t:StringValue v:(s)FGzhbA== x:597 y:595 d:Drag283_StringValue
+t:Tuple2 x:508 y:560 d:Drag284_Tuple2
+Slot
+t:Value v:(n)0 x:580 y:555 d:Drag285_Value
+t:Value v:(n)150 x:640 y:555 d:Drag286_Value
+EndSlot
+t:Tuple2 x:760 y:560 d:Drag287_Tuple2
+Slot
+t:Value v:(n)400 x:832 y:555 d:Drag288_Value
+t:Value v:(n)100 x:906 y:555 d:Drag289_Value
+EndSlot
+t:Palette x:536 y:515 d:Drag290_Palette v:(c)(19,202,229,255)
+t:Align x:755 y:515 d:Drag291_Align v:(n)4
+t:StringValue v:(s)FGzhbCFq32I= x:536 y:480 d:Drag292_StringValue
+EndSlot
+t:HandleMouseDown v:(o) x:464 y:435 d:Drag293_HandleMouseDown
+Slot
+t:StringValue v:(s)H2Z6eg== x:550 y:430 d:Drag294_StringValue
+t:Sub v:(s)H2Z6egljC04= x:508 y:395 d:Drag295_Sub
+Slot
+t:LocalReference v:(s)QQA= x:680 y:390 d:Drag296_LocalReference
+EndSlot
+Insert
+t:Jump v:(o) x:525 y:345 d:Drag297_Jump
+Slot
+t:StringValue v:(s)MQAxAB9menohat9i x:597 y:340 d:Drag298_StringValue
+EndSlot
+EndInsert
+EndSlot
+t:HandleMouseDown v:(o) x:464 y:275 d:Drag299_HandleMouseDown
+Slot
+t:StringValue v:(s)FGzhbA== x:550 y:270 d:Drag300_StringValue
+t:Sub v:(s)FGzhbAljC04= x:508 y:235 d:Drag301_Sub
+Slot
+t:LocalReference v:(s)QQA= x:680 y:230 d:Drag302_LocalReference
+EndSlot
+Insert
+t:Jump v:(o) x:525 y:185 d:Drag303_Jump
+Slot
+t:StringValue v:(s)MQAyABRs4WxLbdWL x:597 y:180 d:Drag304_StringValue
+EndSlot
+EndInsert
+EndSlot
+EndInsert
+EndInsert

@@ -1,0 +1,66 @@
+﻿t:Subs x:430 y:980 d:Drag1_Subs
+Insert
+t:Setup x:447 y:965 d:Drag93_Setup
+Insert
+t:Let v:(o) x:464 y:915 d:Drag94_Let
+Slot
+t:Reference v:(s)YQA= x:494 y:910 d:Drag95_Reference
+t:Value v:(n)15 x:586 y:910 d:Drag96_Value
+EndSlot
+t:Let v:(o) x:464 y:865 d:Drag97_Let
+Slot
+t:Reference v:(s)YgA= x:494 y:855 d:Drag98_Reference
+t:Tuple2 x:586 y:860 d:Drag99_Tuple2
+Slot
+t:Value v:(n)3 x:658 y:855 d:Drag100_Value
+t:Value v:(n)4 x:718 y:855 d:Drag101_Value
+EndSlot
+EndSlot
+t:Let v:(o) x:464 y:805 d:Drag102_Let
+Slot
+t:Reference v:(s)YwA= x:494 y:727.5 d:Drag103_Reference
+t:Group v:(o) x:586 y:800 d:Drag104_Group
+Insert
+t:Value v:(n)10 x:603 y:750 d:Drag105_Value
+t:Value v:(n)20 x:603 y:710 d:Drag106_Value
+t:Value v:(n)30 x:603 y:670 d:Drag107_Value
+EndInsert
+EndSlot
+t:Print x:464 y:610 d:Drag108_Print
+Slot
+t:CalcExpress v:(s)KABjAFsAMQBdACsAYQApACoAMgAwACsANQA= x:508 y:605 d:Drag109_CalcExpress
+EndSlot
+t:Print x:464 y:550 d:Drag110_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:545 d:Drag111_StringValue
+EndSlot
+t:Print x:464 y:500 d:Drag112_Print
+Slot
+t:CalcExpress v:(s)LQBhAF4AMgA= x:508 y:495 d:Drag113_CalcExpress
+EndSlot
+t:Print x:464 y:440 d:Drag114_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:435 d:Drag115_StringValue
+EndSlot
+t:Print x:464 y:390 d:Drag116_Print
+Slot
+t:CalcExpress v:(s)YwBbADIAXQArAGMAWwAxAF0AKwBjAFsAMABdAA== x:508 y:385 d:Drag117_CalcExpress
+EndSlot
+t:Print x:464 y:330 d:Drag118_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:325 d:Drag119_StringValue
+EndSlot
+t:Print x:464 y:280 d:Drag120_Print
+Slot
+t:CalcExpress v:(s)PAAtAD4AYgA= x:508 y:275 d:Drag121_CalcExpress
+EndSlot
+t:Print x:464 y:220 d:Drag122_Print
+Slot
+t:StringValue v:(s)XAA= x:508 y:215 d:Drag123_StringValue
+EndSlot
+t:Print x:464 y:170 d:Drag124_Print
+Slot
+t:CalcExpress v:(s)IgARVM+Rf5WmXhr/IgAmACgAPAB8AD4AYgApACYAIgARVM+RuWURVBr/IgAmACgAPABfAD4AYgApAA== x:508 y:165 d:Drag125_CalcExpress
+EndSlot
+EndInsert
+EndInsert
